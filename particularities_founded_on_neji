@@ -1,0 +1,17 @@
+tree annotations;
+NLP steps in a sequential order - only the needed ones are used - Tokenization, POS, lemmatization, chunking, dependency parsing
+
+They use a Deterministic finite automaton to the input string to process the string once and kepp the focus on the interesting things
+The DFA and regular expressions are used to get all the names from dictionaries , the equal and similar ones that are linked with an identifier, a concept, allowing infer the founded entity;
+
+Dictionaries: Identifier + List of names;
+	IDENTIFIERS : “source:identifier:type:group”;
+	NAMES: separated by "|".
+	
+The priority is defined by a file with the name of the dictionaries by priority order(one per line)
+
+Machine learning is made (through Gimli) using CRFS from MALLET;
+
+paralell processing to improve the efficiency.
+
+
