@@ -15,26 +15,29 @@
 
 package pt.ua.tm.neji.postprocessing;
 
+import java.io.ByteArrayInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.List;
+
+import org.slf4j.LoggerFactory;
+
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-import org.slf4j.LoggerFactory;
-import pt.ua.tm.neji.exception.NejiException;
 import pt.ua.tm.neji.core.annotation.Annotation;
 import pt.ua.tm.neji.core.annotation.AnnotationImpl;
 import pt.ua.tm.neji.core.annotation.Identifier;
-import pt.ua.tm.neji.core.corpus.*;
-import pt.ua.tm.neji.pipeline.DefaultPipeline;
-import pt.ua.tm.neji.exception.NejiException;
-import pt.ua.tm.neji.parser.GDepParser;
+import pt.ua.tm.neji.core.corpus.Corpus;
+import pt.ua.tm.neji.core.corpus.Sentence;
 import pt.ua.tm.neji.core.parser.Parser;
 import pt.ua.tm.neji.core.parser.ParserLanguage;
 import pt.ua.tm.neji.core.parser.ParserLevel;
+import pt.ua.tm.neji.exception.NejiException;
+import pt.ua.tm.neji.parser.GDepParser;
+import pt.ua.tm.neji.pipeline.DefaultPipeline;
 import pt.ua.tm.neji.sentencesplitter.LingpipeSentenceSplitter;
 import pt.ua.tm.neji.tree.TreeNode;
-
-import java.io.*;
-import java.util.List;
 
 /**
  * Testing class for abbreviation module, which looks for abbreviations that

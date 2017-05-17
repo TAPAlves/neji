@@ -15,246 +15,256 @@
 
 package pt.ua.tm.neji.pipeline;
 
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
 import pt.ua.tm.neji.core.corpus.Corpus;
 import pt.ua.tm.neji.core.corpus.Sentence;
 import pt.ua.tm.neji.core.corpus.Token;
-import pt.ua.tm.neji.core.module.*;
+import pt.ua.tm.neji.core.module.DynamicNLP;
+import pt.ua.tm.neji.core.module.Module;
+import pt.ua.tm.neji.core.module.Provides;
+import pt.ua.tm.neji.core.module.Reader;
+import pt.ua.tm.neji.core.module.Requires;
+import pt.ua.tm.neji.core.module.Resource;
+import pt.ua.tm.neji.core.module.Writer;
 import pt.ua.tm.neji.core.parser.ParserLevel;
 import pt.ua.tm.neji.core.pipeline.PipelineValidator;
 import pt.ua.tm.neji.exception.NejiException;
 import pt.ua.tm.neji.tree.Tree;
-
-import java.util.*;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:emod@ua.pt">emod@ua.pt</a>))
  * @version 1.0
  */
 public class DefaultPipelineValidator implements PipelineValidator {
-    
-    private static final String $module_name$ = "<MODULE_NAME>";
-    private static final String $resource_name$ = "<RESOURCE_NAME>";
 
-    private static final String NO_REQUIRES_MESSAGE =
-            "The specified module '" + $module_name$ + "' must implement the \'Requires\' Java annotation.";
+	private static final String $module_name$ = "<MODULE_NAME>";
+	private static final String $resource_name$ = "<RESOURCE_NAME>";
 
-    private static final String NO_PROVIDES_MESSAGE =
-            "The specified module '" + $module_name$ + "' must implement the \'Provides\' Java annotation.";
+	private static final String NO_REQUIRES_MESSAGE =
+			"The specified module '" + $module_name$ + "' must implement the \'Requires\' Java annotation.";
 
-    private static final String REQUIRED_NOT_PROVIDED_MESSAGE = "The specified module '" + $module_name$ +
-            "' requires '" + $resource_name$ + "', which were not provided by earlier modules in the pipeline. " +
-            "A module or a corpus that provides '" + $resource_name$ + "' must be added to the pipeline before " +
-            "adding '" + $module_name$ + "'.";
+	private static final String NO_PROVIDES_MESSAGE =
+			"The specified module '" + $module_name$ + "' must implement the \'Provides\' Java annotation.";
 
-    private static final String WAS_ALREADY_PROVIDED_MESSAGE = "The specified module '" + $module_name$ +
-            "' provides '" + $resource_name$ + "', which were already provided by earlier modules in the " +
-            "pipeline. One pipeline can contain multiple modules that provide '" +
-            Resource.Annotations.toString() + "' or '" + Resource.Relations.toString() + "', but can only " +
-            "contain one module for each of the other resources.";
+	private static final String REQUIRED_NOT_PROVIDED_MESSAGE = "The specified module '" + $module_name$ +
+			"' requires '" + $resource_name$ + "', which were not provided by earlier modules in the pipeline. " +
+			"A module or a corpus that provides '" + $resource_name$ + "' must be added to the pipeline before " +
+			"adding '" + $module_name$ + "'.";
 
-    private static final String INVALID_DYNAMIC_NLP_MESSAGE = "The specified module '" + $module_name$ +
-            "' that provides or requires '" + Resource.DynamicNLP + "' must implement the '" +
-            DynamicNLP.class.getSimpleName() + "' interface, as well as its methods.";
+	private static final String WAS_ALREADY_PROVIDED_MESSAGE = "The specified module '" + $module_name$ +
+			"' provides '" + $resource_name$ + "', which were already provided by earlier modules in the " +
+			"pipeline. One pipeline can contain multiple modules that provide '" +
+			Resource.Annotations.toString() + "' or '" + Resource.Relations.toString() + "', but can only " +
+			"contain one module for each of the other resources.";
 
-
-    private final DefaultPipeline defaultPipeline;
-
-    public DefaultPipelineValidator(DefaultPipeline defaultPipeline) {
-        this.defaultPipeline = defaultPipeline;
-    }
+	private static final String INVALID_DYNAMIC_NLP_MESSAGE = "The specified module '" + $module_name$ +
+			"' that provides or requires '" + Resource.DynamicNLP + "' must implement the '" +
+			DynamicNLP.class.getSimpleName() + "' interface, as well as its methods.";
 
 
-    /**
-     * {@inheritDoc}
-     */
-    @Override
-    public void validate() throws NejiException {
-        Corpus corpus = defaultPipeline.getCorpus();
-        Reader reader = defaultPipeline.getReader();
-        List<Module> processingList = defaultPipeline.getProcessingList();
-        List<Writer> writerList = defaultPipeline.getWriterList();
+	private final DefaultPipeline defaultPipeline;
 
-        // the provides list that will be iteratively used for validation
-        Set<Resource> providedList = new HashSet<>();
-        Set<Resource> providedListFromCorpus =  getProvidedFromCorpus(corpus);
-
-        Class<? extends Module> moduleClass;
-        String moduleName;
-        Provides provides;
-        Requires requires;
+	public DefaultPipelineValidator(DefaultPipeline defaultPipeline) {
+		this.defaultPipeline = defaultPipeline;
+	}
 
 
-        // Reader does not need the 'Requires' annotation, so check and add the provided features to the provides list
-        if(reader!=null) {
-            moduleClass = reader.getClass();
-            provides = moduleClass.getAnnotation(Provides.class);
-            validateProvides(moduleClass.getSimpleName(), providedList, provides);
-            addProvides(reader, providedList, provides.value());
-        }
+	/**
+	 * {@inheritDoc}
+	 */
+	@Override
+	public void validate() throws NejiException {
+		Corpus corpus = defaultPipeline.getCorpus();
+		Reader reader = defaultPipeline.getReader();
+		List<Module> processingList = defaultPipeline.getProcessingList();
+		List<Writer> writerList = defaultPipeline.getWriterList();
+
+		// the provides list that will be iteratively used for validation
+		Set<Resource> providedList = new HashSet<>();
+		Set<Resource> providedListFromCorpus =  getProvidedFromCorpus(corpus);
+
+		Class<? extends Module> moduleClass;
+		String moduleName;
+		Provides provides;
+		Requires requires;
 
 
-        for(Module m : processingList) {
-            moduleClass = m.getClass();
-            moduleName = moduleClass.getSimpleName();
-
-            // Checks for each Module in the modules list if the 'Provides' list contains the Required features
-            requires = moduleClass.getAnnotation(Requires.class);
-            validateRequires(m, providedList, providedListFromCorpus, requires);
-
-
-            // once every 'Required' feature passes validation, check and add the provided features to the provides list
-            provides = moduleClass.getAnnotation(Provides.class);
-            validateProvides(moduleName, providedList, provides);
-            addProvides(m, providedList, provides.value());
-        }
+		// Reader does not need the 'Requires' annotation, so check and add the provided features to the provides list
+		if(reader!=null) {
+			moduleClass = reader.getClass();
+			provides = moduleClass.getAnnotation(Provides.class);
+			validateProvides(moduleClass.getSimpleName(), providedList, provides);
+			addProvides(reader, providedList, provides.value());
+		}
 
 
-        // Writer does not need the 'Provides' annotation, so validate each required features with the provides list
-        for(Writer w : writerList) {
-            requires = w.getClass().getAnnotation(Requires.class);
-            validateRequires(w, providedList, providedListFromCorpus, requires);
-        }
-    }
+		for(Module m : processingList) {
+			moduleClass = m.getClass();
+			moduleName = moduleClass.getSimpleName();
 
-    private Set<Resource> getProvidedFromCorpus(Corpus corpus) {
+			// Checks for each Module in the modules list if the 'Provides' list contains the Required features
+			requires = moduleClass.getAnnotation(Requires.class);
+			validateRequires(m, providedList, providedListFromCorpus, requires);
 
-        final Set<Resource> providedList = new HashSet<>();
-        // the following booleans are only used to avoid unnecessary checks and calls,
-        // since the provided list doesn't need to check for duplicates
-        boolean hasTokens = false,
-                hasChunks = false,
-                hasLemmas = false,
-                hasPOS = false,
-                hasDependencies = false,
-                hasAnnotations = false,
-                hasRelations = false;
 
-        if (!corpus.getSentences().isEmpty()) {
-            providedList.add(Resource.Sentences);
+			// once every 'Required' feature passes validation, check and add the provided features to the provides list
+			provides = moduleClass.getAnnotation(Provides.class);
+			validateProvides(moduleName, providedList, provides);
+			addProvides(m, providedList, provides.value());
+		}
 
-            for (Sentence s : corpus.getSentences()) {
-                if (!s.getTokens().isEmpty()) {
 
-                    if (!hasTokens) {
-                        providedList.add(Resource.Tokens);
-                        hasTokens = true;
-                    }
+		// Writer does not need the 'Provides' annotation, so validate each required features with the provides list
+		for(Writer w : writerList) {
+			requires = w.getClass().getAnnotation(Requires.class);
+			validateRequires(w, providedList, providedListFromCorpus, requires);
+		}
+	}
 
-                    for (Token t : s.getTokens()) {
-                        if (!hasLemmas && t.getFeaturesMap().containsKey("LEMMA")) {
-                            providedList.add(Resource.Lemmas);
-                            hasLemmas = true;
-                        }
-                        if (!hasPOS && t.getFeaturesMap().containsKey("POS")) {
-                            providedList.add(Resource.POS);
-                            hasPOS = true;
-                        }
-                    }
-                }
+	private Set<Resource> getProvidedFromCorpus(Corpus corpus) {
 
-                if (!hasChunks && !s.getChunks().isEmpty()) {
-                    providedList.add(Resource.Chunks);
-                    hasChunks = true;
-                }
+		final Set<Resource> providedList = new HashSet<>();
+		// the following booleans are only used to avoid unnecessary checks and calls,
+		// since the provided list doesn't need to check for duplicates
+		boolean hasTokens = false,
+				hasChunks = false,
+				hasLemmas = false,
+				hasPOS = false,
+				hasDependencies = false,
+				hasAnnotations = false,
+				hasRelations = false;
 
-                if (!hasDependencies && !s.getDependencyGraph().vertexSet().isEmpty()) {
-                    providedList.add(Resource.Dependencies);
-                    hasDependencies = true;
-                }
+		if (!corpus.getSentences().isEmpty()) {
+			providedList.add(Resource.Sentences);
 
-                if (!hasAnnotations && !s.getTreeAnnotations(Tree.TreeTraversalOrderEnum.PRE_ORDER, false).isEmpty()) {
-                    providedList.add(Resource.Annotations);
-                    hasAnnotations = true;
-                }
+			for (Sentence s : corpus.getSentences()) {
+				if (!s.getTokens().isEmpty()) {
 
-                if (!hasRelations && !s.getRelations().isEmpty()) {
-                    providedList.add(Resource.Relations);
-                    hasRelations = true;
-                }
+					if (!hasTokens) {
+						providedList.add(Resource.Tokens);
+						hasTokens = true;
+					}
 
-            }
-        }
-        return providedList;
-    }
+					for (Token t : s.getTokens()) {
+						if (!hasLemmas && t.getFeaturesMap().containsKey("LEMMA")) {
+							providedList.add(Resource.Lemmas);
+							hasLemmas = true;
+						}
+						if (!hasPOS && t.getFeaturesMap().containsKey("POS")) {
+							providedList.add(Resource.POS);
+							hasPOS = true;
+						}
+					}
+				}
 
-    private void validateProvides(String moduleName, Set<Resource> providedList, Provides p) throws NejiException {
-        if (p==null) {
-            throw new NejiException(NO_PROVIDES_MESSAGE
-                    .replaceAll($module_name$, moduleName));
-        }
+				if (!hasChunks && !s.getChunks().isEmpty()) {
+					providedList.add(Resource.Chunks);
+					hasChunks = true;
+				}
 
-        for(Resource f : p.value()) {
-            if(providedList.contains(f) && !f.equals(Resource.Annotations) && !f.equals(Resource.Relations)) {
-                throw new NejiException(WAS_ALREADY_PROVIDED_MESSAGE
-                        .replaceAll($module_name$, moduleName)
-                        .replaceAll($resource_name$, f.name()));
-            }
-        }
-    }
+				if (!hasDependencies && !s.getDependencyGraph().vertexSet().isEmpty()) {
+					providedList.add(Resource.Dependencies);
+					hasDependencies = true;
+				}
 
-    private void validateRequires(Module m,
-                                  Set<Resource> providedList,
-                                  Set<Resource> providedListFromCorpus,
-                                  Requires r) throws NejiException {
-        String moduleName = m.getClass().getSimpleName();
-        if (r==null) {
-            throw new NejiException(NO_REQUIRES_MESSAGE
-                    .replaceAll($module_name$, moduleName));
-        }
+				if (!hasAnnotations && !s.getTreeAnnotations(Tree.TreeTraversalOrderEnum.PRE_ORDER, false).isEmpty()) {
+					providedList.add(Resource.Annotations);
+					hasAnnotations = true;
+				}
 
-        for(Resource f : r.value()) {
+				if (!hasRelations && !s.getRelations().isEmpty()) {
+					providedList.add(Resource.Relations);
+					hasRelations = true;
+				}
 
-            // if one of the 'Required' features is 'DynamicNLP', access the module's 'getLevels' method and
-            // validates the obtained Resource levels with the provided list
-            if(f.equals(Resource.DynamicNLP)){
-                Collection<Resource> levels = getDynamicNLPLevels(m);
-                for(Resource l : levels) {
-                    if(!providedList.contains(l) && !providedListFromCorpus.contains(l)) {
-                        throw new NejiException(REQUIRED_NOT_PROVIDED_MESSAGE
-                                .replaceAll($module_name$, moduleName)
-                                .replaceAll($resource_name$, l.name()));
-                    }
-                }
+			}
+		}
+		return providedList;
+	}
 
-            } else if(!providedList.contains(f) && !providedListFromCorpus.contains(f)) {
-                throw new NejiException(REQUIRED_NOT_PROVIDED_MESSAGE
-                        .replaceAll($module_name$, moduleName)
-                        .replaceAll($resource_name$, f.name()));
-            }
-        }
-    }
+	private void validateProvides(String moduleName, Set<Resource> providedList, Provides p) throws NejiException {
+		if (p==null) {
+			throw new NejiException(NO_PROVIDES_MESSAGE
+					.replaceAll($module_name$, moduleName));
+		}
 
-    private void addProvides(Module m, Set<Resource> providedList, Resource[] values) throws NejiException {
-        for(Resource f : values) {
-            if(f.equals(Resource.DynamicNLP)) {
-                Collection<Resource> levels = getDynamicNLPLevels(m);
-                providedList.addAll(levels);
-            } else {
-                providedList.add(f);
-            }
-        }
-    }
+		for(Resource f : p.value()) {
+			if(providedList.contains(f) && !f.equals(Resource.Annotations) && !f.equals(Resource.Relations)) {
+				throw new NejiException(WAS_ALREADY_PROVIDED_MESSAGE
+						.replaceAll($module_name$, moduleName)
+						.replaceAll($resource_name$, f.name()));
+			}
+		}
+	}
 
-    private Collection<Resource> getDynamicNLPLevels(Module m) throws NejiException {
-        if(Arrays.asList(m.getClass().getInterfaces()).contains(DynamicNLP.class)){
-            DynamicNLP module = (DynamicNLP)m;
-            Collection<ParserLevel> usedLevels = module.getLevels();
+	private void validateRequires(Module m,
+			Set<Resource> providedList,
+			Set<Resource> providedListFromCorpus,
+			Requires r) throws NejiException {
+		String moduleName = m.getClass().getSimpleName();
+		if (r==null) {
+			throw new NejiException(NO_REQUIRES_MESSAGE
+					.replaceAll($module_name$, moduleName));
+		}
 
-            Set<Resource> resources = new HashSet<>();
-            for (ParserLevel lvl : usedLevels) {
-                switch (lvl) {
-                    case TOKENIZATION:  resources.add(Resource.Tokens); break;
-                    case LEMMATIZATION: resources.add(Resource.Lemmas); break;
-                    case CHUNKING:      resources.add(Resource.Chunks); break;
-                    case POS:           resources.add(Resource.POS); break;
-                    case DEPENDENCY:    resources.add(Resource.Dependencies); break;
-                }
-            }
-            return resources;
+		for(Resource f : r.value()) {
 
-        } else {
-            throw new NejiException(INVALID_DYNAMIC_NLP_MESSAGE
-                    .replaceAll($module_name$, m.getClass().getSimpleName()));
-        }
-    }
+			// if one of the 'Required' features is 'DynamicNLP', access the module's 'getLevels' method and
+			// validates the obtained Resource levels with the provided list
+			if(f.equals(Resource.DynamicNLP)){
+				Collection<Resource> levels = getDynamicNLPLevels(m);
+				for(Resource l : levels) {
+					if(!providedList.contains(l) && !providedListFromCorpus.contains(l)) {
+						throw new NejiException(REQUIRED_NOT_PROVIDED_MESSAGE
+								.replaceAll($module_name$, moduleName)
+								.replaceAll($resource_name$, l.name()));
+					}
+				}
+
+			} else if(!providedList.contains(f) && !providedListFromCorpus.contains(f)) {
+				throw new NejiException(REQUIRED_NOT_PROVIDED_MESSAGE
+						.replaceAll($module_name$, moduleName)
+						.replaceAll($resource_name$, f.name()));
+			}
+		}
+	}
+
+	private void addProvides(Module m, Set<Resource> providedList, Resource[] values) throws NejiException {
+		for(Resource f : values) {
+			if(f.equals(Resource.DynamicNLP)) {
+				Collection<Resource> levels = getDynamicNLPLevels(m);
+				providedList.addAll(levels);
+			} else {
+				providedList.add(f);
+			}
+		}
+	}
+
+	private Collection<Resource> getDynamicNLPLevels(Module m) throws NejiException {
+		if(Arrays.asList(m.getClass().getInterfaces()).contains(DynamicNLP.class)){
+			DynamicNLP module = (DynamicNLP)m;
+			Collection<ParserLevel> usedLevels = module.getLevels();
+
+			Set<Resource> resources = new HashSet<>();
+			for (ParserLevel lvl : usedLevels) {
+				switch (lvl) {
+				case TOKENIZATION:  resources.add(Resource.Tokens); break;
+				case LEMMATIZATION: resources.add(Resource.Lemmas); break;
+				case CHUNKING:      resources.add(Resource.Chunks); break;
+				case POS:           resources.add(Resource.POS); break;
+				case DEPENDENCY:    resources.add(Resource.Dependencies); break;
+				}
+			}
+			return resources;
+
+		} else {
+			throw new NejiException(INVALID_DYNAMIC_NLP_MESSAGE
+					.replaceAll($module_name$, m.getClass().getSimpleName()));
+		}
+	}
 }

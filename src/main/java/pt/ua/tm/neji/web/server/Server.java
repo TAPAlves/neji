@@ -15,6 +15,28 @@
 
 package pt.ua.tm.neji.web.server;
 
+import static pt.ua.tm.neji.web.WebConstants.DICTIONARIES_PATH;
+import static pt.ua.tm.neji.web.WebConstants.DICTIONARIES_PRIORITY_PATH;
+import static pt.ua.tm.neji.web.WebConstants.MODELS_PATH;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStream;
+import java.nio.charset.StandardCharsets;
+import java.security.ProtectionDomain;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
+
 import org.apache.commons.collections.ListUtils;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
@@ -28,6 +50,7 @@ import org.eclipse.jetty.util.thread.QueuedThreadPool;
 import org.eclipse.jetty.webapp.WebAppContext;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
 import pt.ua.tm.neji.context.Context;
 import pt.ua.tm.neji.exception.NejiException;
 import pt.ua.tm.neji.ml.MLModel;
@@ -38,17 +61,6 @@ import pt.ua.tm.neji.web.database.DefaultDatabaseHandler;
 import pt.ua.tm.neji.web.manage.Dictionary;
 import pt.ua.tm.neji.web.manage.Model;
 import pt.ua.tm.neji.web.services.Service;
-
-import java.io.*;
-import java.nio.charset.StandardCharsets;
-import java.security.ProtectionDomain;
-import java.util.*;
-import java.util.Map.Entry;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
-
-import static pt.ua.tm.neji.web.WebConstants.*;
 
 /**
  * Server to execute the deployable web services.
