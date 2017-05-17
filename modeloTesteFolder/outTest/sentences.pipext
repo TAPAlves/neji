@@ -1,0 +1,1226 @@
+sentences.text||0||2-3||alkaline phosphatases||NN NNS||B-NP I-NP||:::NOCLASS||16||37
+sentences.text||0||5-7||5 - nucleotidase||CD HYPH NN||B-NP I-NP I-NP||:::NOCLASS||42||56
+sentences.text||1||3-4||neonatal hyperbilirubinemia||JJ NN||B-NP I-NP||UMLS:C0857007:T047:DISO||82||109
+sentences.text||5||11||alveolar||JJ||B-NP||UMLS:C1440080:T023:ANAT||524||532
+sentences.text||6||9-10||carbonic anhydrase||JJ NN||B-NP I-NP||:::NOCLASS||601||619
+sentences.text||6||27||cortical||JJ||B-NP||UMLS:C0001613:T023:ANAT||726||734
+sentences.text||6||48||arterial||JJ||B-NP||UMLS:C0003842:T023:ANAT||816||824
+sentences.text||9||2||HMG||NN||I-NP||:::NOCLASS||973||976
+sentences.text||11||0-2||Serum gamma glutamyltransferase||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||1164||1195
+sentences.text||11||7-8||liver disease||NN NN||B-NP I-NP||UMLS:C0023895:T047:DISO||1216||1229
+sentences.text||11||7||liver||NN||B-NP||UMLS:C0023884:T023:ANAT||1216||1221
+sentences.text||12||3-5||secretory HI antibodies||JJ NN NNS||B-NP I-NP I-NP||:::NOCLASS||1254||1277
+sentences.text||14||2||lipase||NN||B-NP||:::NOCLASS||1640||1646
+sentences.text||15||0-2||Takayasu 's disease||NNP POS NN||B-NP B-NP I-NP||UMLS:C0039263:T047:DISO||1657||1675
+sentences.text||15||6-8||HLA - B5||NN HYPH NN||B-NP I-NP I-NP||:::NOCLASS||1694||1700
+sentences.text||16||0||SGPT||NN||B-NP||:::NOCLASS||1702||1706
+sentences.text||16||2||SGOT||NN||B-NP||:::NOCLASS||1708||1712
+sentences.text||16||5-6||alkaline phosphatase||NN NN||B-NP I-NP||:::NOCLASS||1718||1738
+sentences.text||17||0-2||Gamma glutamyl transpeptidase||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||1795||1824
+sentences.text||17||4||GGTP||NN||B-NP||:::NOCLASS||1826||1830
+sentences.text||18||2-4||Parkinson 's disease||NNP POS NN||B-NP B-NP I-NP||UMLS:C0030567:T047:DISO||1876||1895
+sentences.text||19||4-6||alpha - autoreceptors||SYM HYPH NNS||I-NP I-NP B-NP||:::NOCLASS||2009||2028
+sentences.text||23||1||IgG||NN||I-NP||:::NOCLASS||2281||2284
+sentences.text||23||3||gammopathy||NN||I-NP||UMLS:C0178650:T047:DISO||2296||2306
+sentences.text||24||2-3||immunoglobulin E||NN NN||B-NP I-NP||:::NOCLASS||2410||2426
+sentences.text||25||0||Peroxydase||NN||B-NP||:::NOCLASS||2474||2484
+sentences.text||25||6-7||chloroacetate esterase||NN NN||B-NP I-NP||:::NOCLASS||2516||2538
+sentences.text||26||0||Ten||CD||B-NP||UMLS:C0014518:T047:DISO||2563||2566
+sentences.text||26||5-8||pustulosis palmaris et plantaris||NN NN FW FW||B-NP I-NP B-ADVP I-ADVP||UMLS:C0030246:T047:DISO||2585||2617
+sentences.text||26||8||plantaris||FW||I-ADVP||UMLS:C0242693:T023:ANAT||2608||2617
+sentences.text||26||21||fibrinogen||NN||B-NP||:::NOCLASS||2696||2706
+sentences.text||26||23||fibrin||NN||B-NP||:::NOCLASS||2708||2714
+sentences.text||26||29-31||FR - antigen||NN HYPH NN||B-NP I-NP I-NP||:::NOCLASS||2744||2754
+sentences.text||26||49||cryoglobulin||NN||B-NP||:::NOCLASS||2840||2852
+sentences.text||26||53||fibrinogen||NN||I-NP||:::NOCLASS||2870||2880
+sentences.text||27||19||pulmonary||JJ||I-NP||UMLS:C0024109:T023:ANAT||3001||3010
+sentences.text||28||3-4||human albumin||JJ NN||B-NP I-NP||:::NOCLASS||3035||3048
+sentences.text||31||3||galactosaemia||NN||B-NP||UMLS:C0016952:T047:DISO||3458||3471
+sentences.text||33||2-5||amniotic fluid alpha fetoprotein||JJ NN NN NN||I-NP I-NP I-NP I-NP||:::NOCLASS||3557||3589
+sentences.text||34||2||ferritin||NN||I-NP||:::NOCLASS||3676||3684
+sentences.text||34||6||haemochromatosis||NN||B-NP||UMLS:C0018995:T047:DISO||3701||3717
+sentences.text||36||4||hypothyroidism||NN||B-NP||UMLS:C0020676:T047:DISO||3830||3844
+sentences.text||37||0||Albumin||NN||B-NP||:::NOCLASS||3846||3853
+sentences.text||39||5-7||Legionnaires ' disease||NNP POS NN||B-NP B-NP I-NP||UMLS:C0023241:T047:DISO||3942||3963
+sentences.text||40||3||hand||NN||I-NP||UMLS:C0018563:T023:ANAT||4117||4121
+sentences.text||40||4-5||factor IX||NN CD||I-NP I-NP||:::NOCLASS||4122||4131
+sentences.text||40||13-14||factor IX||NN CD||B-NP I-NP||:::NOCLASS||4181||4190
+sentences.text||41||3-6||alpha 2 - macroglobulin||SYM CD HYPH NN||B-NP I-NP I-NP I-NP||:::NOCLASS||4238||4259
+sentences.text||41||8-11||alpha 1 - antitrypsin||SYM CD HYPH NN||B-NP I-NP I-NP I-NP||:::NOCLASS||4261||4280
+sentences.text||41||13||plasminogen||NN||B-NP||:::NOCLASS||4282||4293
+sentences.text||41||15-17||C3 - complement||NN HYPH NN||B-NP B-NP I-NP||:::NOCLASS||4295||4308
+sentences.text||41||19-21||fibrinogen degradation products||NN NN NNS||B-NP I-NP I-NP||:::NOCLASS||4310||4341
+sentences.text||41||23||FDP||NN||B-NP||:::NOCLASS||4343||4346
+sentences.text||41||41-44||Fuchs ' endothelial dystrophy||NNP POS JJ NN||B-NP B-NP I-NP I-NP||UMLS:C0016781:T047:DISO||4444||4472
+sentences.text||44||0||T4||NN||B-NP||UMLS:C1235738:T023:ANAT||4721||4723
+sentences.text||46||6-9||platelet cyclo - oxygenase||NN NN HYPH NN||B-NP I-NP B-NP I-NP||:::NOCLASS||5053||5077
+sentences.text||48||11||T3||NN||B-NP||UMLS:C1235740:T023:ANAT||5334||5336
+sentences.text||49||12||thyroid||NN||B-NP||UMLS:C0040132:T023:ANAT||5478||5485
+sentences.text||49||16||TBG||NN||B-NP||:::NOCLASS||5505||5508
+sentences.text||49||27||thyroid||JJ||B-NP||UMLS:C0040132:T023:ANAT||5576||5583
+sentences.text||51||21||eyes||NNS||I-NP||UMLS:C0015392:T023:ANAT||5914||5918
+sentences.text||54||24-28||Type IV glycogen storage disease||NN CD NN NN NN||B-NP I-NP I-NP I-NP I-NP||UMLS:C0017923:T047:DISO||6429||6461
+sentences.text||54||30-32||Andersen 's disease||NNP POS NN||B-NP B-NP I-NP||UMLS:C0017923:T047:DISO||6463||6481
+sentences.text||54||44||defect||NN||I-NP||UMLS:C1861101:T047:DISO||6540||6546
+sentences.text||57||32||muscles||NNS||I-NP||UMLS:C1995013:T023:ANAT||6889||6896
+sentences.text||58||0-1||Hemolytic disease||JJ NN||B-NP I-NP||UMLS:C1263988:T047:DISO||6898||6915
+sentences.text||59||32||myocarditis||NN||I-NP||UMLS:C0027059:T047:DISO||7080||7091
+sentences.text||59||42||oesophagus||NN||I-NP||UMLS:C0014876:T023:ANAT||7140||7150
+sentences.text||61||2-4||Down 's syndrome||NNP POS NN||B-NP B-NP I-NP||UMLS:C0013080:T047:DISO||7333||7348
+sentences.text||61||6||trisomy||NN||B-NP||UMLS:C0041107:T047:DISO||7350||7357
+sentences.text||65||5||capillary||JJ||I-NP||UMLS:C0935624:T023:ANAT||7572||7581
+sentences.text||67||9-10||serum ceruloplasmin||NN NN||I-NP I-NP||:::NOCLASS||7909||7928
+sentences.text||68||42||vaginal||JJ||I-NP||UMLS:C0042232:T023:ANAT||8207||8214
+sentences.text||69||12||pulmonary||JJ||B-NP||UMLS:C0024109:T023:ANAT||8296||8305
+sentences.text||70||7||nasal||JJ||I-NP||UMLS:C0028429:T023:ANAT||8460||8465
+sentences.text||70||8||cavities||NNS||I-NP||UMLS:C0011334:T047:DISO||8466||8474
+sentences.text||70||18||larynx||NN||I-NP||UMLS:C0023078:T023:ANAT||8531||8537
+sentences.text||70||20||trachea||NN||I-NP||UMLS:C0040578:T023:ANAT||8539||8546
+sentences.text||70||22||stem||NN||I-NP||UMLS:C1186763:T023:ANAT||8551||8555
+sentences.text||70||23||bronchi||NN||I-NP||UMLS:C0006255:T023:ANAT||8556||8563
+sentences.text||72||1-2||human fibrinogen||JJ NN||I-NP I-NP||:::NOCLASS||8619||8635
+sentences.text||72||9||thrombin||NN||B-NP||:::NOCLASS||8673||8681
+sentences.text||74||20||HindIII||NN||I-NP||:::NOCLASS||8861||8868
+sentences.text||74||22||EcoRI||NN||I-NP||:::NOCLASS||8869||8874
+sentences.text||76||16-17||left ventricle||VBD NN||B-VP B-NP||UMLS:C0225897:T023:ANAT||9289||9303
+sentences.text||77||8||Bubo||NN||B-NP||UMLS:C0221382:T047:DISO||9403||9407
+sentences.text||78||1-2||inner ears||JJ NNS||I-NP I-NP||UMLS:C0022889:T023:ANAT||9505||9515
+sentences.text||79||20||column||NN||I-NP||UMLS:C1185738:T023:ANAT||9826||9832
+sentences.text||85||16||FH||NN||B-NP||UMLS:C0745103:T047:DISO||10724||10726
+sentences.text||85||19-21||coronary heart disease||JJ NN NN||I-NP I-NP I-NP||UMLS:C0010068:T047:DISO||10736||10758
+sentences.text||85||19||coronary||JJ||I-NP||UMLS:C0018787:T023:ANAT||10736||10744
+sentences.text||85||20||heart||NN||I-NP||UMLS:C0018787:T023:ANAT||10745||10750
+sentences.text||89||4||diaphragm||NN||I-NP||UMLS:C0011980:T023:ANAT||11145||11154
+sentences.text||90||0-2||Ectopic ACTH syndrome||JJ NN NN||B-NP I-NP I-NP||UMLS:C0001231:T047:DISO||11191||11212
+sentences.text||90||1||ACTH||NN||I-NP||:::NOCLASS||11199||11203
+sentences.text||90||4||medullary||JJ||B-NP||UMLS:C0001629:T023:ANAT||11217||11226
+sentences.text||90||5||thyroid||NN||I-NP||UMLS:C0040132:T023:ANAT||11227||11234
+sentences.text||91||14||ACTH||NN||I-NP||:::NOCLASS||11325||11329
+sentences.text||91||16||MSH||NN||I-NP||:::NOCLASS||11334||11337
+sentences.text||92||11||rickets||NNS||I-NP||UMLS:C0035579:T047:DISO||11412||11419
+sentences.text||93||5-6||serum LH||NN NN||B-NP I-NP||:::NOCLASS||11454||11462
+sentences.text||93||10||bone||NN||I-NP||UMLS:C0262950:T023:ANAT||11484||11488
+sentences.text||95||11||kidney||NN||B-NP||UMLS:C0022646:T023:ANAT||11708||11714
+sentences.text||96||7-9||tricarboxylic acid dehydrogenase||JJ NN NN||B-NP I-NP I-NP||:::NOCLASS||11841||11873
+sentences.text||96||13||brain||NN||I-NP||UMLS:C0006104:T023:ANAT||11891||11896
+sentences.text||98||3-5||hepatitis B antigen||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||12063||12082
+sentences.text||98||3-4||hepatitis B||NN NN||B-NP I-NP||UMLS:C0019163:T047:DISO||12063||12074
+sentences.text||99||31-33||acute myocardial infarction||JJ JJ NN||B-NP I-NP I-NP||UMLS:C0155626:T047:DISO||12281||12308
+sentences.text||101||6-7||cytochrome oxidase||NN NN||B-NP I-NP||:::NOCLASS||12397||12415
+sentences.text||101||9||peroxidase||NN||B-NP||:::NOCLASS||12417||12427
+sentences.text||102||5||pseudohypoparathyroidism||NN||B-NP||UMLS:C0033806:T047:DISO||12563||12587
+sentences.text||103||21-22||bronchial hyperreactivity||JJ NN||B-NP I-NP||UMLS:C0085129:T047:DISO||12861||12886
+sentences.text||103||21||bronchial||JJ||B-NP||UMLS:C1442216:T023:ANAT||12861||12870
+sentences.text||104||11||limb||NN||B-NP||UMLS:C0015385:T023:ANAT||12953||12957
+sentences.text||104||31||limb||NN||I-NP||UMLS:C0015385:T023:ANAT||13045||13049
+sentences.text||104||54||limb||NN||I-NP||UMLS:C0015385:T023:ANAT||13191||13195
+sentences.text||104||68||venous||JJ||I-NP||UMLS:C0042449:T023:ANAT||13269||13275
+sentences.text||104||72-75||beta - Vasodilator receptors||SYM HYPH NN NNS||B-NP B-VP B-NP I-NP||:::NOCLASS||13289||13315
+sentences.text||105||17-18||rat liver||NN NN||I-NP I-NP||UMLS:C1882726:T023:ANAT||13493||13502
+sentences.text||106||2-9||25 - hydroxyvitamin D3 - 24 - hydroxylase||CD HYPH NN NN HYPH CD HYPH NN||B-NP I-NP I-NP I-NP B-NP I-NP I-NP I-NP||:::NOCLASS||13527||13562
+sentences.text||106||14-18||cytochrome P - 450 monooxygenase||NN NN HYPH CD NN||I-NP I-NP B-NP I-NP I-NP||:::NOCLASS||13583||13613
+sentences.text||107||8-9||DBP mRNA||NN NN||I-NP I-NP||:::NOCLASS||13659||13667
+sentences.text||108||10||ACTH||NN||I-NP||:::NOCLASS||13809||13813
+sentences.text||109||0-1||Serum ACTH||NN NN||B-NP I-NP||:::NOCLASS||13839||13849
+sentences.text||109||6||insulin||NN||B-NP||:::NOCLASS||13869||13876
+sentences.text||112||0-2||Gamma glutamyl transpeptidase||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||14173||14202
+sentences.text||115||0-1||Dopamine receptor||NN NN||B-NP I-NP||:::NOCLASS||14467||14484
+sentences.text||120||2-5||maternal serum somatomedin A||JJ NN NN NN||B-NP I-NP I-NP I-NP||:::NOCLASS||14786||14814
+sentences.text||121||10-11||5S genes||NN NNS||I-NP I-NP||:::NOCLASS||14931||14939
+sentences.text||121||35-40||X . laevis oocyte 5S DNA||NN . NN NN NN NN||B-NP O B-NP I-NP I-NP I-NP||:::NOCLASS||15057||15080
+sentences.text||125||3||infections||NNS||I-NP||UMLS:C0021311:T047:DISO||15350||15360
+sentences.text||127||10-11||retrocochlear disease||JJ NN||B-NP I-NP||UMLS:C0035352:T047:DISO||15841||15862
+sentences.text||128||8-10||proliferative diabetic retinopathy||JJ JJ NN||B-NP I-NP I-NP||UMLS:C0154830:T047:DISO||15903||15937
+sentences.text||129||4-5||serum alpha1AT||NN NN||B-NP I-NP||:::NOCLASS||16018||16032
+sentences.text||132||1||uterine||JJ||I-NP||UMLS:C0042149:T023:ANAT||16380||16387
+sentences.text||132||32||infertile||JJ||I-NP||UMLS:C0021359:T047:DISO||16586||16595
+sentences.text||133||27||abscesses||NNS||B-NP||UMLS:C0000833:T047:DISO||16741||16750
+sentences.text||134||4||calcitonin||NN||I-NP||:::NOCLASS||16922||16932
+sentences.text||134||10-12||chronic renal failure||JJ JJ NN||B-NP I-NP I-NP||UMLS:C0022661:T047:DISO||16961||16982
+sentences.text||134||11||renal||JJ||I-NP||UMLS:C0022646:T023:ANAT||16969||16974
+sentences.text||135||8||immunoperoxidase||NN||I-NP||:::NOCLASS||17034||17050
+sentences.text||135||9||antiglobulin||NN||I-NP||:::NOCLASS||17051||17063
+sentences.text||136||3-4||serum GH||NN NN||B-NP I-NP||:::NOCLASS||17089||17097
+sentences.text||136||14||insulin||NN||B-NP||:::NOCLASS||17145||17152
+sentences.text||136||17||hypoglycemia||NN||I-NP||UMLS:C0020615:T047:DISO||17161||17173
+sentences.text||137||12||infections||NNS||I-NP||UMLS:C0021311:T047:DISO||17283||17293
+sentences.text||141||8-10||type B antigen||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||17697||17711
+sentences.text||143||3-4||haematological disorders||JJ NNS||B-NP I-NP||UMLS:C0018939:T047:DISO||17786||17810
+sentences.text||144||21-23||Escherichia coli endotoxin||FW FW NN||B-NP I-NP I-NP||:::NOCLASS||17926||17952
+sentences.text||145||0||Gonadal||JJ||B-NP||UMLS:C0018067:T023:ANAT||17972||17979
+sentences.text||145||5-6||ataxia telangiectasia||NN NN||B-NP I-NP||UMLS:C0004135:T047:DISO||18009||18030
+sentences.text||148||6||osteodystrophy||NN||I-NP||UMLS:C0264009:T047:DISO||18276||18290
+sentences.text||148||11-13||vitamin D deficiency||NN NN NN||I-NP I-NP I-NP||UMLS:C0042870:T047:DISO||18317||18337
+sentences.text||148||18||condition||NN||I-NP||UMLS:C0012634:T047:DISO||18350||18359
+sentences.text||148||34-35||secondary hyperparathyroidism||JJ NN||B-NP I-NP||UMLS:C0020503:T047:DISO||18447||18476
+sentences.text||148||37-38||renal failure||JJ NN||B-NP I-NP||UMLS:C0341697:T047:DISO||18480||18493
+sentences.text||148||37||renal||JJ||B-NP||UMLS:C0022646:T023:ANAT||18480||18485
+sentences.text||149||1||FSH||NN||I-NP||:::NOCLASS||18501||18504
+sentences.text||149||3||LH||NN||I-NP||:::NOCLASS||18509||18511
+sentences.text||149||12||GnRH||NN||B-NP||:::NOCLASS||18562||18566
+sentences.text||149||17||FSH||NN||I-NP||:::NOCLASS||18592||18595
+sentences.text||149||19||LH||NN||I-NP||:::NOCLASS||18600||18602
+sentences.text||150||19||breast||NN||B-NP||UMLS:C0006141:T023:ANAT||18751||18757
+sentences.text||151||5-6||luteinizing hormone||VBG NN||B-VP B-NP||:::NOCLASS||18788||18807
+sentences.text||151||8||LH||NN||B-NP||:::NOCLASS||18809||18811
+sentences.text||151||11-13||follicle stimulating hormone||NN VBG NN||B-NP B-VP B-NP||:::NOCLASS||18814||18842
+sentences.text||151||11||follicle||NN||B-NP||UMLS:C0018120:T023:ANAT||18814||18822
+sentences.text||151||15||FSH||NN||B-NP||:::NOCLASS||18844||18847
+sentences.text||151||18||prolactin||NN||B-NP||:::NOCLASS||18850||18859
+sentences.text||151||20||HPRL||NN||B-NP||:::NOCLASS||18861||18865
+sentences.text||152||0||Renin||NN||B-NP||:::NOCLASS||18975||18980
+sentences.text||152||19-20||plasma renin||NN NN||B-NP I-NP||:::NOCLASS||19092||19104
+sentences.text||152||37-39||renal artery stenosis||JJ NN NN||I-NP I-NP I-NP||UMLS:C0035067:T047:DISO||19206||19227
+sentences.text||152||37-38||renal artery||JJ NN||I-NP I-NP||UMLS:C0035065:T023:ANAT||19206||19218
+sentences.text||153||12-13||typhoid fever||JJ NN||B-NP I-NP||UMLS:C0041466:T047:DISO||19312||19325
+sentences.text||153||19||marrow||NN||I-NP||UMLS:C0376152:T023:ANAT||19347||19353
+sentences.text||153||56||relapse||NN||B-NP||UMLS:C0277556:T047:DISO||19561||19568
+sentences.text||155||0||Bone||NN||B-NP||UMLS:C0262950:T023:ANAT||19583||19587
+sentences.text||155||1||marrow||NN||I-NP||UMLS:C0376152:T023:ANAT||19588||19594
+sentences.text||156||10-11||dopamine receptor||NN NN||I-NP I-NP||:::NOCLASS||19672||19689
+sentences.text||158||5||pepsin||NN||B-NP||:::NOCLASS||19921||19927
+sentences.text||158||8||gastric||JJ||I-NP||UMLS:C0038351:T023:ANAT||19937||19944
+sentences.text||158||22-23||duodenal ulcer||JJ NN||B-NP I-NP||UMLS:C0013295:T047:DISO||20011||20025
+sentences.text||161||8||ALS||NN||B-NP||UMLS:C0002736:T047:DISO||20257||20260
+sentences.text||166||19||intestinal||JJ||I-NP||UMLS:C0021853:T023:ANAT||20625||20635
+sentences.text||167||22||vascular||JJ||B-NP||UMLS:C0005847:T023:ANAT||20743||20751
+sentences.text||167||23||cavities||NNS||I-NP||UMLS:C0011334:T047:DISO||20752||20760
+sentences.text||169||16||venous||JJ||B-NP||UMLS:C0042449:T023:ANAT||20861||20867
+sentences.text||170||3||renal||JJ||B-NP||UMLS:C0022646:T023:ANAT||20900||20905
+sentences.text||171||2||emphysema||NN||B-NP||UMLS:C0034067:T047:DISO||20930||20939
+sentences.text||171||22-24||chronic lung disease||JJ NN NN||I-NP I-NP I-NP||UMLS:C0746102:T047:DISO||21062||21082
+sentences.text||171||23||lung||NN||I-NP||UMLS:C0024109:T023:ANAT||21070||21074
+sentences.text||174||4||brucellosis||NN||I-NP||UMLS:C0006309:T047:DISO||21262||21273
+sentences.text||175||0||Intestinal||JJ||B-NP||UMLS:C0021853:T023:ANAT||21285||21295
+sentences.text||176||12-13||plasma renin||NN NN||I-NP I-NP||:::NOCLASS||21399||21411
+sentences.text||178||3-4||chronic osteomyelitis||JJ NN||B-NP I-NP||UMLS:C0008707:T047:DISO||21667||21688
+sentences.text||178||8||os||NNS||B-NP||UMLS:C2936904:T047:DISO||21706||21708
+sentences.text||179||13||diaphragm||NN||I-NP||UMLS:C0011980:T023:ANAT||21854||21863
+sentences.text||181||8||cochlear||JJ||I-NP||UMLS:C0009195:T023:ANAT||22117||22125
+sentences.text||181||22-23||scala tympani||NN NNS||I-NP I-NP||UMLS:C0036264:T023:ANAT||22198||22211
+sentences.text||182||17-18||human prolactin||JJ NN||B-NP I-NP||:::NOCLASS||22397||22412
+sentences.text||182||37-38||human prolactin||JJ NN||B-NP I-NP||:::NOCLASS||22511||22526
+sentences.text||185||4||venous||JJ||B-NP||UMLS:C0042449:T023:ANAT||22594||22600
+sentences.text||185||8-9||beta receptor||NN NN||B-NP I-NP||:::NOCLASS||22622||22635
+sentences.text||186||13-14||bovine gammaglobulin||JJ NN||B-NP I-NP||:::NOCLASS||22779||22799
+sentences.text||191||1||ferritin||NN||I-NP||:::NOCLASS||23221||23229
+sentences.text||191||4||bone||NN||B-NP||UMLS:C0262950:T023:ANAT||23248||23252
+sentences.text||191||5||marrow||NN||I-NP||UMLS:C0376152:T023:ANAT||23253||23259
+sentences.text||192||9-10||left ventricle||JJ NN||I-NP I-NP||UMLS:C0225897:T023:ANAT||23322||23336
+sentences.text||192||15-16||left atrium||JJ NN||B-NP I-NP||UMLS:C0225860:T023:ANAT||23346||23357
+sentences.text||193||8||vaginal||JJ||B-NP||UMLS:C0042232:T023:ANAT||23479||23486
+sentences.text||193||12||uterine||JJ||B-NP||UMLS:C0042149:T023:ANAT||23499||23506
+sentences.text||195||0||Cryoglobulinemia||NN||B-NP||UMLS:C0010403:T047:DISO||23692||23708
+sentences.text||195||2-4||Raynaud 's syndrome||NNP POS NN||B-NP B-NP I-NP||UMLS:C0034734:T047:DISO||23712||23730
+sentences.text||197||2-3||serum IgA||NN NN||I-NP I-NP||:::NOCLASS||23887||23896
+sentences.text||197||12||bronchial||JJ||B-NP||UMLS:C1442216:T023:ANAT||23955||23964
+sentences.text||197||19||lung||NN||I-NP||UMLS:C0024109:T023:ANAT||24008||24012
+sentences.text||197||26||IgA||NN||B-NP||:::NOCLASS||24051||24054
+sentences.text||199||26||heart||NN||I-NP||UMLS:C0018787:T023:ANAT||24312||24317
+sentences.text||201||5||IgE||NN||I-NP||UMLS:C0270850:T047:DISO||24655||24658
+sentences.text||201||16||ABPA||NNP||B-NP||UMLS:C0004031:T047:DISO||24711||24715
+sentences.text||202||29||SD||NN||B-NP||UMLS:C1096903:T047:DISO||24829||24831
+sentences.text||203||3||hemoglobin||NN||B-NP||:::NOCLASS||24849||24859
+sentences.text||206||5-6||streptolysin O||NN NN||B-NP I-NP||:::NOCLASS||25321||25335
+sentences.text||210||13-14||trigeminal nuclei||JJ NNS||I-NP I-NP||UMLS:C0040999:T023:ANAT||25894||25911
+sentences.text||213||1||calcaneal||JJ||I-NP||UMLS:C0006655:T023:ANAT||26225||26234
+sentences.text||213||2-3||tuberculous osteomyelitis||JJ NN||I-NP I-NP||UMLS:C0275922:T047:DISO||26235||26260
+sentences.text||214||4-5||opiate receptors||JJ NNS||B-NP I-NP||:::NOCLASS||26283||26299
+sentences.text||214||9||cerebral||JJ||I-NP||UMLS:C0228174:T023:ANAT||26321||26329
+sentences.text||214||10||ventricle||NN||I-NP||UMLS:C2355627:T023:ANAT||26330||26339
+sentences.text||215||6-7||internal carotid||JJ NN||I-NP I-NP||UMLS:C0741978:T023:ANAT||26439||26455
+sentences.text||215||9-11||common carotid artery||JJ NN NN||I-NP I-NP I-NP||UMLS:C0162859:T023:ANAT||26460||26481
+sentences.text||217||21||syndrome||NN||I-NP||UMLS:C0039082:T047:DISO||26785||26793
+sentences.text||217||29-30||acute pancreatitis||JJ NN||B-NP I-NP||UMLS:C0001339:T047:DISO||26830||26848
+sentences.text||224||9||insulin||NN||B-NP||:::NOCLASS||27681||27688
+sentences.text||225||21-22||alkaline phosphatase||NN NN||B-NP I-NP||:::NOCLASS||27811||27831
+sentences.text||232||4||ten||CD||B-NP||UMLS:C0014518:T047:DISO||28702||28705
+sentences.text||232||13||liver||NN||B-NP||UMLS:C0023884:T023:ANAT||28753||28758
+sentences.text||232||15||renal||JJ||I-NP||UMLS:C0022646:T023:ANAT||28763||28768
+sentences.text||233||15-16||diffuse glomerulonephritis||JJ NN||B-NP I-NP||UMLS:C0859036:T047:DISO||28926||28952
+sentences.text||234||10-11||hepatitis A||NN NN||B-NP I-NP||UMLS:C0019159:T047:DISO||29013||29024
+sentences.text||234||17-18||hepatitis A||NN NN||B-NP I-NP||UMLS:C0019159:T047:DISO||29048||29059
+sentences.text||235||7||oesophagitis||NN||B-NP||UMLS:C0014868:T047:DISO||29158||29170
+sentences.text||236||15-16||steroid sulphatase||NN NN||B-NP I-NP||:::NOCLASS||29296||29314
+sentences.text||236||16-17||sulphatase deficiency||NN NN||I-NP I-NP||UMLS:C1283601:T047:DISO||29304||29325
+sentences.text||237||29||organs||NNS||I-NP||UMLS:C0178784:T023:ANAT||29533||29539
+sentences.text||238||4||transferrin||NN||B-NP||:::NOCLASS||29567||29578
+sentences.text||239||19||collagen||NN||B-NP||:::NOCLASS||29732||29740
+sentences.text||241||50-51||vena cephalica||NN NN||I-NP I-NP||UMLS:C0226802:T023:ANAT||30149||30163
+sentences.text||242||44||SD||NN||I-NP||UMLS:C1096903:T047:DISO||30342||30344
+sentences.text||245||9||gastric||JJ||I-NP||UMLS:C0038351:T023:ANAT||30752||30759
+sentences.text||245||10||venous||JJ||I-NP||UMLS:C0042449:T023:ANAT||30760||30766
+sentences.text||246||2||re||AFX||B-NP||UMLS:C0228327:T023:ANAT||30944||30946
+sentences.text||246||18||re||AFX||B-NP||UMLS:C0228327:T023:ANAT||31035||31037
+sentences.text||249||16||duct||NN||I-NP||UMLS:C0687028:T023:ANAT||31443||31447
+sentences.text||249||19||gland||NN||I-NP||UMLS:C1285092:T023:ANAT||31455||31460
+sentences.text||250||1||fed||VBN||B-NP||UMLS:C0342895:T047:DISO||31469||31472
+sentences.text||250||12||fed||VBN||B-NP||UMLS:C0342895:T047:DISO||31536||31539
+sentences.text||256||6||detrusor||NN||I-NP||UMLS:C1180419:T023:ANAT||32327||32335
+sentences.text||257||2||duodenum||NN||I-NP||UMLS:C0013303:T023:ANAT||32357||32365
+sentences.text||259||2-4||Graves ' disease||NN POS NN||B-NP B-NP I-NP||UMLS:C0018213:T047:DISO||32514||32529
+sentences.text||264||4||prolactin||NN||I-NP||:::NOCLASS||33115||33124
+sentences.text||264||13||follicular||JJ||I-NP||UMLS:C1571705:T023:ANAT||33178||33188
+sentences.text||264||38||infertility||NN||B-NP||UMLS:C0021359:T047:DISO||33295||33306
+sentences.text||265||0||Ovarian||JJ||B-NP||UMLS:C0205065:T023:ANAT||33308||33315
+sentences.text||267||2||asthma||NN||B-NP||UMLS:C0004096:T047:DISO||33420||33426
+sentences.text||267||7||IgE||NN||B-NP||UMLS:C0270850:T047:DISO||33456||33459
+sentences.text||267||14-16||allergospecific IgE antibodies||JJ NN NNS||B-NP I-NP I-NP||:::NOCLASS||33496||33526
+sentences.text||267||15||IgE||NN||I-NP||UMLS:C0270850:T047:DISO||33512||33515
+sentences.text||269||20||nephropathy||NN||B-NP||UMLS:C0022658:T047:DISO||33782||33793
+sentences.text||269||22-23||renal insufficiency||JJ NN||B-NP I-NP||UMLS:C1565489:T047:DISO||33798||33817
+sentences.text||269||22||renal||JJ||B-NP||UMLS:C0022646:T023:ANAT||33798||33803
+sentences.text||269||32-33||fibrin monomers||NN NNS||B-NP I-NP||:::NOCLASS||33854||33869
+sentences.text||270||7||azoospermia||NN||B-NP||UMLS:C1321542:T047:DISO||34005||34016
+sentences.text||270||19||FSH||NN||B-NP||:::NOCLASS||34075||34078
+sentences.text||271||2||prolactin||NN||I-NP||:::NOCLASS||34183||34192
+sentences.text||271||22||prolactin||NN||B-NP||:::NOCLASS||34278||34287
+sentences.text||272||17||pineal||NN||I-NP||UMLS:C0031939:T023:ANAT||34403||34409
+sentences.text||272||27||blind||JJ||I-NP||UMLS:C0456909:T047:DISO||34468||34473
+sentences.text||274||2||hemoglobin||NN||I-NP||:::NOCLASS||34539||34549
+sentences.text||276||15||intestinal||JJ||I-NP||UMLS:C0021853:T023:ANAT||34916||34926
+sentences.text||277||3||IgG||NN||B-NP||:::NOCLASS||35036||35039
+sentences.text||277||5||IgM||NN||I-NP||:::NOCLASS||35044||35047
+sentences.text||277||18||IgA||NN||I-NP||:::NOCLASS||35114||35117
+sentences.text||278||1-3||ischemic heart disease||JJ NN NN||I-NP I-NP I-NP||UMLS:C0151744:T047:DISO||35151||35173
+sentences.text||278||2||heart||NN||I-NP||UMLS:C0018787:T023:ANAT||35160||35165
+sentences.text||278||7||A2||NN||I-NP||UMLS:C0935080:T023:ANAT||35197||35199
+sentences.text||279||2||ocular||JJ||B-NP||UMLS:C0015392:T023:ANAT||35226||35232
+sentences.text||280||7||brain||NN||I-NP||UMLS:C0006104:T023:ANAT||35287||35292
+sentences.text||282||4||lysozyme||NN||I-NP||:::NOCLASS||35504||35512
+sentences.text||282||13-14||bacterial meningitis||JJ NN||I-NP I-NP||UMLS:C0085437:T047:DISO||35569||35589
+sentences.text||285||40||heart||NN||B-NP||UMLS:C0018787:T023:ANAT||35999||36004
+sentences.text||286||11||coronary||JJ||I-NP||UMLS:C0018787:T023:ANAT||36278||36286
+sentences.text||287||4||collagen||NN||I-NP||:::NOCLASS||36331||36339
+sentences.text||287||14||tendon||NN||B-NP||UMLS:C0039508:T023:ANAT||36389||36395
+sentences.text||288||8||pulmonary||JJ||B-NP||UMLS:C0024109:T023:ANAT||36447||36456
+sentences.text||289||4||lentigo||NN||I-NP||UMLS:C0023321:T047:DISO||36494||36501
+sentences.text||290||2||bagassosis||NN||B-NP||UMLS:C0004681:T047:DISO||36518||36528
+sentences.text||291||30-35||alpha - and beta - adrenoceptors||SYM HYPH CC SYM HYPH NNS||B-NP B-ADJP O B-NP B-VP B-NP||:::NOCLASS||36772||36800
+sentences.text||294||5||aca||NN||I-NP||UMLS:C0149561:T023:ANAT||37091||37094
+sentences.text||299||5||renin||NN||I-NP||:::NOCLASS||37558||37563
+sentences.text||299||8-9||essential hypertension||JJ NN||B-NP I-NP||UMLS:C0085580:T047:DISO||37576||37598
+sentences.text||300||2||bone||NN||B-NP||UMLS:C0262950:T023:ANAT||37618||37622
+sentences.text||302||6||hyperbilirubinemia||NN||B-NP||UMLS:C0020433:T047:DISO||37776||37794
+sentences.text||307||8-9||superoxide dismutase||NN NN||B-NP I-NP||:::NOCLASS||38372||38392
+sentences.text||310||27||PDA||NN||B-NP||UMLS:C0226047:T023:ANAT||38739||38742
+sentences.text||311||5-6||visual pathway||JJ NN||I-NP I-NP||UMLS:C0587900:T023:ANAT||38804||38818
+sentences.text||313||12||nasal||JJ||I-NP||UMLS:C0028429:T023:ANAT||38989||38994
+sentences.text||315||2||liver||NN||B-NP||UMLS:C0023884:T023:ANAT||39130||39135
+sentences.text||315||8||hepatitis||NN||B-NP||UMLS:C0019159:T047:DISO||39172||39181
+sentences.text||315||20||liver||NN||I-NP||UMLS:C0023884:T023:ANAT||39239||39244
+sentences.text||315||21||ferritin||NN||I-NP||:::NOCLASS||39245||39253
+sentences.text||316||7||infection||NN||B-NP||UMLS:C0021311:T047:DISO||39314||39323
+sentences.text||317||10||liver||NN||I-NP||UMLS:C0023884:T023:ANAT||39386||39391
+sentences.text||318||0||Angiotensin||NN||B-NP||:::NOCLASS||39417||39428
+sentences.text||318||5||kidney||NN||I-NP||UMLS:C0022646:T023:ANAT||39449||39455
+sentences.text||319||31||macula||NN||I-NP||UMLS:C0227662:T023:ANAT||39665||39671
+sentences.text||320||11||duct||NN||I-NP||UMLS:C0687028:T023:ANAT||39750||39754
+sentences.text||321||0||Silicosis||NN||B-NP||UMLS:C0037116:T047:DISO||39762||39771
+sentences.text||322||9-11||intrahepatic biliary tree||JJ JJ NN||I-NP I-NP I-NP||UMLS:C0682625:T023:ANAT||39838||39863
+sentences.text||323||22||fed||VBN||B-VP||UMLS:C0342895:T047:DISO||40000||40003
+sentences.text||324||16-17||myocardial infarction||JJ NN||B-NP I-NP||UMLS:C0027051:T047:DISO||40221||40242
+sentences.text||325||18||endometrium||NN||I-NP||UMLS:C0014180:T023:ANAT||40390||40401
+sentences.text||325||20||cervix||NN||I-NP||UMLS:C0007874:T023:ANAT||40405||40411
+sentences.text||326||5-6||porcine secretin||JJ NN||I-NP I-NP||:::NOCLASS||40449||40465
+sentences.text||326||11||pancreatic||JJ||I-NP||UMLS:C0030274:T023:ANAT||40492||40502
+sentences.text||326||21||pancreas||NN||I-NP||UMLS:C0030274:T023:ANAT||40566||40574
+sentences.text||327||4||lens||NN||I-NP||UMLS:C0023317:T023:ANAT||40610||40614
+sentences.text||329||20||cardiac||JJ||B-NP||UMLS:C0018787:T023:ANAT||40853||40860
+sentences.text||331||3||glomerulonephritis||NN||B-NP||UMLS:C0017658:T047:DISO||41013||41031
+sentences.text||332||7||bronchi||NN||I-NP||UMLS:C0006255:T023:ANAT||41165||41172
+sentences.text||332||28||trachea||NN||I-NP||UMLS:C0040578:T023:ANAT||41281||41288
+sentences.text||333||0-1||Synovial cysts||JJ NNS||B-NP I-NP||UMLS:C0085648:T047:DISO||41290||41304
+sentences.text||333||4||hip||NN||I-NP||UMLS:C0019552:T023:ANAT||41312||41315
+sentences.text||334||2-3||hypothalamic dysfunction||JJ NN||I-NP I-NP||UMLS:C0751230:T047:DISO||41334||41358
+sentences.text||334||2||hypothalamic||JJ||I-NP||UMLS:C0020663:T023:ANAT||41334||41346
+sentences.text||334||8||pituitary||JJ||I-NP||UMLS:C0032005:T023:ANAT||41383||41392
+sentences.text||334||12||GH||NN||B-NP||:::NOCLASS||41416||41418
+sentences.text||335||4||influenza||NN||B-NP||UMLS:C0021400:T047:DISO||41495||41504
+sentences.text||338||2-4||CK - MB||NN HYPH NN||I-NP B-NP I-NP||:::NOCLASS||41914||41919
+sentences.text||338||9||CPK||NN||I-NP||:::NOCLASS||41949||41952
+sentences.text||338||15-17||total - CPK||JJ HYPH NN||I-NP I-NP I-NP||:::NOCLASS||41966||41975
+sentences.text||338||21-22||skeletal muscles||JJ NNS||I-NP I-NP||UMLS:C0242692:T023:ANAT||41994||42010
+sentences.text||338||30-32||CK - MB||NN HYPH NN||B-NP B-NP I-NP||:::NOCLASS||42040||42045
+sentences.text||339||4-6||alkaline phosphatase isoenzymes||NN NN NNS||B-NP I-NP I-NP||:::NOCLASS||42073||42104
+sentences.text||339||11-12||obstructive jaundice||JJ NN||B-NP I-NP||UMLS:C0022354:T047:DISO||42135||42155
+sentences.text||339||14-16||biliary liver cirrhosis||JJ NN NN||B-NP I-NP I-NP||UMLS:C0023892:T047:DISO||42160||42183
+sentences.text||339||15||liver||NN||I-NP||UMLS:C0023884:T023:ANAT||42168||42173
+sentences.text||341||27||cecum||NN||I-NP||UMLS:C0007531:T023:ANAT||42632||42637
+sentences.text||343||0-1||Newcastle disease||JJ NN||B-NP I-NP||UMLS:C0027983:T047:DISO||42708||42725
+sentences.text||344||15||IgA||NN||I-NP||:::NOCLASS||42869||42872
+sentences.text||344||19||intestinal||JJ||I-NP||UMLS:C0021853:T023:ANAT||42892||42902
+sentences.text||344||27-28||IgA deficiency||NN NN||B-NP I-NP||UMLS:C0162538:T047:DISO||42954||42968
+sentences.text||344||27||IgA||NN||B-NP||:::NOCLASS||42954||42957
+sentences.text||344||35-36||intestinal villi||JJ NNS||I-NP I-NP||UMLS:C0227266:T023:ANAT||43008||43024
+sentences.text||344||41-42||lepromatous leprosy||JJ NN||B-NP I-NP||UMLS:C0023348:T047:DISO||43046||43065
+sentences.text||345||2||hypertension||NN||B-NP||UMLS:C0020538:T047:DISO||43080||43092
+sentences.text||345||8-10||adrenergic beta receptor||JJ NN NN||I-NP I-NP I-NP||:::NOCLASS||43119||43143
+sentences.text||347||0-1||Thyroid disease||JJ NN||B-NP I-NP||UMLS:C0040128:T047:DISO||43202||43217
+sentences.text||347||0||Thyroid||JJ||B-NP||UMLS:C0040132:T023:ANAT||43202||43209
+sentences.text||349||2||reflux||NN||B-NP||UMLS:C0017168:T047:DISO||43308||43314
+sentences.text||349||5||blind||JJ||I-NP||UMLS:C0456909:T047:DISO||43324||43329
+sentences.text||349||23||jejunal||JJ||I-NP||UMLS:C0022378:T023:ANAT||43419||43426
+sentences.text||349||46||valve||NN||I-NP||UMLS:C1186983:T023:ANAT||43541||43546
+sentences.text||349||66||ileal||JJ||I-NP||UMLS:C0020885:T023:ANAT||43681||43686
+sentences.text||350||10||ischemia||NN||I-NP||UMLS:C0022116:T047:DISO||43746||43754
+sentences.text||352||6||cerebellar||JJ||I-NP||UMLS:C0007765:T023:ANAT||44079||44089
+sentences.text||352||12||al||FW||I-NP||UMLS:C0268381:T047:DISO||44121||44123
+sentences.text||356||9||B1||NN||B-NP||UMLS:C0507112:T023:ANAT||44511||44513
+sentences.text||357||0-1||Serum relaxin||NN NN||B-NP I-NP||:::NOCLASS||44613||44626
+sentences.text||358||17||arcs||NNS||I-NP||UMLS:C1859722:T047:DISO||44750||44754
+sentences.text||358||104||arcs||NNS||I-NP||UMLS:C1859722:T047:DISO||45144||45148
+sentences.text||358||107||attrition||NN||B-NP||UMLS:C0004277:T047:DISO||45158||45167
+sentences.text||362||5-6||juvenile diabetes||JJ NNS||I-NP I-NP||UMLS:C0011854:T047:DISO||45743||45760
+sentences.text||365||5||HT||NN||I-NP||UMLS:C0677607:T047:DISO||45993||45995
+sentences.text||365||8-12||5 - HT releasing factor||CD HYPH NN VBG NN||B-NP I-NP I-NP B-VP B-NP||:::NOCLASS||46001||46022
+sentences.text||365||10||HT||NN||I-NP||UMLS:C0677607:T047:DISO||46003||46005
+sentences.text||366||4||SIDS||NN||B-NP||UMLS:C0038644:T047:DISO||46082||46086
+sentences.text||370||1-2||motor unit||NN NN||I-NP I-NP||UMLS:C0231502:T023:ANAT||46408||46418
+sentences.text||373||5||Epstein||NNP||B-NP||UMLS:C1396851:T047:DISO||46581||46588
+sentences.text||373||10-11||infectious mononucleosis||JJ NN||B-NP I-NP||UMLS:C0021345:T047:DISO||46603||46627
+sentences.text||374||0-1||Carcinoembryonic antigen||JJ NN||B-NP I-NP||:::NOCLASS||46628||46652
+sentences.text||374||3||CEA||NN||B-NP||:::NOCLASS||46654||46657
+sentences.text||375||4-5||antilymphocyte globulin||NN NN||B-NP I-NP||:::NOCLASS||46720||46743
+sentences.text||375||7||ALG||NN||B-NP||:::NOCLASS||46745||46748
+sentences.text||382||13-14||renal failure||JJ NN||I-NP I-NP||UMLS:C0341697:T047:DISO||47484||47497
+sentences.text||382||13||renal||JJ||I-NP||UMLS:C0022646:T023:ANAT||47484||47489
+sentences.text||384||1-2||transfer factor||NN NN||I-NP I-NP||:::NOCLASS||47610||47625
+sentences.text||386||0-1||Rheumatoid factor||JJ NN||B-NP I-NP||:::NOCLASS||47634||47651
+sentences.text||393||0||Pancreatic||JJ||B-NP||UMLS:C0030274:T023:ANAT||48392||48402
+sentences.text||393||5||gastric||JJ||B-NP||UMLS:C0038351:T023:ANAT||48429||48436
+sentences.text||394||5||sarcoidosis||NN||I-NP||UMLS:C0036202:T047:DISO||48731||48742
+sentences.text||395||8||gallstones||NNS||B-NP||UMLS:C0008350:T047:DISO||48786||48796
+sentences.text||395||16||gallbladder||NN||B-NP||UMLS:C0016976:T023:ANAT||48848||48859
+sentences.text||397||3-4||visual cortex||JJ NN||B-NP I-NP||UMLS:C0042817:T023:ANAT||49210||49223
+sentences.text||397||9-10||superior colliculus||JJ NN||B-NP I-NP||UMLS:C0228405:T023:ANAT||49233||49252
+sentences.text||398||3||MS||NN||B-NP||UMLS:C0026269:T047:DISO||49366||49368
+sentences.text||398||14-15||gamma globulin||NN NN||I-NP I-NP||:::NOCLASS||49425||49439
+sentences.text||400||6||RDS||NN||I-NP||UMLS:C1704437:T047:DISO||49805||49808
+sentences.text||400||13||airway||NN||I-NP||UMLS:C0458827:T023:ANAT||49845||49851
+sentences.text||402||1||bronchial||JJ||I-NP||UMLS:C1442216:T023:ANAT||50033||50042
+sentences.text||402||8-10||pulmonary interstitial emphysema||JJ JJ NN||I-NP I-NP I-NP||UMLS:C0013994:T047:DISO||50086||50118
+sentences.text||402||8||pulmonary||JJ||I-NP||UMLS:C0024109:T023:ANAT||50086||50095
+sentences.text||405||52-55||T - 2 toxin||NN HYPH CD NN||B-NP I-NP I-NP I-NP||:::NOCLASS||50533||50542
+sentences.text||409||2||bladder||NN||B-NP||UMLS:C0005682:T023:ANAT||50881||50888
+sentences.text||409||16||properdin||NN||I-NP||:::NOCLASS||50959||50968
+sentences.text||412||4||plasminogen||NN||B-NP||:::NOCLASS||51151||51162
+sentences.text||412||12||renal||JJ||B-NP||UMLS:C0022646:T023:ANAT||51229||51234
+sentences.text||413||30||condition||NN||I-NP||UMLS:C0012634:T047:DISO||51453||51462
+sentences.text||414||12||infections||NNS||I-NP||UMLS:C0021311:T047:DISO||51538||51548
+sentences.text||419||1||amnionitis||NN||I-NP||UMLS:C0002631:T047:DISO||51981||51991
+sentences.text||419||3||prematurity||NN||I-NP||UMLS:C0728731:T047:DISO||51996||52007
+sentences.text||421||0-1||Bacterial meningitis||JJ NN||B-NP I-NP||UMLS:C0085437:T047:DISO||52078||52098
+sentences.text||421||4||abscess||NN||B-NP||UMLS:C0000833:T047:DISO||52112||52119
+sentences.text||421||7-8||nasal septum||JJ NN||I-NP I-NP||UMLS:C0027432:T023:ANAT||52127||52139
+sentences.text||422||0-1||Serum amylase||NN NN||B-NP I-NP||:::NOCLASS||52141||52154
+sentences.text||423||12||capillary||JJ||I-NP||UMLS:C0935624:T023:ANAT||52320||52329
+sentences.text||424||15-16||birth asphyxia||NN NN||I-NP I-NP||UMLS:C0004045:T047:DISO||52493||52507
+sentences.text||425||19-21||Direct Lytic Factor||JJ JJ NN||I-NP I-NP I-NP||:::NOCLASS||52660||52679
+sentences.text||425||23-25||Phospholipase - A||NN HYPH NN||I-NP B-NP I-NP||:::NOCLASS||52684||52699
+sentences.text||425||39||lung||NN||B-NP||UMLS:C0024109:T023:ANAT||52767||52771
+sentences.text||425||41||cremaster||NN||I-NP||UMLS:C0224377:T023:ANAT||52776||52785
+sentences.text||425||42||vessels||NNS||I-NP||UMLS:C0005847:T023:ANAT||52786||52793
+sentences.text||426||16||osteoarthrosis||NN||B-NP||UMLS:C0029408:T047:DISO||52896||52910
+sentences.text||428||6||limbs||NNS||I-NP||UMLS:C0015385:T023:ANAT||53235||53240
+sentences.text||428||22-23||arm vein||NN NN||I-NP I-NP||UMLS:C0226792:T023:ANAT||53332||53340
+sentences.text||429||7||toxemia||NN||B-NP||UMLS:C0040524:T047:DISO||53416||53423
+sentences.text||430||3||nasal||JJ||B-NP||UMLS:C0028429:T023:ANAT||53482||53487
+sentences.text||430||13||HD||NN||B-NP||UMLS:C0020179:T047:DISO||53537||53539
+sentences.text||430||32-33||IgE antibody||NN NN||I-NP I-NP||:::NOCLASS||53640||53652
+sentences.text||430||32||IgE||NN||I-NP||UMLS:C0270850:T047:DISO||53640||53643
+sentences.text||431||12||ischaemia||NN||B-NP||UMLS:C0022116:T047:DISO||53761||53770
+sentences.text||432||26-27||respiratory tract||JJ NN||B-NP I-NP||UMLS:C0282335:T023:ANAT||53920||53937
+sentences.text||433||15||uterine||JJ||B-NP||UMLS:C0042149:T023:ANAT||54105||54112
+sentences.text||435||23||capillaries||NNS||B-NP||UMLS:C0006901:T023:ANAT||54402||54413
+sentences.text||435||25||bone||NN||B-NP||UMLS:C0262950:T023:ANAT||54417||54421
+sentences.text||436||22||testis||NN||I-NP||UMLS:C0039597:T023:ANAT||54529||54535
+sentences.text||438||3||TSH||NN||I-NP||:::NOCLASS||54725||54728
+sentences.text||438||10||hypothyroidism||NN||B-NP||UMLS:C0020676:T047:DISO||54763||54777
+sentences.text||440||3-6||hepatitis B surface antigen||NN NN NN NN||B-NP I-NP I-NP I-NP||:::NOCLASS||54932||54959
+sentences.text||440||3-4||hepatitis B||NN NN||B-NP I-NP||UMLS:C0019163:T047:DISO||54932||54943
+sentences.text||440||8||HBsAg||NN||B-NP||:::NOCLASS||54961||54966
+sentences.text||440||11-13||anti - HBs||AFX HYPH NNS||B-NP I-NP B-NP||:::NOCLASS||54972||54980
+sentences.text||440||33-34||liver diseases||NN NNS||I-NP I-NP||UMLS:C0023895:T047:DISO||55092||55106
+sentences.text||440||33||liver||NN||I-NP||UMLS:C0023884:T023:ANAT||55092||55097
+sentences.text||441||6-8||acute respiratory failure||JJ JJ NN||B-NP I-NP I-NP||UMLS:C0264490:T047:DISO||55144||55169
+sentences.text||441||17||pulmonary||JJ||I-NP||UMLS:C0024109:T023:ANAT||55232||55241
+sentences.text||442||1||cardiac||JJ||I-NP||UMLS:C0018787:T023:ANAT||55324||55331
+sentences.text||445||5||renal||JJ||B-NP||UMLS:C0022646:T023:ANAT||55674||55679
+sentences.text||445||9-10||spinal cord||JJ NN||I-NP I-NP||UMLS:C0037925:T023:ANAT||55701||55712
+sentences.text||445||10||cord||NN||I-NP||UMLS:C0035334:T047:DISO||55708||55712
+sentences.text||445||15-16||vesicoureteral reflux||JJ NN||I-NP I-NP||UMLS:C0042580:T047:DISO||55745||55766
+sentences.text||446||17||heart||NN||I-NP||UMLS:C0018787:T023:ANAT||55863||55868
+sentences.text||446||35-37||left ventricular myocardium||JJ JJ NN||I-NP I-NP I-NP||UMLS:C0225899:T023:ANAT||55983||56010
+sentences.text||447||5-6||rat larynx||NN NN||I-NP I-NP||UMLS:C1882718:T023:ANAT||56042||56052
+sentences.text||447||11||organ||NN||I-NP||UMLS:C0178784:T023:ANAT||56072||56077
+sentences.text||450||3||infectious||JJ||I-NP||UMLS:C0009450:T047:DISO||56376||56386
+sentences.text||450||15-16||communicable diseases||JJ NNS||B-NP I-NP||UMLS:C0009450:T047:DISO||56451||56472
+sentences.text||452||0-1||Circulatory arrest||JJ NN||B-NP I-NP||UMLS:C0444720:T047:DISO||56704||56722
+sentences.text||455||3||plaque||NN||B-NP||UMLS:C0011389:T047:DISO||57044||57050
+sentences.text||455||7-9||right middle ear||JJ JJ JJ||I-NP I-NP I-NP||UMLS:C0229353:T023:ANAT||57067||57083
+sentences.text||457||14-15||hypertrophic osteoarthropathy||JJ NN||B-NP I-NP||UMLS:C0178703:T047:DISO||57404||57433
+sentences.text||457||17||HOA||NN||B-NP||UMLS:C0409957:T047:DISO||57435||57438
+sentences.text||457||27-28||rheumatoid arthritis||JJ NN||B-NP I-NP||UMLS:C0003873:T047:DISO||57487||57507
+sentences.text||457||30||RA||NN||B-NP||UMLS:C0003873:T047:DISO||57509||57511
+sentences.text||460||3||IgE||NN||I-NP||UMLS:C0270850:T047:DISO||58107||58110
+sentences.text||461||1-3||afferent loop syndrome||JJ NN NN||B-NP I-NP I-NP||UMLS:C0001727:T047:DISO||58154||58176
+sentences.text||461||20||syndrome||NN||I-NP||UMLS:C0039082:T047:DISO||58249||58257
+sentences.text||461||31||Billroth||NNP||B-NP||UMLS:C0741496:T047:DISO||58310||58318
+sentences.text||462||15||elastolysis||NN||I-NP||UMLS:C0010495:T047:DISO||58411||58422
+sentences.text||462||17-18||cutis laxa||NN NN||I-NP I-NP||UMLS:C0010495:T047:DISO||58427||58437
+sentences.text||463||24||AChE||NN||B-NP||:::NOCLASS||58599||58603
+sentences.text||465||20-21||IgE antibodies||NN NNS||I-NP I-NP||:::NOCLASS||58801||58815
+sentences.text||465||20||IgE||NN||I-NP||UMLS:C0270850:T047:DISO||58801||58804
+sentences.text||467||9-10||antithrombin III||NN CD||B-NP I-NP||:::NOCLASS||58933||58949
+sentences.text||471||4-5||parotid gland||NN NN||I-NP I-NP||UMLS:C0030580:T023:ANAT||59253||59266
+sentences.text||473||19||infection||NN||I-NP||UMLS:C0021311:T047:DISO||59378||59387
+sentences.text||475||16-17||DA receptor||NN NN||B-NP I-NP||:::NOCLASS||59614||59625
+sentences.text||477||7||pertussis||NN||I-NP||UMLS:C0043167:T047:DISO||59959||59968
+sentences.text||478||0-1||Primary amenorrhoea||JJ NN||B-NP I-NP||UMLS:C0232939:T047:DISO||60058||60077
+sentences.text||480||15||cerebral||JJ||B-NP||UMLS:C0228174:T023:ANAT||60342||60350
+sentences.text||481||1||gastrin||NN||I-NP||:::NOCLASS||60384||60391
+sentences.text||481||14||gastrin||NN||I-NP||:::NOCLASS||60457||60464
+sentences.text||482||8||putamen||NNS||I-NP||UMLS:C0034169:T023:ANAT||60615||60622
+sentences.text||482||20-21||cerebral cortex||JJ NN||I-NP I-NP||UMLS:C0007776:T023:ANAT||60680||60695
+sentences.text||484||1-2||corpuscular hemoglobin||JJ NN||I-NP I-NP||:::NOCLASS||60916||60938
+sentences.text||485||6||organs||NNS||I-NP||UMLS:C0178784:T023:ANAT||61089||61095
+sentences.text||486||3||calcitonin||NN||B-NP||:::NOCLASS||61277||61287
+sentences.text||486||15||glucagon||NN||I-NP||:::NOCLASS||61346||61354
+sentences.text||488||5-6||lymph vessels||NN NNS||I-NP I-NP||UMLS:C0229889:T023:ANAT||61556||61569
+sentences.text||488||14||limb||NN||I-NP||UMLS:C0015385:T023:ANAT||61596||61600
+sentences.text||488||24||chamber||NN||I-NP||UMLS:C0935616:T023:ANAT||61645||61652
+sentences.text||489||4-5||plasma fibrinogen||NN NN||I-NP I-NP||:::NOCLASS||61789||61806
+sentences.text||490||5||uterine||JJ||B-NP||UMLS:C0042149:T023:ANAT||62055||62062
+sentences.text||491||1||myoglobin||NN||B-NP||:::NOCLASS||62169||62178
+sentences.text||491||8||hemoglobin||NN||I-NP||:::NOCLASS||62204||62214
+sentences.text||491||25||hemoglobin||NN||I-NP||:::NOCLASS||62301||62311
+sentences.text||495||4-5||plasma glucagon||NN NN||B-NP I-NP||:::NOCLASS||62641||62656
+sentences.text||495||7||insulin||NN||I-NP||:::NOCLASS||62661||62668
+sentences.text||496||14||axis||NN||B-NP||UMLS:C0004457:T023:ANAT||62760||62764
+sentences.text||497||10||CA||NN||I-NP||UMLS:C0019564:T023:ANAT||62847||62849
+sentences.text||499||4||coronary||JJ||B-NP||UMLS:C0018787:T023:ANAT||63096||63104
+sentences.text||500||6-7||trunk muscles||NN NNS||B-NP I-NP||UMLS:C0581755:T023:ANAT||63175||63188
+sentences.text||502||3||eye||NN||B-NP||UMLS:C0015392:T023:ANAT||63309||63312
+sentences.text||502||12||syndrome||NN||I-NP||UMLS:C0039082:T047:DISO||63374||63382
+sentences.text||505||9-10||blood vessels||NN NNS||B-NP I-NP||UMLS:C0005847:T023:ANAT||63761||63774
+sentences.text||505||14||ear||NN||I-NP||UMLS:C0013443:T023:ANAT||63789||63792
+sentences.text||505||16-24||2 - - phenylalanine - 8 - lysine vasopressin||CD HYPH HYPH NN HYPH CD HYPH NN NN||B-NP O B-NP I-NP B-NP I-NP I-NP I-NP I-NP||:::NOCLASS||63796||63833
+sentences.text||505||26||Octapressin||NN||B-NP||:::NOCLASS||63835||63846
+sentences.text||508||5||nipple||NN||I-NP||UMLS:C0028109:T023:ANAT||63893||63899
+sentences.text||509||21||lung||NN||I-NP||UMLS:C0024109:T023:ANAT||64101||64105
+sentences.text||509||26||pulmonary||JJ||B-NP||UMLS:C0024109:T023:ANAT||64131||64140
+sentences.text||513||18||Condition||NN||I-NP||UMLS:C0012634:T047:DISO||64512||64521
+sentences.text||514||20-22||beta - lactamase||SYM HYPH NN||B-NP B-VP B-NP||:::NOCLASS||64708||64722
+sentences.text||518||7||caries||NNS||I-NP||UMLS:C0333519:T047:DISO||65119||65125
+sentences.text||522||12-13||antilymphocyte globulin||NN NN||B-NP I-NP||:::NOCLASS||65436||65459
+sentences.text||522||15||ALG||NN||B-NP||:::NOCLASS||65461||65464
+sentences.text||522||20||ALG||NN||B-NP||:::NOCLASS||65482||65485
+sentences.text||523||7||aneurysm||NN||I-NP||UMLS:C0002940:T047:DISO||65647||65655
+sentences.text||523||8||retinitis||NN||I-NP||UMLS:C0035333:T047:DISO||65656||65665
+sentences.text||523||19-21||Coats ' disease||NNP POS NN||B-NP B-NP I-NP||UMLS:C0154832:T047:DISO||65713||65727
+sentences.text||524||0||Fibrin||NN||B-NP||:::NOCLASS||65729||65735
+sentences.text||525||5||pupil||NN||I-NP||UMLS:C0034121:T023:ANAT||65894||65899
+sentences.text||526||42||pleuritis||NN||I-NP||UMLS:C0032231:T047:DISO||66185||66194
+sentences.text||526||48||peritonitis||NN||I-NP||UMLS:C0031154:T047:DISO||66219||66230
+sentences.text||528||0-3||Alpha - 1 antitrypsin||NN HYPH CD NN||B-NP B-NP I-NP I-NP||:::NOCLASS||66436||66455
+sentences.text||528||5-7||Indian childhood cirrhosis||JJ NN NN||B-NP I-NP I-NP||UMLS:C0268074:T047:DISO||66460||66486
+sentences.text||529||3-4||serum IgE||NN NN||B-NP I-NP||:::NOCLASS||66515||66524
+sentences.text||529||4||IgE||NN||I-NP||UMLS:C0270850:T047:DISO||66521||66524
+sentences.text||529||12-13||bronchial asthma||JJ NN||B-NP I-NP||UMLS:C0004096:T047:DISO||66570||66586
+sentences.text||529||12||bronchial||JJ||B-NP||UMLS:C1442216:T023:ANAT||66570||66579
+sentences.text||530||4||ventricular||JJ||I-NP||UMLS:C0018827:T023:ANAT||66606||66617
+sentences.text||531||18||thyroid||JJ||B-NP||UMLS:C0040132:T023:ANAT||66771||66778
+sentences.text||533||2||lung||NN||I-NP||UMLS:C0024109:T023:ANAT||66858||66862
+sentences.text||533||22||lung||NN||I-NP||UMLS:C0024109:T023:ANAT||66981||66985
+sentences.text||533||41||airway||NN||I-NP||UMLS:C0458827:T023:ANAT||67100||67106
+sentences.text||534||3-4||zinc deficiency||NN NN||B-NP I-NP||UMLS:C0235950:T047:DISO||67181||67196
+sentences.text||534||13-14||musculoskeletal disorders||JJ NNS||I-NP I-NP||UMLS:C0026857:T047:DISO||67253||67278
+sentences.text||535||5-6||chronic uremia||JJ NN||B-NP I-NP||UMLS:C1579029:T047:DISO||67317||67331
+sentences.text||536||9||THC||NN||I-NP||UMLS:C1839163:T047:DISO||67372||67375
+sentences.text||538||0||Epididymal||JJ||B-NP||UMLS:C0014533:T023:ANAT||67667||67677
+sentences.text||540||35||ophthalmic||JJ||B-NP||UMLS:C0015392:T023:ANAT||68052||68062
+sentences.text||541||0||IgG||NN||B-NP||:::NOCLASS||68074||68077
+sentences.text||541||13||ten||CD||I-NP||UMLS:C0014518:T047:DISO||68127||68130
+sentences.text||542||4||bone||NN||B-NP||UMLS:C0262950:T023:ANAT||68207||68211
+sentences.text||542||5||marrow||NN||I-NP||UMLS:C0376152:T023:ANAT||68212||68218
+sentences.text||544||25||parasitemia||NN||I-NP||UMLS:C0242723:T047:DISO||68472||68483
+sentences.text||546||7||transferrin||NN||I-NP||:::NOCLASS||68641||68652
+sentences.text||548||0||Thromboplastin||NN||B-NP||:::NOCLASS||69015||69029
+sentences.text||548||4||thromboplastin||NN||I-NP||:::NOCLASS||69044||69058
+sentences.text||548||7||thrombin||NN||B-NP||:::NOCLASS||69065||69073
+sentences.text||548||13||fibrin||NN||I-NP||:::NOCLASS||69095||69101
+sentences.text||548||19-29||clotting factors II , V , VIII , IX , X||VBG NNS CD , CD , CD , CD , NN||B-VP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP||:::NOCLASS||69124||69159
+sentences.text||549||16||eyes||NNS||I-NP||UMLS:C0015392:T023:ANAT||69304||69308
+sentences.text||550||21||hearts||NNS||B-NP||UMLS:C0018787:T023:ANAT||69429||69435
+sentences.text||551||18||cavity||NN||I-NP||UMLS:C0011334:T047:DISO||69572||69578
+sentences.text||551||23||larynx||NN||I-NP||UMLS:C0023078:T023:ANAT||69605||69611
+sentences.text||551||30-32||cervical lymph node||JJ NN NN||I-NP I-NP I-NP||UMLS:C0588054:T023:ANAT||69656||69675
+sentences.text||553||11||spine||NN||I-NP||UMLS:C0037949:T023:ANAT||70001||70006
+sentences.text||553||24-25||lumbar spine||NN NN||I-NP I-NP||UMLS:C0024091:T023:ANAT||70074||70086
+sentences.text||553||32||sacrum||NN||I-NP||UMLS:C0036037:T023:ANAT||70103||70109
+sentences.text||557||7||insulin||NN||I-NP||:::NOCLASS||70523||70530
+sentences.text||559||11-12||genital organs||JJ NNS||I-NP I-NP||UMLS:C0017420:T023:ANAT||70783||70797
+sentences.text||560||2||infection||NN||B-NP||UMLS:C0021311:T047:DISO||70806||70815
+sentences.text||562||0||Liver||NN||B-NP||UMLS:C0023884:T023:ANAT||71005||71010
+sentences.text||562||12-13||epoxide hydrase||NN NN||I-NP I-NP||:::NOCLASS||71064||71079
+sentences.text||562||25||liver||NN||B-NP||UMLS:C0023884:T023:ANAT||71143||71148
+sentences.text||563||50||venous||JJ||I-NP||UMLS:C0042449:T023:ANAT||71356||71362
+sentences.text||568||8-10||human luteinizing hormone||JJ NN NN||B-NP I-NP I-NP||:::NOCLASS||71660||71685
+sentences.text||569||14||SD||NN||B-NP||UMLS:C1096903:T047:DISO||71757||71759
+sentences.text||569||38||SD||NN||B-NP||UMLS:C1096903:T047:DISO||71859||71861
+sentences.text||570||10||venous||JJ||B-NP||UMLS:C0042449:T023:ANAT||71945||71951
+sentences.text||570||11-12||thromboembolic disease||JJ NN||I-NP I-NP||UMLS:C0040038:T047:DISO||71952||71974
+sentences.text||571||25||bladder||NN||I-NP||UMLS:C0005682:T023:ANAT||72106||72113
+sentences.text||573||0-5||Glucose - 6 - phosphate dehydrogenase||NN HYPH CD HYPH NN NN||B-NP B-NP I-NP I-NP I-NP I-NP||:::NOCLASS||72304||72337
+sentences.text||573||7-11||G - 6 - PD||NN HYPH CD HYPH NN||B-NP B-NP I-NP I-NP I-NP||:::NOCLASS||72339||72345
+sentences.text||573||11||PD||NN||I-NP||UMLS:C3160718:T047:DISO||72343||72345
+sentences.text||575||1||bronchial||JJ||I-NP||UMLS:C1442216:T023:ANAT||72460||72469
+sentences.text||576||16||prothrombin||NN||B-NP||:::NOCLASS||72837||72848
+sentences.text||577||8-9||uterine vein||JJ NN||B-NP I-NP||UMLS:C0226787:T023:ANAT||72935||72947
+sentences.text||577||11-12||ovarian artery||JJ NN||B-NP I-NP||UMLS:C0226411:T023:ANAT||72949||72963
+sentences.text||577||15-16||jugular vein||JJ NN||B-NP I-NP||UMLS:C0022427:T023:ANAT||72969||72981
+sentences.text||578||31||organ||NN||I-NP||UMLS:C0178784:T023:ANAT||73307||73312
+sentences.text||579||2||ten||CD||B-NP||UMLS:C0014518:T047:DISO||73335||73338
+sentences.text||579||5||ten||CD||B-NP||UMLS:C0014518:T047:DISO||73353||73356
+sentences.text||580||5-7||nucleus accumbens septi||NN NN NNS||I-NP I-NP I-NP||UMLS:C0028633:T023:ANAT||73503||73526
+sentences.text||581||4-5||movement disorders||NN NNS||I-NP I-NP||UMLS:C0026650:T047:DISO||73574||73592
+sentences.text||581||23-25||dopamine receptor site||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||73702||73724
+sentences.text||581||29||striatum||NN||I-NP||UMLS:C0162512:T023:ANAT||73748||73756
+sentences.text||582||2-7||HL - A W - 27||NN HYPH NN NN HYPH CD||B-NP O B-NP I-NP B-NP I-NP||:::NOCLASS||73775||73784
+sentences.text||585||1||pineal||JJ||B-NP||UMLS:C0031939:T023:ANAT||73928||73934
+sentences.text||587||0||Atherosclerosis||NNP||B-NP||UMLS:C0004153:T047:DISO||74008||74023
+sentences.text||588||18||stroke||NN||I-NP||UMLS:C0038454:T047:DISO||74137||74143
+sentences.text||590||12||thromboplastin||NN||I-NP||:::NOCLASS||74418||74432
+sentences.text||592||16||varices||NNS||B-NP||UMLS:C0042345:T047:DISO||74633||74640
+sentences.text||592||17||stem||VBP||B-VP||UMLS:C1186763:T023:ANAT||74641||74645
+sentences.text||592||21||reflux||NN||I-NP||UMLS:C0017168:T047:DISO||74670||74676
+sentences.text||593||14-16||toxic multinodular goitre||JJ JJ NN||B-NP I-NP I-NP||UMLS:C0154143:T047:DISO||74766||74791
+sentences.text||593||20-21||multinodular goitre||JJ NN||I-NP I-NP||UMLS:C0342208:T047:DISO||74806||74825
+sentences.text||593||58||thyrotrophin||NN||I-NP||:::NOCLASS||74987||74999
+sentences.text||594||15-18||vesico - ureteral reflux||AFX HYPH JJ NN||B-NP I-NP I-NP I-NP||UMLS:C0042580:T047:DISO||75102||75124
+sentences.text||597||4||disc||NN||I-NP||UMLS:C1556138:T023:ANAT||75252||75256
+sentences.text||598||13||lamina||NN||I-NP||UMLS:C0920995:T023:ANAT||75375||75381
+sentences.text||600||7||lung||NN||I-NP||UMLS:C0024109:T023:ANAT||75577||75581
+sentences.text||603||20-21||perceptive deafness||JJ NN||I-NP I-NP||UMLS:C0018784:T047:DISO||75949||75968
+sentences.text||604||18||meningitis||NN||B-NP||UMLS:C0025289:T047:DISO||76086||76096
+sentences.text||604||24||meningitis||NN||B-NP||UMLS:C0025289:T047:DISO||76120||76130
+sentences.text||604||30||encephalitis||NN||B-NP||UMLS:C0014038:T047:DISO||76151||76163
+sentences.text||605||15-16||vas deferens||NN NNS||I-NP I-NP||UMLS:C0042360:T023:ANAT||76269||76281
+sentences.text||606||8-9||serum immunoglobulins||NN NNS||B-NP I-NP||:::NOCLASS||76333||76354
+sentences.text||606||12||IgG||NN||I-NP||:::NOCLASS||76364||76367
+sentences.text||609||10-11||CSF immunoglobulins||NN NNS||B-NP I-NP||:::NOCLASS||76775||76794
+sentences.text||615||5||HT||NN||I-NP||UMLS:C0677607:T047:DISO||77354||77356
+sentences.text||615||16||brain||NN||I-NP||UMLS:C0006104:T023:ANAT||77401||77406
+sentences.text||615||31||HT||NN||I-NP||UMLS:C0677607:T047:DISO||77496||77498
+sentences.text||618||14||carboxyhemoglobin||NN||I-NP||:::NOCLASS||77810||77827
+sentences.text||618||16||COHb||NN||B-NP||:::NOCLASS||77829||77833
+sentences.text||619||5||pulmonary||JJ||I-NP||UMLS:C0024109:T023:ANAT||77896||77905
+sentences.text||619||10||pulmonary||JJ||B-NP||UMLS:C0024109:T023:ANAT||77931||77940
+sentences.text||619||11||vascular||JJ||I-NP||UMLS:C0005847:T023:ANAT||77941||77949
+sentences.text||619||26||vessels||NNS||B-NP||UMLS:C0005847:T023:ANAT||78032||78039
+sentences.text||619||50||vessels||NNS||I-NP||UMLS:C0005847:T023:ANAT||78182||78189
+sentences.text||624||22||hyperthyroidism||NN||I-NP||UMLS:C0020550:T047:DISO||78829||78844
+sentences.text||626||10||cardiac||JJ||B-NP||UMLS:C0018787:T023:ANAT||79064||79071
+sentences.text||627||4-5||factor II||NN CD||I-NP I-NP||:::NOCLASS||79111||79120
+sentences.text||630||1||cochlear||JJ||I-NP||UMLS:C0009195:T023:ANAT||79635||79643
+sentences.text||632||25||stomach||NN||I-NP||UMLS:C0038351:T023:ANAT||79853||79860
+sentences.text||633||1-2||factor VIII||NN CD||I-NP I-NP||:::NOCLASS||79912||79923
+sentences.text||635||6||ten||CD||B-NP||UMLS:C0014518:T047:DISO||80067||80070
+sentences.text||635||20||intestinal||JJ||B-NP||UMLS:C0021853:T023:ANAT||80176||80186
+sentences.text||637||4||CPK||NN||I-NP||:::NOCLASS||80310||80313
+sentences.text||637||16-17||muscular dystrophy||JJ NN||I-NP I-NP||UMLS:C0026850:T047:DISO||80377||80395
+sentences.text||638||4||insulin||NN||I-NP||:::NOCLASS||80465||80472
+sentences.text||641||3||PAL||NN||B-NP||UMLS:C1186982:T023:ANAT||80925||80928
+sentences.text||642||14||brain||NN||I-NP||UMLS:C0006104:T023:ANAT||81051||81056
+sentences.text||642||18||liver||NN||I-NP||UMLS:C0023884:T023:ANAT||81068||81073
+sentences.text||642||29||PAL||NN||I-NP||UMLS:C1186982:T023:ANAT||81131||81134
+sentences.text||643||4-8||NF ( H ) promoter||NN ( NN ) NN||I-NP O B-NP O B-NP||:::NOCLASS||81243||81257
+sentences.text||643||28-32||beta - galactosidase reporter gene||SYM HYPH NN NN NN||I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||81381||81413
+sentences.text||644||23||PET122||NN||B-NP||:::NOCLASS||81567||81573
+sentences.text||647||2||Kd||NN||I-NP||UMLS:C1839259:T047:DISO||81751||81753
+sentences.text||647||5-9||MetRS / CAU operator complex||NN SYM NN NN NN||I-NP B-NP I-NP I-NP I-NP||:::NOCLASS||81761||81787
+sentences.text||647||19-23||ThrRS / CGU operator complex||NN SYM NN NN NN||I-NP B-NP I-NP I-NP I-NP||:::NOCLASS||81835||81861
+sentences.text||649||0-3||Rabbit skeletal muscle glycogenin||NN JJ NN NN||B-NP I-NP I-NP I-NP||:::NOCLASS||82010||82043
+sentences.text||649||1-2||skeletal muscle||JJ NN||I-NP I-NP||UMLS:C0242692:T023:ANAT||82017||82032
+sentences.text||650||3-7||human gene encoding cytokeratin 17||JJ NN VBG NN CD||I-NP I-NP B-VP B-NP I-NP||:::NOCLASS||82069||82103
+sentences.text||655||0-2||Tissue plasminogen activator||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||82872||82900
+sentences.text||655||21||prostate||NN||I-NP||UMLS:C0033572:T023:ANAT||83011||83019
+sentences.text||656||4-6||human growth hormone||JJ NN NN||B-NP I-NP I-NP||:::NOCLASS||83050||83070
+sentences.text||656||8||hGH||NN||B-NP||:::NOCLASS||83072||83075
+sentences.text||656||18-19||mouse metallothionein||NN NN||B-NP I-NP||:::NOCLASS||83124||83145
+sentences.text||656||21||mMT||NN||B-NP||:::NOCLASS||83147||83150
+sentences.text||656||24-26||viral thymidine kinase||JJ NN NN||B-NP I-NP I-NP||:::NOCLASS||83153||83175
+sentences.text||656||28||vTK||NN||B-NP||:::NOCLASS||83177||83180
+sentences.text||656||31-32||rat cholecystokinin||NN NN||B-NP I-NP||:::NOCLASS||83183||83202
+sentences.text||656||34||rCCK||NN||B-NP||:::NOCLASS||83204||83208
+sentences.text||656||38||chicken||NN||B-NP||:::NOCLASS||83214||83221
+sentences.text||656||43||cBA||NN||B-NP||:::NOCLASS||83234||83237
+sentences.text||657||1||gastrin||NN||I-NP||:::NOCLASS||83328||83335
+sentences.text||657||3||AFP||NN||I-NP||:::NOCLASS||83340||83343
+sentences.text||659||6||SD||NN||I-NP||UMLS:C1096903:T047:DISO||83505||83507
+sentences.text||660||19||liver||NN||B-NP||UMLS:C0023884:T023:ANAT||83804||83809
+sentences.text||660||22-23||acute hepatitis||JJ NN||B-NP I-NP||UMLS:C0267797:T047:DISO||83821||83836
+sentences.text||660||25||liver||NN||I-NP||UMLS:C0023884:T023:ANAT||83840||83845
+sentences.text||660||36-37||falciparum malaria||NN NN||B-NP I-NP||UMLS:C0024535:T047:DISO||83904||83922
+sentences.text||663||19||prolactin||NN||I-NP||:::NOCLASS||84424||84433
+sentences.text||663||34||breast||NN||B-NP||UMLS:C0006141:T023:ANAT||84489||84495
+sentences.text||665||6-8||Transient Ischemic Attacks||JJ JJ NNS||B-NP I-NP I-NP||UMLS:C0007787:T047:DISO||84702||84728
+sentences.text||666||8||LD78||NNP||I-NP||:::NOCLASS||84824||84828
+sentences.text||666||11-12||LD78 gamma||NN NN||I-NP I-NP||:::NOCLASS||84837||84847
+sentences.text||667||14-16||SWI4 , 6||NN , CD||I-NP O B-NP||:::NOCLASS||85000||85006
+sentences.text||672||31||ventricular||JJ||I-NP||UMLS:C0018827:T023:ANAT||85889||85900
+sentences.text||672||52||ventricular||JJ||B-NP||UMLS:C0018827:T023:ANAT||86009||86020
+sentences.text||673||12-16||c - myc bearing sequences||NN HYPH NN VBG NNS||I-NP B-NP I-NP B-VP B-NP||:::NOCLASS||86575||86598
+sentences.text||674||29||ad||NN||I-NP||UMLS:C0002395:T047:DISO||86735||86737
+sentences.text||679||4-5||BMRF1 promoter||NN NN||I-NP I-NP||:::NOCLASS||87130||87144
+sentences.text||679||8||Z||NN||I-NP||:::NOCLASS||87152||87153
+sentences.text||679||10-12||c - myb||NN HYPH NN||I-NP B-NP I-NP||:::NOCLASS||87154||87159
+sentences.text||679||21-22||Z protein||NN NN||I-NP I-NP||:::NOCLASS||87213||87222
+sentences.text||679||26-29||c - myb protein||NN HYPH NN NN||I-NP B-NP I-NP I-NP||:::NOCLASS||87235||87248
+sentences.text||681||4||UCRBP||NN||B-NP||:::NOCLASS||87402||87407
+sentences.text||681||19-24||adeno - associated virus P5 promoter||AFX HYPH VBN NN NN NN||I-NP I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||87481||87515
+sentences.text||681||29-35||immunoglobulin light - and heavy - chain||NN NN HYPH CC JJ HYPH NN||I-NP I-NP B-NP I-NP I-NP I-NP I-NP||:::NOCLASS||87536||87573
+sentences.text||681||43-45||ribosomal protein genes||JJ NN NNS||B-NP I-NP I-NP||:::NOCLASS||87604||87627
+sentences.text||682||3-6||scr1 - 1 mutation||NN HYPH CD NN||I-NP B-NP I-NP I-NP||:::NOCLASS||87643||87658
+sentences.text||682||24||AEP||NN||B-NP||:::NOCLASS||87780||87783
+sentences.text||683||22-24||mouse L1 family||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||87918||87933
+sentences.text||684||1||Rep78||NN||B-NP||:::NOCLASS||87982||87987
+sentences.text||684||3||Rep68||NN||I-NP||:::NOCLASS||87992||87997
+sentences.text||685||5-8||TAR - binding protein||NN HYPH VBG NN||B-NP B-PP B-NP I-NP||:::NOCLASS||88106||88125
+sentences.text||685||14-15||CREB2 protein||NN NN||I-NP I-NP||:::NOCLASS||88149||88162
+sentences.text||686||18-19||FBR protein||NN NN||B-NP I-NP||:::NOCLASS||88268||88279
+sentences.text||686||34-35||FBR protein||NN NN||B-NP I-NP||:::NOCLASS||88398||88409
+sentences.text||687||22-30||30 - kDa gp0 . 7 - related polypeptide||CD HYPH NN NN . CD HYPH VBN NN||B-NP I-NP I-NP I-NP B-NP I-NP B-NP I-NP I-NP||:::NOCLASS||88520||88552
+sentences.text||688||7||thrombocytopenia||NN||I-NP||UMLS:C0040034:T047:DISO||88674||88690
+sentences.text||688||16-18||acute renal failure||JJ JJ NN||B-NP I-NP I-NP||UMLS:C0022660:T047:DISO||88731||88750
+sentences.text||688||17||renal||JJ||I-NP||UMLS:C0022646:T023:ANAT||88737||88742
+sentences.text||689||21-26||cytoplasmic serine / threonine kinase domain||JJ NN SYM NN NN NN||I-NP I-NP B-NP I-NP I-NP I-NP||:::NOCLASS||88942||88984
+sentences.text||690||0-1||Drosophila UbcD1||FW NN||B-NP I-NP||:::NOCLASS||88986||89002
+sentences.text||690||6||ubiquitin||NN||I-NP||:::NOCLASS||89030||89039
+sentences.text||691||14||MDP1||NN||I-NP||:::NOCLASS||89161||89165
+sentences.text||691||48||tract||NN||I-NP||UMLS:C1185740:T023:ANAT||89310||89315
+sentences.text||692||16||rp47phox||NN||B-NP||:::NOCLASS||89558||89566
+sentences.text||692||30||Epstein||NNP||I-NP||UMLS:C1396851:T047:DISO||89630||89637
+sentences.text||692||48||p47phox||NN||I-NP||:::NOCLASS||89709||89716
+sentences.text||692||51||CGD||NN||I-NP||UMLS:C1844376:T047:DISO||89727||89730
+sentences.text||693||7||Tactile||NN||B-NP||:::NOCLASS||89789||89796
+sentences.text||693||13-15||immunoglobulin gene superfamily||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||89816||89847
+sentences.text||693||20-21||Drosophila amalgam||FW NN||B-NP I-NP||:::NOCLASS||89868||89886
+sentences.text||693||24-28||melanoma Ag MUC - 18||NN NN NN HYPH CD||I-NP I-NP I-NP O B-NP||:::NOCLASS||89892||89910
+sentences.text||693||33-35||carcinoembryonic Ag family||JJ NN NN||I-NP I-NP I-NP||:::NOCLASS||89927||89953
+sentences.text||693||38-39||poliovirus receptor||NN NN||I-NP I-NP||:::NOCLASS||89959||89978
+sentences.text||693||43-46||neural cell adhesion molecule||JJ NN NN NN||I-NP I-NP I-NP I-NP||:::NOCLASS||89988||90017
+sentences.text||694||11-12||LMP2B mRNA||NN NN||B-NP I-NP||:::NOCLASS||90084||90094
+sentences.text||695||4||ICP0||NN||I-NP||:::NOCLASS||90226||90230
+sentences.text||695||23-26||ICP0 - coding sequence||NN HYPH VBG NN||I-NP O B-VP B-NP||:::NOCLASS||90329||90349
+sentences.text||696||27||Epstein||NNP||I-NP||UMLS:C1396851:T047:DISO||90584||90591
+sentences.text||697||2||MK||NN||B-NP||UMLS:C0022716:T047:DISO||90619||90621
+sentences.text||697||32||arterial||JJ||I-NP||UMLS:C0003842:T023:ANAT||90719||90727
+sentences.text||698||12||HAP2||NN||I-NP||:::NOCLASS||90809||90813
+sentences.text||698||14||HAP3||NN||I-NP||:::NOCLASS||90817||90821
+sentences.text||698||21||hap3||NN||B-NP||:::NOCLASS||90848||90852
+sentences.text||699||7||adenovirus||NN||I-NP||UMLS:C0001486:T047:DISO||90946||90956
+sentences.text||699||8-9||E1a protein||NN NN||I-NP I-NP||:::NOCLASS||90957||90968
+sentences.text||703||5-6||S2 protein||NN NN||I-NP I-NP||:::NOCLASS||91643||91653
+sentences.text||703||12||S2||NN||B-NP||:::NOCLASS||91694||91696
+sentences.text||705||1||ORF||NN||I-NP||UMLS:C0013570:T047:DISO||91989||91992
+sentences.text||705||10||ORF||NN||I-NP||UMLS:C0013570:T047:DISO||92034||92037
+sentences.text||706||3-4||IR5 ORF||NN NN||I-NP I-NP||:::NOCLASS||92143||92150
+sentences.text||706||4||ORF||NN||I-NP||UMLS:C0013570:T047:DISO||92147||92150
+sentences.text||707||5-7||sulfate activation locus||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||92329||92353
+sentences.text||708||4-6||RNA polymerase II||NN NN CD||B-NP I-NP I-NP||:::NOCLASS||92431||92448
+sentences.text||709||0-2||RNA polymerase IIA||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||92519||92537
+sentences.text||709||17-19||RNA polymerase IIA||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||92633||92651
+sentences.text||710||0||Fructokinase||NN||B-NP||:::NOCLASS||92653||92665
+sentences.text||710||26-27||frk mRNA||NN NN||B-NP I-NP||:::NOCLASS||92796||92804
+sentences.text||711||6||high||JJ||B-NP||:::NOCLASS||92856||92860
+sentences.text||711||10-12||high density lipoprotein||JJ NN NN||B-NP I-NP I-NP||:::NOCLASS||92884||92908
+sentences.text||711||14||HDL||NN||B-NP||:::NOCLASS||92910||92913
+sentences.text||713||16-17||L1 sequence||NN NN||B-NP I-NP||:::NOCLASS||93169||93180
+sentences.text||713||34-35||human L1||JJ NN||B-NP I-NP||:::NOCLASS||93271||93279
+sentences.text||714||6-9||neuron - specific enolase||NN HYPH JJ NN||B-NP B-NP I-NP I-NP||:::NOCLASS||93325||93348
+sentences.text||714||11||insulin||NN||I-NP||:::NOCLASS||93350||93357
+sentences.text||714||13||glucagon||NN||I-NP||:::NOCLASS||93359||93367
+sentences.text||714||15||VIP||NN||I-NP||:::NOCLASS||93372||93375
+sentences.text||715||8||src||NN||B-NP||:::NOCLASS||93410||93413
+sentences.text||715||15||ros||NNS||B-NP||:::NOCLASS||93432||93435
+sentences.text||715||18||SRC||NNP||B-NP||:::NOCLASS||93444||93447
+sentences.text||715||20||ROS||NNP||I-NP||:::NOCLASS||93450||93453
+sentences.text||715||38||UR2||NN||B-NP||:::NOCLASS||93549||93552
+sentences.text||716||0||ROS||NN||B-NP||:::NOCLASS||93554||93557
+sentences.text||716||2||SRC||NN||B-NP||:::NOCLASS||93560||93563
+sentences.text||716||4||R||NN||B-NP||:::NOCLASS||93565||93566
+sentences.text||716||25||ros||NNS||B-NP||:::NOCLASS||93659||93662
+sentences.text||717||8||E6||NN||I-NP||:::NOCLASS||93703||93705
+sentences.text||717||10-11||E7 gene||NN NN||I-NP I-NP||:::NOCLASS||93710||93717
+sentences.text||717||32-35||BPV - 1 E6||NN HYPH CD NN||I-NP B-NP I-NP I-NP||:::NOCLASS||93856||93864
+sentences.text||717||37-39||E7 fusion proteins||NN NN NNS||I-NP I-NP I-NP||:::NOCLASS||93869||93887
+sentences.text||718||12-13||RXR alpha||NN SYM||B-NP B-NP||:::NOCLASS||93970||93979
+sentences.text||718||19-22||apoAI gene basal promoter||NN NN JJ NN||I-NP I-NP I-NP I-NP||:::NOCLASS||94012||94037
+sentences.text||718||32||RA||NN||B-NP||UMLS:C0002893:T047:DISO||94087||94089
+sentences.text||718||44-46||ARP - 1||NN HYPH CD||I-NP B-NP I-NP||:::NOCLASS||94172||94177
+sentences.text||719||4||Akv||NN||B-NP||UMLS:C0265971:T047:DISO||94202||94205
+sentences.text||720||4-5||ALF1 cDNA||NN NN||B-NP I-NP||:::NOCLASS||94289||94298
+sentences.text||721||31-32||mammalian calcineurin||JJ NN||B-NP I-NP||:::NOCLASS||94588||94609
+sentences.text||721||41-42||bovine calcineurin||JJ NN||B-NP I-NP||:::NOCLASS||94660||94678
+sentences.text||722||5||MATa||NN||B-NP||:::NOCLASS||94711||94715
+sentences.text||722||6||cna1||NN||I-NP||UMLS:C1852557:T047:DISO||94716||94720
+sentences.text||722||7||cna2||NN||I-NP||UMLS:C1857574:T047:DISO||94721||94725
+sentences.text||722||11||MATa||NNP||B-NP||:::NOCLASS||94742||94746
+sentences.text||722||12-13||cnb1 mutants||NN NNS||I-NP I-NP||:::NOCLASS||94747||94759
+sentences.text||722||22-24||alpha - factor||SYM HYPH NN||B-NP B-NP I-NP||:::NOCLASS||94808||94820
+sentences.text||723||6||RIM1||NN||B-NP||:::NOCLASS||94894||94898
+sentences.text||724||2-3||IgG antibodies||NN NNS||B-NP I-NP||:::NOCLASS||94925||94939
+sentences.text||724||9-15||anti - HHV - 6 - IgG||AFX HYPH NN HYPH CD HYPH NN||B-NP B-NP I-NP B-NP I-NP I-NP I-NP||:::NOCLASS||94950||94964
+sentences.text||724||32||HIV||NN||B-NP||UMLS:C0019693:T047:DISO||95066||95069
+sentences.text||725||21-25||HNF - 3 beta protein||NN HYPH CD SYM NN||I-NP O B-NP I-NP I-NP||:::NOCLASS||95327||95345
+sentences.text||726||0-7||HNF - 3 beta amino - terminal sequences||NN HYPH CD SYM JJ HYPH JJ NNS||B-NP O B-NP I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||95372||95407
+sentences.text||727||3||RAD5||NN||B-NP||:::NOCLASS||95573||95577
+sentences.text||727||5||ATPase||NN||I-NP||:::NOCLASS||95587||95593
+sentences.text||727||7-8||DNA helicase||NN NN||I-NP I-NP||:::NOCLASS||95594||95606
+sentences.text||729||17-18||MBP kinase||NN NN||I-NP I-NP||:::NOCLASS||95973||95983
+sentences.text||729||23-25||p41 MAP kinase||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||96007||96021
+sentences.text||730||1-3||hit1 - 1||NN HYPH CD||I-NP B-NP I-NP||:::NOCLASS||96061||96067
+sentences.text||730||7||defect||NN||I-NP||UMLS:C1861101:T047:DISO||96086||96092
+sentences.text||730||12-17||74 - kD heat shock protein||CD HYPH NN NN NN NN||I-NP I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||96111||96135
+sentences.text||730||14||kD||NN||I-NP||UMLS:C1839259:T047:DISO||96114||96116
+sentences.text||731||9||CAP||NN||I-NP||UMLS:C1855179:T047:DISO||96190||96193
+sentences.text||731||37-39||activator protein 2||NN NN CD||B-NP I-NP I-NP||:::NOCLASS||96328||96347
+sentences.text||731||41-43||Ap - 2||NN HYPH CD||B-NP B-NP I-NP||:::NOCLASS||96349||96353
+sentences.text||732||16||brain||NN||B-NP||UMLS:C0006104:T023:ANAT||96580||96585
+sentences.text||733||15-16||spinal cord||JJ NN||B-NP I-NP||UMLS:C0037925:T023:ANAT||96669||96680
+sentences.text||733||16||cord||NN||I-NP||UMLS:C0035334:T047:DISO||96676||96680
+sentences.text||733||17-18||dorsal horn||JJ NN||I-NP I-NP||UMLS:C0228575:T023:ANAT||96681||96692
+sentences.text||734||19-20||E1 protein||NN NN||I-NP I-NP||:::NOCLASS||96837||96847
+sentences.text||734||23-27||full - length E2 protein||JJ HYPH NN NN NN||I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||96856||96878
+sentences.text||735||3||sms||NNS||B-NP||UMLS:C0795864:T047:DISO||96908||96911
+sentences.text||736||5-7||MAP kinase activator||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||97080||97100
+sentences.text||736||9-10||MAP kinase||NN NN||I-NP I-NP||:::NOCLASS||97101||97111
+sentences.text||736||18||ras||NN||B-NP||:::NOCLASS||97155||97158
+sentences.text||737||0-2||NSCL - 1||NN HYPH CD||B-NP B-NP I-NP||:::NOCLASS||97189||97195
+sentences.text||738||1-4||LTR - binding proteins||NN HYPH VBG NNS||I-NP B-VP B-NP I-NP||:::NOCLASS||97256||97276
+sentences.text||738||10-12||c - myc||NN HYPH NN||B-NP I-NP I-NP||:::NOCLASS||97304||97309
+sentences.text||738||25-28||LTR - binding proteins||NN HYPH VBG NNS||B-NP O B-NP I-NP||:::NOCLASS||97387||97407
+sentences.text||740||2-5||MEF - 2 site||NN HYPH CD NN||I-NP I-NP I-NP I-NP||:::NOCLASS||97498||97508
+sentences.text||740||23-26||human phosphoglycerate mutase gene||JJ JJ NN NN||I-NP I-NP I-NP I-NP||:::NOCLASS||97613||97647
+sentences.text||740||30||cardiac||JJ||I-NP||UMLS:C0018787:T023:ANAT||97664||97671
+sentences.text||741||6-9||MHC class II molecules||NN NN CD NNS||B-NP I-NP B-NP I-NP||:::NOCLASS||97732||97754
+sentences.text||742||27-28||bHLH proteins||JJ NNS||I-NP I-NP||:::NOCLASS||97928||97941
+sentences.text||743||8-9||TnI enhancers||NN NNS||B-NP I-NP||:::NOCLASS||97998||98011
+sentences.text||743||17-22||MCK left E - box site||NN VBD NN HYPH NN NN||I-NP B-VP B-NP B-NP I-NP I-NP||:::NOCLASS||98048||98067
+sentences.text||743||26-31||Ig kappa E2 E - box||NN NN NN NN HYPH NN||I-NP I-NP I-NP I-NP B-NP I-NP||:::NOCLASS||98080||98097
+sentences.text||744||0-4||T - cell receptor beta||NN HYPH NN NN NN||B-NP I-NP I-NP I-NP I-NP||:::NOCLASS||98099||98119
+sentences.text||744||6-7||TCR beta||NN NN||B-NP I-NP||:::NOCLASS||98121||98129
+sentences.text||745||7||MyoD||NN||B-NP||:::NOCLASS||98259||98263
+sentences.text||745||9-11||myogenin fusion proteins||NN NN NNS||I-NP I-NP I-NP||:::NOCLASS||98268||98292
+sentences.text||746||1||polyneuropathy||NN||I-NP||UMLS:C0152025:T047:DISO||98378||98392
+sentences.text||747||5||COX12||NN||B-NP||:::NOCLASS||98456||98461
+sentences.text||747||11-12||subunit VIb||NN NN||B-NP I-NP||:::NOCLASS||98484||98495
+sentences.text||747||14-18||Saccharomyces cerevisiae cytochrome c oxidase||NNP NNP NN NN NN||B-NP I-NP I-NP I-NP I-NP||:::NOCLASS||98499||98544
+sentences.text||748||4-6||calcineurin A gene||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||98567||98585
+sentences.text||749||5-11||murine cytochrome c oxidase subunit IV gene||JJ NN NN NN NN CD NN||B-NP I-NP I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||98681||98724
+sentences.text||749||16||ets||NN||I-NP||:::NOCLASS||98756||98759
+sentences.text||749||21-25||GABP - related transcription factors||NN HYPH VBN NN NNS||B-NP I-NP B-NP I-NP I-NP||:::NOCLASS||98780||98814
+sentences.text||750||18||variola||NN||B-NP||UMLS:C0037354:T047:DISO||98933||98940
+sentences.text||750||20||vaccinia||NN||B-NP||UMLS:C0042214:T047:DISO||98944||98952
+sentences.text||751||9-12||pRB - binding sequences||NN HYPH VBG NNS||I-NP O B-VP B-NP||:::NOCLASS||99018||99039
+sentences.text||751||14||E1A||NN||B-NP||:::NOCLASS||99043||99046
+sentences.text||751||20||p107||NN||B-NP||:::NOCLASS||99083||99087
+sentences.text||751||22-23||cyclin A||NN NN||B-NP I-NP||:::NOCLASS||99089||99097
+sentences.text||751||26||p130||NN||B-NP||:::NOCLASS||99103||99107
+sentences.text||752||21||coinfection||NN||B-NP||UMLS:C0275524:T047:DISO||99218||99229
+sentences.text||754||5-7||RII beta gene||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||99452||99465
+sentences.text||755||2-6||cAMP receptor protein contact site||NN NN NN NN NN||I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||99528||99562
+sentences.text||755||12-15||Escherichia coli RNA polymerase||FW FW NN NN||B-NP I-NP I-NP I-NP||:::NOCLASS||99587||99618
+sentences.text||756||4-6||epidermal growth factor||JJ NN NN||B-NP I-NP I-NP||:::NOCLASS||99638||99661
+sentences.text||756||8-12||platelet - derived growth factor||NN HYPH VBN NN NN||I-NP O B-NP I-NP I-NP||:::NOCLASS||99665||99695
+sentences.text||756||24-25||Nck protein||NN NN||B-NP I-NP||:::NOCLASS||99768||99779
+sentences.text||757||4-6||steroid hydroxylase gene||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||99851||99875
+sentences.text||757||12-13||adrenal cortex||JJ NN||I-NP I-NP||UMLS:C0001613:T023:ANAT||99910||99924
+sentences.text||757||16||pituitary||JJ||I-NP||UMLS:C0032005:T023:ANAT||99938||99947
+sentences.text||757||20||ACTH||NN||B-NP||:::NOCLASS||99965||99969
+sentences.text||759||10||Sp1||NN||I-NP||:::NOCLASS||100242||100245
+sentences.text||759||19-25||proximal regulatory factor ( s ) I||JJ JJ NN ( NNS ) NN||B-NP I-NP I-NP I-NP I-NP O B-NP||:::NOCLASS||100278||100309
+sentences.text||759||27-29||PRF - I||NN HYPH NN||B-NP B-NP I-NP||:::NOCLASS||100311||100316
+sentences.text||760||7-10||src - related peptide||NN HYPH VBN NN||B-NP B-NP I-NP I-NP||:::NOCLASS||100351||100370
+sentences.text||761||1-5||soluble form of the HGFr||JJ NN IN DT NN||I-NP I-NP B-PP B-NP I-NP||:::NOCLASS||100491||100515
+sentences.text||761||7||sHGFr||NN||B-NP||:::NOCLASS||100517||100522
+sentences.text||761||10||HGF||NN||B-NP||UMLS:C0399440:T047:DISO||100530||100533
+sentences.text||762||6-7||hepatitis C||NN NN||I-NP I-NP||UMLS:C0019196:T047:DISO||100654||100665
+sentences.text||762||12-14||human immunodeficiency virus||JJ NN NN||I-NP I-NP I-NP||UMLS:C0019693:T047:DISO||100684||100712
+sentences.text||763||3-8||human glycoprotein alpha - subunit promoter||JJ NN SYM HYPH NN NN||I-NP I-NP B-NP B-NP I-NP I-NP||:::NOCLASS||100744||100785
+sentences.text||763||15||FSK||NN||B-NP||:::NOCLASS||100809||100812
+sentences.text||763||18-19||rat pituitary||NN JJ||I-NP I-NP||UMLS:C1882827:T023:ANAT||100820||100833
+sentences.text||765||5||teeth||NNS||I-NP||UMLS:C0040426:T023:ANAT||101139||101144
+sentences.text||765||9||teeth||NNS||I-NP||UMLS:C0040426:T023:ANAT||101170||101175
+sentences.text||765||20||teeth||NNS||I-NP||UMLS:C0040426:T023:ANAT||101241||101246
+sentences.text||766||14||SNF1||NN||B-NP||:::NOCLASS||101339||101343
+sentences.text||767||13||HRAS1||NN||B-NP||:::NOCLASS||101427||101432
+sentences.text||768||12-14||potexvirus RNA replicases||NN NN NNS||I-NP I-NP I-NP||:::NOCLASS||101501||101526
+sentences.text||772||1-5||RNA - binding protein gene||NN HYPH VBG NN NN||I-NP O B-VP B-NP I-NP||:::NOCLASS||102035||102059
+sentences.text||772||7||rbp1||NN||B-NP||:::NOCLASS||102061||102065
+sentences.text||775||7-11||leucine - responsive regulatory protein||NN HYPH JJ JJ NN||I-NP B-NP I-NP I-NP I-NP||:::NOCLASS||102568||102605
+sentences.text||776||3-9||mouse ornithine decarboxylase - related sequence family||NN NN NN HYPH VBN NN NN||I-NP I-NP I-NP B-NP I-NP I-NP I-NP||:::NOCLASS||102642||102695
+sentences.text||777||9-10||CAD mRNA||NN NN||B-NP I-NP||:::NOCLASS||102756||102764
+sentences.text||777||9||CAD||NN||B-NP||UMLS:C0010068:T047:DISO||102756||102759
+sentences.text||778||9-11||Parkinson 's disease||NNP POS NN||B-NP B-NP I-NP||UMLS:C0030567:T047:DISO||102863||102882
+sentences.text||779||7-11||homeodomain binding site II sequence||NN NN NN CD NN||I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||102928||102964
+sentences.text||780||3-4||pol alpha||NN SYM||I-NP B-VP||:::NOCLASS||103014||103023
+sentences.text||780||6||primase||NN||I-NP||:::NOCLASS||103024||103031
+sentences.text||781||29-30||TGM1 gene||NN NN||I-NP I-NP||:::NOCLASS||103273||103282
+sentences.text||782||17||HIV||NN||I-NP||UMLS:C0019693:T047:DISO||103468||103471
+sentences.text||782||25||HIV||NN||B-NP||UMLS:C0019693:T047:DISO||103504||103507
+sentences.text||782||30||CD4||NN||I-NP||:::NOCLASS||103521||103524
+sentences.text||784||4||thyroid||NN||B-NP||UMLS:C0040132:T023:ANAT||103666||103673
+sentences.text||785||6-9||Zea mays mitochondrial chaperonin||NNP VBZ JJ NN||B-NP B-VP B-NP I-NP||:::NOCLASS||103748||103781
+sentences.text||785||10||HSP60||NN||I-NP||:::NOCLASS||103782||103787
+sentences.text||786||9-16||yeast and Escherichia coli gamma - glutamyl kinases||NN CC FW FW SYM HYPH NN NNS||I-NP O B-NP I-NP B-NP B-NP I-NP I-NP||:::NOCLASS||103921||103970
+sentences.text||788||1||pulmonary||JJ||I-NP||UMLS:C0024109:T023:ANAT||104157||104166
+sentences.text||789||1||pulmonary||JJ||I-NP||UMLS:C0024109:T023:ANAT||104325||104334
+sentences.text||790||2-4||H - 2Eb||NN HYPH NN||B-NP B-NP I-NP||:::NOCLASS||104530||104535
+sentences.text||790||7-8||IAP retrotransposon||NN NN||I-NP I-NP||:::NOCLASS||104544||104563
+sentences.text||791||0-2||Gestational trophoblastic diseases||JJ JJ NNS||B-NP I-NP I-NP||UMLS:C2931618:T047:DISO||104595||104629
+sentences.text||792||24||CD4||NN||B-NP||:::NOCLASS||104864||104867
+sentences.text||793||4||curli||NN||B-NP||:::NOCLASS||104906||104911
+sentences.text||793||13-15||SEF - 17||NN HYPH CD||B-NP O B-NP||:::NOCLASS||104959||104965
+sentences.text||793||26||Salmonella||NNP||B-NP||UMLS:C0036117:T047:DISO||105020||105030
+sentences.text||794||3-5||DR1 beta chain||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||105169||105183
+sentences.text||794||7-11||H - 2E beta k||NN HYPH NN NN NN||B-NP O B-NP I-NP I-NP||:::NOCLASS||105189||105200
+sentences.text||796||5-13||rat insulin I gene 5 ' - flanking DNA||NN NN CD NN CD SYM HYPH VBG NN||I-NP I-NP I-NP I-NP B-NP I-NP I-NP B-NP I-NP||:::NOCLASS||105472||105506
+sentences.text||800||6||P68||NN||I-NP||:::NOCLASS||106107||106110
+sentences.text||801||21-22||antithrombin III||NN CD||I-NP I-NP||:::NOCLASS||106413||106429
+sentences.text||801||24-25||AT III||NN CD||O O||:::NOCLASS||106431||106437
+sentences.text||802||9-10||refractive error||JJ NN||B-NP I-NP||UMLS:C0034951:T047:DISO||106504||106520
+sentences.text||802||24-25||carbonic anhydrase||JJ NN||B-NP I-NP||:::NOCLASS||106605||106623
+sentences.text||803||3-4||H2 receptor||NN NN||B-NP I-NP||:::NOCLASS||106656||106667
+sentences.text||808||12-15||yeast DNA polymerase alpha||NN NN NN NN||I-NP I-NP I-NP I-NP||:::NOCLASS||107165||107191
+sentences.text||809||10-16||vacuolar H ( + ) - ATPase||JJ NN ( SYM ) HYPH NN||I-NP I-NP O B-NP O B-NP I-NP||:::NOCLASS||107243||107263
+sentences.text||810||4-5||hGCSFR gene||NN NN||I-NP I-NP||:::NOCLASS||107300||107311
+sentences.text||814||6||C3||NN||B-NP||:::NOCLASS||107894||107896
+sentences.text||814||28-32||C3 ( D ) epitopes||NN ( NN ) NNS||I-NP O B-NP O B-NP||:::NOCLASS||107990||108004
+sentences.text||814||40-41||C3 fragments||NN NNS||I-NP I-NP||:::NOCLASS||108045||108057
+sentences.text||814||66-70||C3 ( D ) epitopes||NN ( NN ) NNS||B-NP O B-NP O B-NP||:::NOCLASS||108180||108194
+sentences.text||814||77||C3||NN||I-NP||:::NOCLASS||108237||108239
+sentences.text||815||23-28||alpha s1 - casein variant A||SYM NN HYPH NN JJ NN||B-NP I-NP B-NP I-NP I-NP I-NP||:::NOCLASS||108414||108439
+sentences.text||816||10-16||goat alpha s1 - casein transcription unit||NN NN NN HYPH NN NN NN||I-NP I-NP I-NP B-NP I-NP I-NP I-NP||:::NOCLASS||108530||108569
+sentences.text||817||14||GBF1||NN||B-NP||:::NOCLASS||108701||108705
+sentences.text||817||16||GBF3||NN||I-NP||:::NOCLASS||108710||108714
+sentences.text||818||11-12||nuclease S1||NN NN||B-NP I-NP||:::NOCLASS||108840||108851
+sentences.text||819||4-6||NHE - 3||NN HYPH CD||B-NP B-NP I-NP||:::NOCLASS||108889||108894
+sentences.text||819||13-15||NHE - 1||NN HYPH CD||B-NP B-NP I-NP||:::NOCLASS||108922||108927
+sentences.text||819||17-19||NHE - 2||NN HYPH CD||I-NP O B-NP||:::NOCLASS||108932||108937
+sentences.text||822||6-8||v - Crk||NN HYPH NN||B-NP B-NP I-NP||:::NOCLASS||109310||109315
+sentences.text||823||10-12||U14 snRNA gene||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||109513||109527
+sentences.text||823||19-23||T7 RNA polymerase promoter site||NN NN NN NN NN||I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||109563||109594
+sentences.text||824||9-13||mannose 6 - phosphate receptor||NN CD HYPH NN NN||I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||109679||109707
+sentences.text||825||7||neurofascin||NN||I-NP||:::NOCLASS||109756||109767
+sentences.text||826||12||layer||NN||I-NP||UMLS:C0934502:T023:ANAT||109938||109943
+sentences.text||826||19||layer||NN||I-NP||UMLS:C0934502:T023:ANAT||109972||109977
+sentences.text||827||3-6||C / EBP beta||NN SYM NN SYM||B-NP I-NP I-NP B-NP||:::NOCLASS||109999||110009
+sentences.text||827||8-11||C / EBP gamma||NN SYM NN SYM||B-NP I-NP I-NP B-VP||:::NOCLASS||110014||110025
+sentences.text||827||21-24||C / EBP alpha||NN SYM NN SYM||B-NP B-NP I-NP B-NP||:::NOCLASS||110081||110092
+sentences.text||828||3-6||tobacco GS - 2||NN NN HYPH CD||B-NP I-NP O B-NP||:::NOCLASS||110107||110119
+sentences.text||828||4||GS||NN||I-NP||UMLS:C0017097:T047:DISO||110115||110117
+sentences.text||828||16||organs||NNS||I-NP||UMLS:C0178784:T023:ANAT||110169||110175
+sentences.text||829||1||acoR||NN||B-NP||:::NOCLASS||110194||110198
+sentences.text||829||3||acoXABC||NN||I-NP||:::NOCLASS||110203||110210
+sentences.text||829||33||ACA||NN||I-NP||UMLS:C0149561:T023:ANAT||110318||110321
+sentences.text||829||43||NtrC||NN||B-NP||:::NOCLASS||110366||110370
+sentences.text||829||45-48||NifA upstream activator sequences||NN JJ NN NNS||I-NP I-NP I-NP I-NP||:::NOCLASS||110375||110408
+sentences.text||832||17||NC||NN||B-NP||:::NOCLASS||110771||110773
+sentences.text||836||0-1||T antigen||NN NN||B-NP I-NP||:::NOCLASS||111268||111277
+sentences.text||837||7||column||NN||I-NP||UMLS:C1185738:T023:ANAT||111452||111458
+sentences.text||838||9-12||ref - 1 gene||NN HYPH CD NN||I-NP B-NP I-NP I-NP||:::NOCLASS||111589||111599
+sentences.text||838||19||Fos||NN||B-NP||:::NOCLASS||111639||111642
+sentences.text||838||21||Jun||NN||I-NP||:::NOCLASS||111643||111646
+sentences.text||838||24||Jun||NN||B-NP||:::NOCLASS||111661||111664
+sentences.text||838||26||Jun||NN||I-NP||:::NOCLASS||111665||111668
+sentences.text||838||31-34||AP - 1 proteins||NN HYPH CD NNS||I-NP B-NP I-NP I-NP||:::NOCLASS||111694||111707
+sentences.text||838||45-48||NF - kappa B||NN HYPH NN NN||B-NP B-NP I-NP I-NP||:::NOCLASS||111773||111783
+sentences.text||838||50||Myb||NN||B-NP||:::NOCLASS||111785||111788
+sentences.text||838||55||ATF||NN||I-NP||:::NOCLASS||111808||111811
+sentences.text||838||57||CREB||NN||I-NP||:::NOCLASS||111812||111816
+sentences.text||839||6||mandibular||JJ||I-NP||UMLS:C0024687:T023:ANAT||111861||111871
+sentences.text||839||7||molars||NNS||I-NP||UMLS:C0026367:T023:ANAT||111872||111878
+sentences.text||841||1||ARG||NN||I-NP||:::NOCLASS||112140||112143
+sentences.text||841||2-3||SH2 domain||NN NN||I-NP I-NP||:::NOCLASS||112144||112154
+sentences.text||841||9||BCR||NN||B-NP||:::NOCLASS||112194||112197
+sentences.text||841||23||ABL||NN||I-NP||UMLS:C0000744:T047:DISO||112262||112265
+sentences.text||841||24-25||SH2 domain||NN NN||I-NP I-NP||:::NOCLASS||112266||112276
+sentences.text||842||25-26||IgM kappa||NN NN||B-NP I-NP||:::NOCLASS||112373||112382
+sentences.text||842||28-29||IgM lambda||NN NN||B-NP I-NP||:::NOCLASS||112387||112397
+sentences.text||844||9||omentum||NN||I-NP||UMLS:C0028977:T023:ANAT||112584||112591
+sentences.text||844||16||trachea||NN||I-NP||UMLS:C0040578:T023:ANAT||112631||112638
+sentences.text||845||10||ICS||NN||I-NP||UMLS:C0022521:T047:DISO||112800||112803
+sentences.text||845||20-23||BF - IV gene||NN HYPH CD NN||I-NP B-NP I-NP I-NP||:::NOCLASS||112863||112873
+sentences.text||845||40||herpes||NN||I-NP||UMLS:C0019340:T047:DISO||112937||112943
+sentences.text||845||41-42||TK promoter||NN NN||I-NP I-NP||:::NOCLASS||112944||112955
+sentences.text||845||45-47||chloramphenicol acetyl transferase||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||112972||113006
+sentences.text||845||49||CAT||NN||B-NP||:::NOCLASS||113008||113011
+sentences.text||845||53||pBLCAT2||NN||B-NP||:::NOCLASS||113019||113026
+sentences.text||847||19-20||GM2 gangliosidosis||NN NN||I-NP I-NP||UMLS:C0268274:T047:DISO||113333||113351
+sentences.text||848||17-18||CDC28 kinase||NN NN||I-NP I-NP||:::NOCLASS||113433||113445
+sentences.text||848||25||cyclins||NNS||I-NP||:::NOCLASS||113479||113486
+sentences.text||848||28||CLN1||NN||B-NP||UMLS:C1850451:T047:DISO||113498||113502
+sentences.text||848||30||CLN2||NN||B-NP||UMLS:C1876161:T047:DISO||113507||113511
+sentences.text||849||27-31||cyclin B1 - related sequences||NN NN HYPH VBN NNS||I-NP I-NP B-NP I-NP I-NP||:::NOCLASS||113677||113704
+sentences.text||849||28||B1||NN||I-NP||UMLS:C0507112:T023:ANAT||113684||113686
+sentences.text||849||34-37||loci Cycb1 - rs1||NNS NN HYPH NN||I-NP I-NP B-NP I-NP||:::NOCLASS||113717||113731
+sentences.text||849||39-41||Cycb1 - rs9||NN HYPH NN||B-NP B-NP I-NP||:::NOCLASS||113735||113744
+sentences.text||851||2||dentin||VB||I-VP||UMLS:C0011429:T023:ANAT||114046||114052
+sentences.text||851||7||dentin||NN||I-NP||UMLS:C0011429:T023:ANAT||114074||114080
+sentences.text||852||26||A1||NN||B-NP||UMLS:C0933653:T023:ANAT||114198||114200
+sentences.text||852||28||A2||NN||I-NP||UMLS:C0935080:T023:ANAT||114203||114205
+sentences.text||853||16||dentine||JJ||I-NP||UMLS:C0011429:T023:ANAT||114297||114304
+sentences.text||855||2||vasopressin||NN||I-NP||:::NOCLASS||114478||114489
+sentences.text||855||4||oxytocin||NN||I-NP||:::NOCLASS||114494||114502
+sentences.text||858||14||lymphopenia||NN||I-NP||UMLS:C0024312:T047:DISO||114984||114995
+sentences.text||858||19||lymphocytosis||NN||I-NP||UMLS:C0024282:T047:DISO||115018||115031
+sentences.text||858||26||CD25||NN||I-NP||:::NOCLASS||115071||115075
+sentences.text||858||28-30||interleukin 2 receptor||NN CD NN||B-NP I-NP I-NP||:::NOCLASS||115077||115099
+sentences.text||858||33||CD45RO||NN||B-NP||:::NOCLASS||115105||115111
+sentences.text||859||0||Urease||NN||B-NP||:::NOCLASS||115130||115136
+sentences.text||859||31-34||Jack bean meal urease||NNP NN JJ NN||B-NP I-NP I-NP I-NP||:::NOCLASS||115254||115275
+sentences.text||860||70||cardiac||JJ||B-NP||UMLS:C0018787:T023:ANAT||115515||115522
+sentences.text||862||10||alveoli||NNS||I-NP||UMLS:C1515933:T023:ANAT||115770||115777
+sentences.text||862||13||condition||NN||I-NP||UMLS:C0012634:T047:DISO||115786||115795
+sentences.text||864||10-11||interleukin 2||NN CD||I-NP I-NP||:::NOCLASS||116162||116175
+sentences.text||865||5-6||SCL gene||NN NN||I-NP I-NP||:::NOCLASS||116230||116238
+sentences.text||865||13-18||erythroid transcription factor GATA - 1||JJ NN NN NN HYPH CD||I-NP I-NP I-NP I-NP B-NP I-NP||:::NOCLASS||116263||116300
+sentences.text||865||22-24||SCL gene product||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||116314||116330
+sentences.text||866||7||Sec12p||NN||B-NP||:::NOCLASS||116428||116434
+sentences.text||866||9||Stl1p||NN||I-NP||:::NOCLASS||116436||116441
+sentences.text||866||11||Stl2p||NN||I-NP||:::NOCLASS||116446||116451
+sentences.text||867||7-12||his175 or his273 mutant p53 proteins||NN CC NN JJ NN NNS||B-NP O B-NP I-NP I-NP I-NP||:::NOCLASS||116563||116599
+sentences.text||867||20-22||RGC DNA sequence||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||116637||116653
+sentences.text||868||4||cold||JJ||I-NP||UMLS:C0009443:T047:DISO||116678||116682
+sentences.text||868||15||BRF1||NN||B-NP||:::NOCLASS||116744||116748
+sentences.text||868||24-31||RNA polymerases I , II , and III||NN NNS CD , CD , CC CD||B-NP I-NP I-NP I-NP I-NP O O B-NP||:::NOCLASS||116806||116836
+sentences.text||869||9-11||multisubunit TFIID protein||JJ NN NN||I-NP I-NP I-NP||:::NOCLASS||116898||116924
+sentences.text||870||17-19||RNase MRP enzyme||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||117113||117129
+sentences.text||871||1-4||RNase MRP RNA gene||NN NN NN NN||I-NP I-NP I-NP I-NP||:::NOCLASS||117148||117166
+sentences.text||871||25-26||RNase MRP||NN NN||B-NP I-NP||:::NOCLASS||117295||117304
+sentences.text||873||4-6||CBF - A||NN HYPH NN||B-NP I-NP I-NP||:::NOCLASS||117425||117430
+sentences.text||873||14-20||ssDNA - and RNA - binding protein||NN HYPH CC NN HYPH VBG NN||B-NP B-NP I-NP I-NP O B-NP I-NP||:::NOCLASS||117453||117483
+sentences.text||874||8-10||I - CreI||NN HYPH NN||B-NP B-NP I-NP||:::NOCLASS||117572||117578
+sentences.text||875||3-5||Xenopus U7 gene||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||117785||117800
+sentences.text||875||22||PSE||NN||I-NP||:::NOCLASS||117890||117893
+sentences.text||876||6||collagenase||NN||B-NP||:::NOCLASS||117994||118005
+sentences.text||876||12||blister||NN||B-NP||UMLS:C0344311:T047:DISO||118043||118050
+sentences.text||876||16-18||dystrophic epidermolysis bullosa||JJ NN NN||I-NP I-NP I-NP||UMLS:C0079294:T047:DISO||118074||118106
+sentences.text||877||9||traF||NN||I-NP||:::NOCLASS||118175||118179
+sentences.text||877||11||traG||NN||I-NP||:::NOCLASS||118184||118188
+sentences.text||877||15||traF||NN||B-NP||:::NOCLASS||118208||118212
+sentences.text||878||20-23||protein kinase C beta||NN NN NN NN||B-NP I-NP I-NP I-NP||:::NOCLASS||118360||118381
+sentences.text||879||4-6||AMP deaminase variants||NN NN NNS||I-NP I-NP I-NP||:::NOCLASS||118399||118421
+sentences.text||879||9||M||NN||B-NP||:::NOCLASS||118430||118431
+sentences.text||879||14||L||NN||B-NP||:::NOCLASS||118442||118443
+sentences.text||879||16||liver||NN||B-NP||UMLS:C0023884:T023:ANAT||118445||118450
+sentences.text||879||19||E1||NN||B-NP||:::NOCLASS||118453||118455
+sentences.text||879||22||E2||NN||B-NP||:::NOCLASS||118461||118463
+sentences.text||880||4-6||anti - E||AFX HYPH NN||O B-NP I-NP||:::NOCLASS||118584||118590
+sentences.text||880||22-24||truncated AMPD3 cDNA||VBN NN NN||I-NP I-NP I-NP||:::NOCLASS||118690||118710
+sentences.text||881||17||brain||NN||I-NP||UMLS:C0006104:T023:ANAT||118820||118825
+sentences.text||882||0-1||DR1 molecules||NN NNS||B-NP I-NP||:::NOCLASS||118835||118848
+sentences.text||884||0-2||Chronic hepatitis B||JJ NN NN||B-NP I-NP I-NP||UMLS:C0524909:T047:DISO||119108||119127
+sentences.text||885||2-3||ATPase cluster||NN NN||I-NP I-NP||:::NOCLASS||119169||119183
+sentences.text||886||8||HIV||NN||I-NP||UMLS:C0019693:T047:DISO||119338||119341
+sentences.text||887||18-21||Rel - related proteins||NN HYPH VBN NNS||I-NP B-NP I-NP I-NP||:::NOCLASS||119526||119546
+sentences.text||888||3||p50||NN||I-NP||:::NOCLASS||119673||119676
+sentences.text||888||6-11||p65 - selected kappa B motif||NN HYPH VBN NN NN NN||B-NP O B-NP I-NP I-NP I-NP||:::NOCLASS||119681||119707
+sentences.text||888||32-37||heterodimeric NF - kappa B complex||JJ NN HYPH NN NN NN||I-NP I-NP B-NP I-NP I-NP I-NP||:::NOCLASS||119824||119856
+sentences.text||889||8-14||mouse alpha 1 ( I ) gene||NN NN CD ( NN ) NN||I-NP I-NP I-NP O B-NP O B-NP||:::NOCLASS||119904||119925
+sentences.text||889||43-44||oncogenic ras||JJ NN||B-NP I-NP||:::NOCLASS||120042||120055
+sentences.text||890||13-15||human myoglobin gene||JJ NN NN||I-NP I-NP I-NP||:::NOCLASS||120150||120170
+sentences.text||890||41-43||firefly luciferase gene||JJ NN NN||I-NP I-NP I-NP||:::NOCLASS||120316||120339
+sentences.text||891||6-7||rap1t allele||NN NN||I-NP I-NP||:::NOCLASS||120381||120393
+sentences.text||892||15-21||H - 2RIIBP nuclear hormone receptor cDNA||NN HYPH NN JJ NN NN NN||I-NP B-NP I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||120552||120590
+sentences.text||893||13||brain||NN||I-NP||UMLS:C0006104:T023:ANAT||120757||120762
+sentences.text||893||24-25||tyrosine hydroxylase||NN NN||B-NP I-NP||:::NOCLASS||120835||120855
+sentences.text||894||9-10||coronary arteries||JJ NNS||I-NP I-NP||UMLS:C0205042:T023:ANAT||120912||120929
+sentences.text||896||17||nodes||NNS||I-NP||UMLS:C0746922:T023:ANAT||121190||121195
+sentences.text||896||22-23||lymphoid hyperplasia||JJ NN||B-NP I-NP||UMLS:C0333997:T047:DISO||121226||121246
+sentences.text||898||9-11||v - ets||NN HYPH NN||I-NP B-NP I-NP||:::NOCLASS||121361||121366
+sentences.text||898||14-24||myeloid / B - cell - specific factor PU . 1||JJ SYM NN HYPH NN HYPH JJ NN NN . CD||I-NP I-NP I-NP B-NP I-NP I-NP I-NP I-NP I-NP O B-NP||:::NOCLASS||121375||121410
+sentences.text||899||11-13||human immunodeficiency virus||JJ NN NN||I-NP I-NP I-NP||UMLS:C0019693:T047:DISO||121534||121562
+sentences.text||899||15-16||TATA element||NN NN||I-NP I-NP||:::NOCLASS||121565||121577
+sentences.text||899||37-40||TATA element modulatory factor||NN NN JJ NN||B-NP I-NP I-NP I-NP||:::NOCLASS||121692||121722
+sentences.text||899||42||TMF||NN||B-NP||:::NOCLASS||121724||121727
+sentences.text||900||10||prolactin||NN||B-NP||:::NOCLASS||121782||121791
+sentences.text||901||10||FA||NN||I-NP||UMLS:C1856689:T047:DISO||121895||121897
+sentences.text||901||16-17||HDL cholesterol||NN NN||B-NP I-NP||:::NOCLASS||121936||121951
+sentences.text||901||19-20||LDL cholesterol||NN NN||B-NP I-NP||:::NOCLASS||121953||121968
+sentences.text||901||22-23||apo A1||NN NN||B-NP I-NP||:::NOCLASS||121970||121976
+sentences.text||901||23||A1||NN||I-NP||UMLS:C0933653:T023:ANAT||121974||121976
+sentences.text||901||25-28||Lp ( a )||NN ( DT )||B-NP O O O||:::NOCLASS||121978||121983
+sentences.text||901||25||Lp||NN||B-NP||UMLS:C0228341:T023:ANAT||121978||121980
+sentences.text||901||30||HbA1C||NN||B-NP||:::NOCLASS||121985||121990
+sentences.text||901||34||fibrinogen||NN||B-NP||:::NOCLASS||122001||122011
+sentences.text||901||36-37||factor VIII||NN CD||B-NP I-NP||:::NOCLASS||122013||122024
+sentences.text||901||39-40||antithrombin III||NN CD||B-NP I-NP||:::NOCLASS||122026||122042
+sentences.text||901||42-44||plasminogen activator inhibitor||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||122044||122075
+sentences.text||901||46-48||tissue plasminogen activator||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||122077||122105
+sentences.text||901||50-52||von Willebrand factor||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||122110||122131
+sentences.text||901||50-51||von Willebrand||NN NN||B-NP I-NP||UMLS:C0042974:T047:DISO||122110||122124
+sentences.text||903||12||CEA||NN||B-NP||:::NOCLASS||122437||122440
+sentences.text||908||3-4||brachial plexus||JJ NN||I-NP I-NP||UMLS:C0006090:T023:ANAT||123044||123059
+sentences.text||910||7-9||latissimus dorsi muscle||JJ NN NN||I-NP I-NP I-NP||UMLS:C0224362:T023:ANAT||123376||123399
+sentences.text||911||1||TIMP||NN||I-NP||:::NOCLASS||123422||123426
+sentences.text||911||9||AP1||NN||B-NP||:::NOCLASS||123436||123439
+sentences.text||911||17-19||c - Fos||NN HYPH NN||B-NP I-NP I-NP||:::NOCLASS||123479||123484
+sentences.text||911||21-23||c - Jun||NN HYPH NN||I-NP B-NP I-NP||:::NOCLASS||123485||123490
+sentences.text||911||24||AP1||NN||I-NP||:::NOCLASS||123491||123494
+sentences.text||911||36-38||nuclear AP1 factors||JJ NN NNS||B-NP I-NP I-NP||:::NOCLASS||123561||123580
+sentences.text||912||2||AP1||NN||B-NP||:::NOCLASS||123697||123700
+sentences.text||912||4-6||PEA3 binding sites||NN NN NNS||I-NP I-NP I-NP||:::NOCLASS||123705||123723
+sentences.text||912||11-17||murine tissue inhibitor of metalloproteinases - 1||JJ NN NN IN NNS HYPH CD||B-NP I-NP I-NP B-PP B-NP B-NP I-NP||:::NOCLASS||123745||123792
+sentences.text||912||19-21||TIMP - 1||NN HYPH CD||O O O||:::NOCLASS||123794||123800
+sentences.text||913||2-3||serum neutralizing||NN NN||I-NP I-NP||:::NOCLASS||123824||123842
+sentences.text||913||30-31||SN antibody||NN NN||B-NP I-NP||:::NOCLASS||123915||123926
+sentences.text||914||12-14||PCAT - 1||NN HYPH CD||B-NP B-NP I-NP||:::NOCLASS||124086||124092
+sentences.text||915||4-12||recombinant human granulocyte - macrophage colony - stimulating factor||JJ JJ NN HYPH NN NN HYPH VBG NN||B-NP I-NP I-NP O B-NP I-NP O B-VP B-NP||:::NOCLASS||124186||124252
+sentences.text||915||25||bone||NN||I-NP||UMLS:C0262950:T023:ANAT||124322||124326
+sentences.text||915||26||marrow||NN||I-NP||UMLS:C0376152:T023:ANAT||124327||124333
+sentences.text||917||1||IgG||NN||I-NP||:::NOCLASS||124546||124549
+sentences.text||917||6-7||coeliac disease||JJ NN||I-NP I-NP||UMLS:C0007570:T047:DISO||124580||124595
+sentences.text||917||19||IgG1||NN||B-NP||:::NOCLASS||124645||124649
+sentences.text||917||21||IgG2||NN||I-NP||:::NOCLASS||124664||124668
+sentences.text||917||23||IgG3||NN||I-NP||:::NOCLASS||124671||124675
+sentences.text||917||25||IgG4||NN||I-NP||:::NOCLASS||124678||124682
+sentences.text||918||2||ANCA||NN||B-NP||:::NOCLASS||124798||124802
+sentences.text||918||15-16||renal vasculitis||JJ NN||B-NP I-NP||UMLS:C0152002:T047:DISO||124879||124895
+sentences.text||918||15||renal||JJ||B-NP||UMLS:C0022646:T023:ANAT||124879||124884
+sentences.text||919||3||hand||NN||I-NP||UMLS:C0018563:T023:ANAT||125025||125029
+sentences.text||920||0-1||Cicatricial pemphigoid||JJ NN||B-NP I-NP||UMLS:C0030804:T047:DISO||125189||125211
+sentences.text||920||5-6||systemic disease||JJ NN||I-NP I-NP||UMLS:C0442893:T047:DISO||125229||125245
+sentences.text||922||28||V1J1||NN||B-NP||:::NOCLASS||125595||125599
+sentences.text||924||5-7||ZFH - 2||NN HYPH CD||B-NP B-NP I-NP||:::NOCLASS||125627||125632
+sentences.text||924||16||DDC||NN||B-NP||:::NOCLASS||125681||125684
+sentences.text||925||6-8||ribosomal protein genes||JJ NN NNS||I-NP I-NP I-NP||:::NOCLASS||125768||125791
+sentences.text||925||16-17||S13 genes||NN NNS||I-NP I-NP||:::NOCLASS||125834||125843
+sentences.text||926||36-39||deep - vein thrombosis||JJ HYPH NN NN||I-NP I-NP I-NP I-NP||UMLS:C0149871:T047:DISO||126129||126149
+sentences.text||926||38||vein||NN||I-NP||UMLS:C0042449:T023:ANAT||126134||126138
+sentences.text||926||41||DVT||NN||B-NP||UMLS:C0149871:T047:DISO||126151||126154
+sentences.text||927||25||asthma||NN||I-NP||UMLS:C0004096:T047:DISO||126295||126301
+sentences.text||929||11||hemagglutinin||NN||I-NP||:::NOCLASS||126523||126536
+sentences.text||929||15-20||Limulus 18K agglutination - aggregation factor||NN NN NN HYPH NN NN||B-NP I-NP I-NP B-NP I-NP I-NP||:::NOCLASS||126553||126597
+sentences.text||929||22-24||18K - LAF||NN HYPH NN||B-NP B-NP I-NP||:::NOCLASS||126599||126606
+sentences.text||930||18||adenylylcyclase||NN||B-NP||:::NOCLASS||126722||126737
+sentences.text||932||9||Nmt1p||NN||B-NP||:::NOCLASS||126809||126814
+sentences.text||933||24-25||E2 gene||NN NN||I-NP I-NP||:::NOCLASS||127013||127020
+sentences.text||935||17||Vps1p||NN||B-NP||:::NOCLASS||127211||127216
+sentences.text||936||4||Vps1p||NN||B-NP||:::NOCLASS||127277||127282
+sentences.text||937||32-36||anti - SF group rickettsiae||AFX HYPH NN NN NN||B-NP I-NP I-NP I-NP I-NP||:::NOCLASS||127551||127576
+sentences.text||937||34||SF||NN||I-NP||UMLS:C0175256:T023:ANAT||127556||127558
+sentences.text||937||38||SFGR||NN||B-NP||:::NOCLASS||127578||127582
+sentences.text||937||64||JSFR||NN||B-NP||:::NOCLASS||127732||127736
+sentences.text||937||78||SFGR||NN||B-NP||:::NOCLASS||127818||127822
+sentences.text||937||82||organs||NNS||I-NP||UMLS:C0178784:T023:ANAT||127843||127849
+sentences.text||937||85-86||salivary gland||JJ NN||I-NP I-NP||UMLS:C0036098:T023:ANAT||127864||127878
+sentences.text||939||7-8||polyhedrin gene||NN NN||I-NP I-NP||:::NOCLASS||128073||128088
+sentences.text||941||11||cortical||JJ||B-NP||UMLS:C0001613:T023:ANAT||128249||128257
+sentences.text||942||10||Ad12||NN||B-NP||UMLS:C1970209:T047:DISO||128463||128467
+sentences.text||943||14||IE1||NN||B-NP||:::NOCLASS||128663||128666
+sentences.text||944||9||vein||NN||I-NP||UMLS:C0042449:T023:ANAT||128785||128789
+sentences.text||944||25||arterial||JJ||B-NP||UMLS:C0003842:T023:ANAT||128870||128878
+sentences.text||945||4||somatostatin||NN||I-NP||:::NOCLASS||128956||128968
+sentences.text||945||24-25||faecal incontinence||JJ NN||B-NP I-NP||UMLS:C0015732:T047:DISO||129090||129109
+sentences.text||945||28||calcitonin||NN||B-NP||:::NOCLASS||129127||129137
+sentences.text||946||0-3||Anti - CRK antibodies||AFX HYPH NN NNS||B-NP I-NP I-NP I-NP||:::NOCLASS||129146||129165
+sentences.text||948||1||vaccinia||NN||B-NP||UMLS:C0042214:T047:DISO||129379||129387
+sentences.text||950||0-2||Interferon type I||NN NN CD||B-NP I-NP I-NP||:::NOCLASS||129465||129482
+sentences.text||950||10-11||Klebsiella infection||NN NN||I-NP I-NP||UMLS:C0022729:T047:DISO||129531||129551
+sentences.text||951||12-14||Id - SCL||NN HYPH NN||B-NP O B-NP||:::NOCLASS||129643||129649
+sentences.text||955||5||ADH5||NN||B-NP||:::NOCLASS||130006||130010
+sentences.text||955||16||Sp1||NN||B-NP||:::NOCLASS||130089||130092
+sentences.text||955||18||AP2||NN||B-NP||:::NOCLASS||130094||130097
+sentences.text||955||20-22||LF - A1||NN HYPH NN||B-NP B-NP I-NP||:::NOCLASS||130099||130104
+sentences.text||955||22||A1||NN||I-NP||UMLS:C0933653:T023:ANAT||130102||130104
+sentences.text||955||24-26||NF - 1||NN HYPH CD||B-NP B-NP I-NP||:::NOCLASS||130106||130110
+sentences.text||955||28-30||NF - A2||NN HYPH NN||B-NP I-NP I-NP||:::NOCLASS||130112||130117
+sentences.text||955||30||A2||NN||I-NP||UMLS:C0935080:T023:ANAT||130115||130117
+sentences.text||955||33-35||NF - E1||NN HYPH NN||B-NP B-NP I-NP||:::NOCLASS||130123||130128
+sentences.text||957||4-8||RNK - Met - 1||NN HYPH NN HYPH CD||B-NP B-NP I-NP B-NP I-NP||:::NOCLASS||130158||130167
+sentences.text||957||11-12||serine protease||NN NN||I-NP I-NP||:::NOCLASS||130173||130188
+sentences.text||958||6-7||serine protease||NN NN||I-NP I-NP||:::NOCLASS||130311||130326
+sentences.text||958||9-13||RNK - Met - 1||NN HYPH NN HYPH CD||B-NP B-NP I-NP B-NP I-NP||:::NOCLASS||130328||130337
+sentences.text||959||4-6||dominant GCN2 mutations||JJ NN NNS||I-NP I-NP I-NP||:::NOCLASS||130416||130439
+sentences.text||959||12||GCN4||NN||B-NP||:::NOCLASS||130469||130473
+sentences.text||960||2-3||growth hormone||NN NN||B-NP I-NP||:::NOCLASS||130544||130558
+sentences.text||960||12||bone||NN||I-NP||UMLS:C0262950:T023:ANAT||130599||130603
+sentences.text||961||8||aa||NN||B-NP||UMLS:C1862382:T047:DISO||130667||130669
+sentences.text||961||15-18||CPMV RNA 1 sequence||NN NN CD NN||I-NP I-NP I-NP I-NP||:::NOCLASS||130710||130729
+sentences.text||961||24-29||red clover mottle virus RNA 1||JJ NN NN NN NN CD||B-NP I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||130758||130787
+sentences.text||961||32-34||CPSMV RNA 1||NN NN CD||B-NP I-NP I-NP||:::NOCLASS||130801||130812
+sentences.text||961||44-46||32K proteinase cofactor||NN NN NN||B-NP I-NP I-NP||:::NOCLASS||130865||130888
+sentences.text||961||48-50||58K presumed helicase||NN VBD NN||B-NP B-VP B-NP||:::NOCLASS||130890||130911
+sentences.text||961||52-57||VPg 5 ' - linked protein||NN CD SYM HYPH VBN NN||B-NP I-NP B-NP B-VP B-NP I-NP||:::NOCLASS||130913||130934
+sentences.text||961||63-64||24K proteinase||NN NN||B-NP I-NP||:::NOCLASS||130956||130970
+sentences.text||961||67-69||87K presumed polymerase||NN VBD NN||B-NP B-VP B-NP||:::NOCLASS||130976||130999
+sentences.text||962||0-5||Rice dwarf phytoreovirus segment S12 transcript||NN NN NN NN NN NN||B-NP I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||131035||131082
+sentences.text||962||1||dwarf||NN||I-NP||UMLS:C0013336:T047:DISO||131040||131045
+sentences.text||963||6-8||beta 2 transferrin||SYM CD NN||B-NP I-NP I-NP||:::NOCLASS||131137||131155
+sentences.text||963||14-16||cerebrospinal fluid otorrhea||JJ NN NN||B-NP I-NP I-NP||UMLS:C0007814:T047:DISO||131182||131210
+sentences.text||964||0||Cold||JJ||B-NP||UMLS:C0009443:T047:DISO||131225||131229
+sentences.text||966||21||PCA||NN||B-NP||UMLS:C0268398:T047:DISO||131622||131625
+sentences.text||966||28||MDS||NN||B-NP||UMLS:C0265219:T047:DISO||131666||131669
+sentences.text||967||4-9||glyceraldehyde - 3 - phosphate dehydrogenase||NN HYPH CD HYPH NN NN||B-NP B-NP I-NP I-NP I-NP I-NP||:::NOCLASS||131763||131803
+sentences.text||967||11||GAPDH||NN||B-NP||:::NOCLASS||131805||131810
+sentences.text||967||14-17||3 - phosphoglycerate kinase||CD HYPH NN NN||B-NP I-NP I-NP I-NP||:::NOCLASS||131813||131838
+sentences.text||967||19||PGK||NN||B-NP||:::NOCLASS||131840||131843
+sentences.text||967||28-29||triosephosphate isomerase||NN NN||B-NP I-NP||:::NOCLASS||131872||131897
+sentences.text||967||31||TIM||NN||B-NP||:::NOCLASS||131899||131902
+sentences.text||967||46-47||gap operon||NN NN||B-NP I-NP||:::NOCLASS||131983||131993
+sentences.text||967||55-57||gap amber mutant||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||132037||132053
+sentences.text||968||0-3||Pseudomonas aeruginosa exotoxin A||NN NN NN NN||B-NP I-NP I-NP I-NP||:::NOCLASS||132055||132088
+sentences.text||970||33-35||human ERCC3 cDNA||JJ NN NN||I-NP I-NP I-NP||:::NOCLASS||132620||132636
+sentences.text||971||0||Mono||AFX||B-NP||UMLS:C0021345:T047:DISO||132638||132642
+sentences.text||971||13||NAD||NN||B-NP||UMLS:C1850380:T047:DISO||132707||132710
+sentences.text||971||15-18||arginine ADP - ribosyltransferases||NN NN HYPH NNS||B-NP I-NP B-NP I-NP||:::NOCLASS||132711||132743
+sentences.text||971||20-27||EC 2 . 4 . 2 . 31||NNP CD . CD . CD . CD||B-NP I-NP O B-NP I-NP I-NP I-NP I-NP||:::NOCLASS||132745||132756
+sentences.text||971||30-33||ADP - ribosylarginine hydrolases||NN HYPH NN NNS||B-NP B-NP I-NP I-NP||:::NOCLASS||132762||132792
+sentences.text||971||35-42||EC 3 . 2 . 2 . 19||NNP CD . CD . CD . CD||B-NP I-NP O B-NP I-NP I-NP I-NP I-NP||:::NOCLASS||132794||132805
+sentences.text||972||12-20||HIV - 1 group specific core antigen p55 gag||NN HYPH CD NN JJ NN NN NN NN||I-NP B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||132940||132981
+sentences.text||972||12||HIV||NN||I-NP||UMLS:C0019693:T047:DISO||132940||132943
+sentences.text||972||34||vaccinia||NN||B-NP||UMLS:C0042214:T047:DISO||133070||133078
+sentences.text||972||43-45||core protein p55||NN NN NN||I-NP I-NP I-NP||:::NOCLASS||133135||133151
+sentences.text||973||1||tramtrack||NN||I-NP||:::NOCLASS||133236||133245
+sentences.text||973||3||ttk||NN||B-NP||:::NOCLASS||133247||133250
+sentences.text||973||23-24||ttk transcript||NN NN||I-NP I-NP||:::NOCLASS||133350||133364
+sentences.text||974||2-5||beta 2 - microglobulin||SYM CD HYPH NN||B-NP I-NP I-NP I-NP||:::NOCLASS||133377||133397
+sentences.text||975||2-5||beta 2 - microglobulin||SYM CD HYPH NN||B-NP I-NP I-NP I-NP||:::NOCLASS||133468||133488
+sentences.text||976||27||cortex||NN||I-NP||UMLS:C1176472:T023:ANAT||133696||133702
+sentences.text||976||46||cortex||NN||I-NP||UMLS:C1176472:T023:ANAT||133791||133797
+sentences.text||978||0||GAL4||NN||B-NP||:::NOCLASS||133905||133909
+sentences.text||978||2||VP16||NN||I-NP||:::NOCLASS||133910||133914
+sentences.text||981||0-1||Truncated ICSBP||VBN NN||B-NP I-NP||:::NOCLASS||134447||134462
+sentences.text||981||16||ICS||NN||I-NP||UMLS:C0022521:T047:DISO||134532||134535
+sentences.text||982||2||ICSBP||NN||B-NP||:::NOCLASS||134657||134662
+sentences.text||982||12||IFN||NN||B-NP||:::NOCLASS||134733||134736
+sentences.text||983||3-5||chronic hepatitis C||JJ NN NN||B-NP I-NP I-NP||UMLS:C0524910:T047:DISO||134787||134806
+sentences.text||983||7-8||primary hypothyroidism||JJ NN||B-NP I-NP||UMLS:C0700502:T047:DISO||134812||134834
+sentences.text||983||11||interferon||NN||B-NP||:::NOCLASS||134853||134863
+sentences.text||985||1-5||coiled - coil related protein||VBN HYPH NN VBN NN||I-NP I-NP I-NP I-NP I-NP||:::NOCLASS||134935||134962
+sentences.text||986||3-7||alpha 5 beta 1 integrin||SYM CD SYM CD NN||B-NP B-NP I-NP I-NP I-NP||:::NOCLASS||135048||135071
+sentences.text||986||20||fibronectin||NN||I-NP||:::NOCLASS||135148||135159
+sentences.text||986||26||column||NN||I-NP||UMLS:C1185738:T023:ANAT||135191||135197
+sentences.text||988||12||cardiac||JJ||I-NP||UMLS:C0018787:T023:ANAT||135315||135322
+sentences.text||988||16-17||myocardial ischaemia||JJ NN||B-NP I-NP||UMLS:C0151744:T047:DISO||135338||135358
+sentences.text||988||23-24||opiate receptors||JJ NNS||B-NP I-NP||:::NOCLASS||135388||135404
+sentences.text||989||4||LEU2||NN||B-NP||:::NOCLASS||135451||135455
+sentences.text||989||6||HIS3||NN||I-NP||:::NOCLASS||135460||135464
+sentences.text||990||3||ACT1||NN||B-NP||:::NOCLASS||135614||135618
+sentences.text||990||10||NSR1||NN||B-NP||:::NOCLASS||135648||135652
+sentences.text||991||1-4||CENP - B gene||NN HYPH NN NN||B-NP B-NP I-NP I-NP||:::NOCLASS||135672||135683
+sentences.text||991||11-14||CENP - B boxes||NN HYPH NN NNS||B-NP I-NP I-NP I-NP||:::NOCLASS||135722||135734
+sentences.text||992||6||tail||NN||I-NP||UMLS:C0039259:T023:ANAT||135944||135948
+sentences.text||992||9||aa||NN||B-NP||UMLS:C1862382:T047:DISO||135957||135959
+sentences.text||992||30||aa||NN||I-NP||UMLS:C1862382:T047:DISO||136025||136027
+sentences.text||992||34||brain||NN||I-NP||UMLS:C0006104:T023:ANAT||136047||136052
+sentences.text||992||39-41||glutamic acid decarboxylase||JJ NN NN||I-NP I-NP I-NP||:::NOCLASS||136070||136097
+sentences.text||993||7||Ht||NN||I-NP||UMLS:C0677607:T047:DISO||136136||136138
+sentences.text||993||76||albumin||NN||B-NP||:::NOCLASS||136401||136408
+sentences.text||995||16-30||3 - hydroxy - 3 - methylglutaryl coenzyme A ( HMG - CoA ) reductase||CD HYPH NN HYPH CD HYPH NN NN NN ( NN HYPH NN ) NN||B-NP I-NP I-NP B-NP I-NP I-NP I-NP I-NP I-NP O B-NP B-NP I-NP O B-NP||:::NOCLASS||136604||136661
+sentences.text||995||28||CoA||NN||I-NP||UMLS:C2678439:T047:DISO||136647||136650
+sentences.text||996||9||renal||JJ||I-NP||UMLS:C0022646:T023:ANAT||136871||136876

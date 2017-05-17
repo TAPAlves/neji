@@ -1,0 +1,14 @@
+T0	PRGE 21 28	SLCO1B1
+N0	Reference T0 UNIPROT:Q9Y6L6:T116:PRGE	SLCO1B1
+T1	PRGE 40 46	statin
+N1	Reference T1 UNIPROT:Q05639:T116:PRGE	statin
+T2	DISO 55 63	myopathy
+N2	Reference T2 UMLS:C0026848:T047:DISO	myopathy
+T3	DISO 169 184	hyperlipidaemia
+N3	Reference T3 UMLS:C0020473:T047:DISO	hyperlipidaemia
+T4	PRGE 282 289	SLCO1B1
+N4	Reference T4 UNIPROT:Q9Y6L6:T116:PRGE	SLCO1B1
+T5	DISO 326 334	myopathy
+N5	Reference T5 UMLS:C0026848:T047:DISO	myopathy
+T6	DISO 503 524	hypercholesterolaemia
+N6	Reference T6 UMLS:C0020443:T047:DISO	hypercholesterolaemia

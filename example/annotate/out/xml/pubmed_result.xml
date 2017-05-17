@@ -1,0 +1,342 @@
+<sentences><s id="0">&lt;?xml version=&quot;1.0&quot;?&gt;</s>
+<s id="1">&lt;!DOCTYPE PubmedArticleSet PUBLIC &quot;-//NLM//<e id="UMLS:C0220726:T047:DISO">DTD</e> PubMedArticle, 1st January 2017//EN&quot; &quot;https://<e id="UMLS:C0220726:T047:DISO|UNIPROT:P15559:T116:PRGE|UNIPROT:Q9BVA6:T116:PRGE|UNIPROT:Q9UKV8:T116:PRGE|UNIPROT:O15357:T116:PRGE|UNIPROT:P50443:T116:PRGE|UNIPROT:Q92835:T116:PRGE">dtd</e>.nlm.nih.<e id="UNIPROT:O95716:T116:PRGE">gov</e>/ncbi/pubmed/out/pubmed_170101.<e id="UMLS:C0220726:T047:DISO">dtd</e>&quot;&gt;</s>
+<s id="2">&lt;PubmedArticleSet&gt;</s>
+
+<s id="3">&lt;PubmedArticle&gt;</s>
+    <s id="4">&lt;MedlineCitation Status=&quot;In-Data-Review&quot; Owner=&quot;NLM&quot;&gt;</s>
+        <s id="5">&lt;PMID Version=&quot;1&quot;&gt;28469544&lt;/PMID&gt;</s>
+        <s id="6">&lt;DateCreated&gt;</s>
+            <s id="7">&lt;Year&gt;2017&lt;/Year&gt;</s>
+            <s id="8">&lt;Month&gt;05&lt;/Month&gt;</s>
+            <s id="9">&lt;Day&gt;04&lt;/Day&gt;</s>
+        <s id="10">&lt;/DateCreated&gt;</s>
+        <s id="11">&lt;DateRevised&gt;</s>
+            <s id="12">&lt;Year&gt;2017&lt;/Year&gt;</s>
+            <s id="13">&lt;Month&gt;05&lt;/Month&gt;</s>
+            <s id="14">&lt;Day&gt;07&lt;/Day&gt;</s>
+        <s id="15">&lt;/DateRevised&gt;</s>
+        <s id="16">&lt;Article PubModel=&quot;Electronic-eCollection&quot;&gt;</s>
+            <s id="17">&lt;Journal&gt;</s>
+                <s id="18">&lt;JournalIssue CitedMedium=&quot;Print&quot;&gt;</s>
+                    <s id="19">&lt;Volume&gt;61&lt;/Volume&gt;</s>
+                    <s id="20">&lt;Issue&gt;1&lt;/Issue&gt;</s>
+                    <s id="21">&lt;PubDate&gt;</s>
+                        <s id="22">&lt;Year&gt;2017&lt;/Year&gt;</s>
+                    <s id="23">&lt;/PubDate&gt;</s>
+                <s id="24">&lt;/JournalIssue&gt;</s>
+                <s id="25">&lt;Title&gt;Food &amp; nutrition research&lt;/Title&gt;</s>
+                <s id="26">&lt;ISOAbbreviation&gt;Food Nutr Res&lt;/ISOAbbreviation&gt;</s>
+            <s id="27">&lt;/Journal&gt;</s>
+            <s id="28">&lt;ArticleTitle&gt;Fucoxanthin prevents H2O2-induced neuronal apoptosis via concurrently activating the <e id="UNIPROT:P98170:T116:PRGE|UNIPROT:P19957:T116:PRGE">PI3-K</e>/<e id="UNIPROT:P31749:T116:PRGE">Akt</e> cascade and inhibiting the <e id="UNIPROT:Q9UBE8:T116:PRGE|UNIPROT:Q8TD08:T116:PRGE|UNIPROT:P45984:T116:PRGE|UNIPROT:P53779:T116:PRGE|UNIPROT:Q13164:T116:PRGE|UNIPROT:Q16539:T116:PRGE|UNIPROT:P28482:T116:PRGE|UNIPROT:Q13233:T116:PRGE|UNIPROT:P53778:T116:PRGE|UNIPROT:Q15759:T116:PRGE|UNIPROT:O15264:T116:PRGE|UNIPROT:P45983:T116:PRGE|UNIPROT:P31152:T116:PRGE|UNIPROT:P29323:T116:PRGE|UNIPROT:P27361:T116:PRGE|UNIPROT:Q16659:T116:PRGE">ERK</e> pathway.&lt;/ArticleTitle&gt;</s>
+            <s id="29">&lt;Pagination&gt;</s>
+                <s id="30">&lt;MedlinePgn&gt;1304678&lt;/MedlinePgn&gt;</s>
+            <s id="31">&lt;/Pagination&gt;</s>
+            <s id="32">&lt;ELocationID EIdType=&quot;doi&quot; ValidYN=&quot;Y&quot;&gt;10.1080/16546628.2017.1304678&lt;/ELocationID&gt;</s>
+            <s id="33">&lt;Abstract&gt;</s>
+                <s id="34">&lt;AbstractText&gt;Background: As a natural carotenoid abundant in chloroplasts of edible brown algae, fucoxanthin possesses various health benefits, including anti-oxidative activity in particular.</s> <s id="35">Objective: In the present study, we studied whether fucoxanthin protected against hydrogen peroxide (H2O2)-induced neuronal apoptosis.</s> <s id="36">Design: The neuroprotective effects of fucoxanthin on H2O2-induced toxicity were studied in both SH-SY5Y cells and primary <e id="UMLS:C0007765:T023:ANAT">cerebellar</e> granule neurons.</s> <s id="37">Results: Fucoxanthin significantly protected against H2O2-induced neuronal apoptosis and intracellular reactive oxygen species.</s> <s id="38">H2O2 treatment led to the reduced activity of <e id="UNIPROT:O00443:T116:PRGE|UNIPROT:O00750:T116:PRGE|UNIPROT:O00329:T116:PRGE|UNIPROT:O75747:T116:PRGE">phosphoinositide 3-kinase</e> (<e id="UNIPROT:P98170:T116:PRGE|UNIPROT:P19957:T116:PRGE">PI3-K</e>)/<e id="UNIPROT:P31749:T116:PRGE">Akt</e> cascade and the increased activity of extracellular signal-regulated kinase (<e id="UNIPROT:Q9UBE8:T116:PRGE|UNIPROT:Q8TD08:T116:PRGE|UNIPROT:P45984:T116:PRGE|UNIPROT:P53779:T116:PRGE|UNIPROT:Q13164:T116:PRGE|UNIPROT:Q16539:T116:PRGE|UNIPROT:P28482:T116:PRGE|UNIPROT:Q13233:T116:PRGE|UNIPROT:P53778:T116:PRGE|UNIPROT:Q15759:T116:PRGE|UNIPROT:O15264:T116:PRGE|UNIPROT:P45983:T116:PRGE|UNIPROT:P31152:T116:PRGE|UNIPROT:P29323:T116:PRGE|UNIPROT:P27361:T116:PRGE|UNIPROT:Q16659:T116:PRGE">ERK</e>) pathway in SH-SY5Y cells.</s> <s id="39">Moreover, fucoxanthin significantly restored the altered activities of <e id="UNIPROT:P98170:T116:PRGE|UNIPROT:P19957:T116:PRGE">PI3-K</e>/<e id="UNIPROT:P31749:T116:PRGE">Akt</e> and <e id="UNIPROT:Q9UBE8:T116:PRGE|UNIPROT:Q8TD08:T116:PRGE|UNIPROT:P45984:T116:PRGE|UNIPROT:P53779:T116:PRGE|UNIPROT:Q13164:T116:PRGE|UNIPROT:Q16539:T116:PRGE|UNIPROT:P28482:T116:PRGE|UNIPROT:Q13233:T116:PRGE|UNIPROT:P53778:T116:PRGE|UNIPROT:Q15759:T116:PRGE|UNIPROT:O15264:T116:PRGE|UNIPROT:P45983:T116:PRGE|UNIPROT:P31152:T116:PRGE|UNIPROT:P29323:T116:PRGE|UNIPROT:P27361:T116:PRGE|UNIPROT:Q16659:T116:PRGE">ERK</e> pathways induced by H2O2.</s> <s id="40">Both specific inhibitors of <e id="UNIPROT:P54840:T116:PRGE|UNIPROT:P13807:T116:PRGE">glycogen synthase kinase 3β</e> (GSK3β) and <e id="UNIPROT:Q9UBE8:T116:PRGE|UNIPROT:Q8TD08:T116:PRGE|UNIPROT:P45984:T116:PRGE|UNIPROT:P53779:T116:PRGE|UNIPROT:Q13164:T116:PRGE|UNIPROT:Q16539:T116:PRGE|UNIPROT:P28482:T116:PRGE|UNIPROT:P53778:T116:PRGE|UNIPROT:Q15759:T116:PRGE|UNIPROT:O15264:T116:PRGE|UNIPROT:P45983:T116:PRGE|UNIPROT:P31152:T116:PRGE|UNIPROT:P27361:T116:PRGE|UNIPROT:Q16659:T116:PRGE">mitogen-activated protein kinase kinase</e> (<e id="UNIPROT:P36507:T116:PRGE|UNIPROT:Q02750:T116:PRGE|UNIPROT:P52564:T116:PRGE|UNIPROT:P46734:T116:PRGE|UNIPROT:Q96KB5:T116:PRGE|UNIPROT:O14733:T116:PRGE|UNIPROT:Q13163:T116:PRGE|UNIPROT:P45985:T116:PRGE">MEK</e>) significantly protected against H2O2-induced neuronal death.</s> <s id="41">Furthermore, the neuroprotective effects of fucoxanthin against H2O2-induced neuronal death were abolished by specific <e id="UNIPROT:P98170:T116:PRGE|UNIPROT:P19957:T116:PRGE">PI3-K</e> inhibitors.</s> <s id="42">Conclusions: Our data strongly revealed that fucoxanthin protected against H2O2-induced neurotoxicity via concurrently activating the <e id="UNIPROT:P98170:T116:PRGE|UNIPROT:P19957:T116:PRGE">PI3-K</e>/<e id="UNIPROT:P31749:T116:PRGE">Akt</e> cascade and inhibiting the <e id="UNIPROT:Q9UBE8:T116:PRGE|UNIPROT:Q8TD08:T116:PRGE|UNIPROT:P45984:T116:PRGE|UNIPROT:P53779:T116:PRGE|UNIPROT:Q13164:T116:PRGE|UNIPROT:Q16539:T116:PRGE|UNIPROT:P28482:T116:PRGE|UNIPROT:Q13233:T116:PRGE|UNIPROT:P53778:T116:PRGE|UNIPROT:Q15759:T116:PRGE|UNIPROT:O15264:T116:PRGE|UNIPROT:P45983:T116:PRGE|UNIPROT:P31152:T116:PRGE|UNIPROT:P29323:T116:PRGE|UNIPROT:P27361:T116:PRGE|UNIPROT:Q16659:T116:PRGE">ERK</e> pathway, providing support for the use of fucoxanthin to treat <e id="UMLS:C0524851:T047:DISO">neurodegenerative disorders</e> induced by oxidative stress.&lt;/AbstractText&gt;</s>
+            <s id="43">&lt;/Abstract&gt;</s>
+            <s id="44">&lt;AuthorList CompleteYN=&quot;Y&quot;&gt;</s>
+                <s id="45">&lt;Author ValidYN=&quot;Y&quot;&gt;</s>
+                    <s id="46">&lt;LastName&gt;Yu&lt;/LastName&gt;</s>
+                    <s id="47">&lt;ForeName&gt;Jie&lt;/ForeName&gt;</s>
+                    <s id="48">&lt;Initials&gt;J&lt;/Initials&gt;</s>
+                    <s id="49">&lt;AffiliationInfo&gt;</s>
+                        <s id="50">&lt;Affiliation&gt;Ningbo Key Laboratory of Behavioral Neuroscience, Department of Physiology, School of Medicine, Ningbo University, Ningbo, PRChina.&lt;/Affiliation&gt;</s>
+                    <s id="51">&lt;/AffiliationInfo&gt;</s>
+                <s id="52">&lt;/Author&gt;</s>
+                <s id="53">&lt;Author ValidYN=&quot;Y&quot;&gt;</s>
+                    <s id="54">&lt;LastName&gt;Lin&lt;/LastName&gt;</s>
+                    <s id="55">&lt;ForeName&gt;Jia-Jia&lt;/ForeName&gt;</s>
+                    <s id="56">&lt;Initials&gt;JJ&lt;/Initials&gt;</s>
+                    <s id="57">&lt;AffiliationInfo&gt;</s>
+                        <s id="58">&lt;Affiliation&gt;Ningbo Key Laboratory of Behavioral Neuroscience, Department of Physiology, School of Medicine, Ningbo University, Ningbo, PRChina.&lt;/Affiliation&gt;</s>
+                    <s id="59">&lt;/AffiliationInfo&gt;</s>
+                <s id="60">&lt;/Author&gt;</s>
+                <s id="61">&lt;Author ValidYN=&quot;Y&quot;&gt;</s>
+                    <s id="62">&lt;LastName&gt;Yu&lt;/LastName&gt;</s>
+                    <s id="63">&lt;ForeName&gt;Rui&lt;/ForeName&gt;</s>
+                    <s id="64">&lt;Initials&gt;R&lt;/Initials&gt;</s>
+                    <s id="65">&lt;AffiliationInfo&gt;</s>
+                        <s id="66">&lt;Affiliation&gt;Ningbo Key Laboratory of Behavioral Neuroscience, Department of Physiology, School of Medicine, Ningbo University, Ningbo, PRChina.&lt;/Affiliation&gt;</s>
+                    <s id="67">&lt;/AffiliationInfo&gt;</s>
+                <s id="68">&lt;/Author&gt;</s>
+                <s id="69">&lt;Author ValidYN=&quot;Y&quot;&gt;</s>
+                    <s id="70">&lt;LastName&gt;He&lt;/LastName&gt;</s>
+                    <s id="71">&lt;ForeName&gt;Shan&lt;/ForeName&gt;</s>
+                    <s id="72">&lt;Initials&gt;S&lt;/Initials&gt;</s>
+                    <s id="73">&lt;AffiliationInfo&gt;</s>
+                        <s id="74">&lt;Affiliation&gt;School of Marine Sciences, Ningbo University, Ningbo, Ningbo, PRChina.&lt;/Affiliation&gt;</s>
+                    <s id="75">&lt;/AffiliationInfo&gt;</s>
+                <s id="76">&lt;/Author&gt;</s>
+                <s id="77">&lt;Author ValidYN=&quot;Y&quot;&gt;</s>
+                    <s id="78">&lt;LastName&gt;Wang&lt;/LastName&gt;</s>
+                    <s id="79">&lt;ForeName&gt;Qin-Wen&lt;/ForeName&gt;</s>
+                    <s id="80">&lt;Initials&gt;QW&lt;/Initials&gt;</s>
+                    <s id="81">&lt;AffiliationInfo&gt;</s>
+                        <s id="82">&lt;Affiliation&gt;Ningbo Key Laboratory of Behavioral Neuroscience, Department of Physiology, School of Medicine, Ningbo University, Ningbo, PRChina.&lt;/Affiliation&gt;</s>
+                    <s id="83">&lt;/AffiliationInfo&gt;</s>
+                <s id="84">&lt;/Author&gt;</s>
+                <s id="85">&lt;Author ValidYN=&quot;Y&quot;&gt;</s>
+                    <s id="86">&lt;LastName&gt;Cui&lt;/LastName&gt;</s>
+                    <s id="87">&lt;ForeName&gt;Wei&lt;/ForeName&gt;</s>
+                    <s id="88">&lt;Initials&gt;W&lt;/Initials&gt;</s>
+                    <s id="89">&lt;AffiliationInfo&gt;</s>
+                        <s id="90">&lt;Affiliation&gt;Ningbo Key Laboratory of Behavioral Neuroscience, Department of Physiology, School of Medicine, Ningbo University, Ningbo, PRChina.&lt;/Affiliation&gt;</s>
+                    <s id="91">&lt;/AffiliationInfo&gt;</s>
+                <s id="92">&lt;/Author&gt;</s>
+                <s id="93">&lt;Author ValidYN=&quot;Y&quot;&gt;</s>
+                    <s id="94">&lt;LastName&gt;Zhang&lt;/LastName&gt;</s>
+                    <s id="95">&lt;ForeName&gt;Jin-Rong&lt;/ForeName&gt;</s>
+                    <s id="96">&lt;Initials&gt;JR&lt;/Initials&gt;</s>
+                    <s id="97">&lt;AffiliationInfo&gt;</s>
+                        <s id="98">&lt;Affiliation&gt;School of Marine Sciences, Ningbo University, Ningbo, Ningbo, PRChina.&lt;/Affiliation&gt;</s>
+                    <s id="99">&lt;/AffiliationInfo&gt;</s>
+                <s id="100">&lt;/Author&gt;</s>
+            <s id="101">&lt;/AuthorList&gt;</s>
+            <s id="102">&lt;Language&gt;eng&lt;/Language&gt;</s>
+            <s id="103">&lt;PublicationTypeList&gt;</s>
+                <s id="104">&lt;PublicationType UI=&quot;D016428&quot;&gt;Journal Article&lt;/PublicationType&gt;</s>
+            <s id="105">&lt;/PublicationTypeList&gt;</s>
+            <s id="106">&lt;ArticleDate DateType=&quot;Electronic&quot;&gt;</s>
+                <s id="107">&lt;Year&gt;2017&lt;/Year&gt;</s>
+                <s id="108">&lt;Month&gt;03&lt;/Month&gt;</s>
+                <s id="109">&lt;Day&gt;28&lt;/Day&gt;</s>
+            <s id="110">&lt;/ArticleDate&gt;</s>
+        <s id="111">&lt;/Article&gt;</s>
+        <s id="112">&lt;MedlineJournalInfo&gt;</s>
+            <s id="113">&lt;Country&gt;United States&lt;/Country&gt;</s>
+            <s id="114">&lt;MedlineTA&gt;Food Nutr Res&lt;/MedlineTA&gt;</s>
+            <s id="115">&lt;NlmUniqueID&gt;101488795&lt;/NlmUniqueID&gt;</s>
+            <s id="116">&lt;ISSNLinking&gt;1654-661X&lt;/ISSNLinking&gt;</s>
+        <s id="117">&lt;/MedlineJournalInfo&gt;</s>
+        <s id="118">&lt;CommentsCorrectionsList&gt;</s>
+            <s id="119">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="120">&lt;RefSource&gt;<e id="UMLS:C0740302:T047:DISO">Mar</e> Drugs.</s> <s id="121">2014 Jul 15;12(7):4214-30&lt;/RefSource&gt;</s>
+                <s id="122">&lt;PMID Version=&quot;1&quot;&gt;25028796&lt;/PMID&gt;</s>
+            <s id="123">&lt;/CommentsCorrections&gt;</s>
+            <s id="124">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="125">&lt;RefSource&gt;<e id="UMLS:C0006104:T023:ANAT">Brain</e> Res.</s> <s id="126">2011 Jun 7;1394:14-23&lt;/RefSource&gt;</s>
+                <s id="127">&lt;PMID Version=&quot;1&quot;&gt;21315693&lt;/PMID&gt;</s>
+            <s id="128">&lt;/CommentsCorrections&gt;</s>
+            <s id="129">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="130">&lt;RefSource&gt;Lipids.</s> <s id="131">2013 May;48(5):449-55&lt;/RefSource&gt;</s>
+                <s id="132">&lt;PMID Version=&quot;1&quot;&gt;23516000&lt;/PMID&gt;</s>
+            <s id="133">&lt;/CommentsCorrections&gt;</s>
+            <s id="134">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="135">&lt;RefSource&gt;Oxid Med Cell Longev.</s> <s id="136">2014;2014:497802&lt;/RefSource&gt;</s>
+                <s id="137">&lt;PMID Version=&quot;1&quot;&gt;24683436&lt;/PMID&gt;</s>
+            <s id="138">&lt;/CommentsCorrections&gt;</s>
+            <s id="139">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="140">&lt;RefSource&gt;Biochem Soc Trans.</s> <s id="141">2006 Dec;34(Pt 6):1287-90&lt;/RefSource&gt;</s>
+                <s id="142">&lt;PMID Version=&quot;1&quot;&gt;17073803&lt;/PMID&gt;</s>
+            <s id="143">&lt;/CommentsCorrections&gt;</s>
+            <s id="144">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="145">&lt;RefSource&gt;J Agric Food Chem.</s> <s id="146">2007 Sep 19;55(19):7701-6&lt;/RefSource&gt;</s>
+                <s id="147">&lt;PMID Version=&quot;1&quot;&gt;17715888&lt;/PMID&gt;</s>
+            <s id="148">&lt;/CommentsCorrections&gt;</s>
+            <s id="149">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="150">&lt;RefSource&gt;Biochim Biophys Acta.</s> <s id="151">2008 Apr;1780(4):743-9&lt;/RefSource&gt;</s>
+                <s id="152">&lt;PMID Version=&quot;1&quot;&gt;18230364&lt;/PMID&gt;</s>
+            <s id="153">&lt;/CommentsCorrections&gt;</s>
+            <s id="154">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="155">&lt;RefSource&gt;<e id="UMLS:C0740302:T047:DISO">Mar</e> Drugs.</s> <s id="156">2012 Apr;10(4):812-33&lt;/RefSource&gt;</s>
+                <s id="157">&lt;PMID Version=&quot;1&quot;&gt;22690145&lt;/PMID&gt;</s>
+            <s id="158">&lt;/CommentsCorrections&gt;</s>
+            <s id="159">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="160">&lt;RefSource&gt;Cell Mol Neurobiol.</s> <s id="161">2015 Apr;35(3):335-44&lt;/RefSource&gt;</s>
+                <s id="162">&lt;PMID Version=&quot;1&quot;&gt;25352420&lt;/PMID&gt;</s>
+            <s id="163">&lt;/CommentsCorrections&gt;</s>
+            <s id="164">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="165">&lt;RefSource&gt;Food Chem Toxicol.</s> <s id="166">2011 Apr;49(4):727-33&lt;/RefSource&gt;</s>
+                <s id="167">&lt;PMID Version=&quot;1&quot;&gt;21146577&lt;/PMID&gt;</s>
+            <s id="168">&lt;/CommentsCorrections&gt;</s>
+            <s id="169">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="170">&lt;RefSource&gt;Mol Neurobiol.</s> <s id="171">2004 Dec;30(3):253-64&lt;/RefSource&gt;</s>
+                <s id="172">&lt;PMID Version=&quot;1&quot;&gt;15655251&lt;/PMID&gt;</s>
+            <s id="173">&lt;/CommentsCorrections&gt;</s>
+            <s id="174">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="175">&lt;RefSource&gt;Mol Nutr Food Res.</s> <s id="176">2009 Dec;53(12 ):1603-11&lt;/RefSource&gt;</s>
+                <s id="177">&lt;PMID Version=&quot;1&quot;&gt;19842104&lt;/PMID&gt;</s>
+            <s id="178">&lt;/CommentsCorrections&gt;</s>
+            <s id="179">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="180">&lt;RefSource&gt;PLoS One.</s> <s id="181">2012;7(9):e46253&lt;/RefSource&gt;</s>
+                <s id="182">&lt;PMID Version=&quot;1&quot;&gt;23049997&lt;/PMID&gt;</s>
+            <s id="183">&lt;/CommentsCorrections&gt;</s>
+            <s id="184">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="185">&lt;RefSource&gt;Exp Neurobiol.</s> <s id="186">2015 Dec;24(4):325-40&lt;/RefSource&gt;</s>
+                <s id="187">&lt;PMID Version=&quot;1&quot;&gt;26713080&lt;/PMID&gt;</s>
+            <s id="188">&lt;/CommentsCorrections&gt;</s>
+            <s id="189">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="190">&lt;RefSource&gt;<e id="UMLS:C0740302:T047:DISO">Mar</e> Drugs.</s> <s id="191">2012 <e id="UMLS:C0740302:T047:DISO">Mar</e>;10(3):604-16&lt;/RefSource&gt;</s>
+                <s id="192">&lt;PMID Version=&quot;1&quot;&gt;22611357&lt;/PMID&gt;</s>
+            <s id="193">&lt;/CommentsCorrections&gt;</s>
+            <s id="194">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="195">&lt;RefSource&gt;Br J Pharmacol.</s> <s id="196">2013 <e id="UMLS:C0740302:T047:DISO">Mar</e>;168(5):1201-14&lt;/RefSource&gt;</s>
+                <s id="197">&lt;PMID Version=&quot;1&quot;&gt;23062100&lt;/PMID&gt;</s>
+            <s id="198">&lt;/CommentsCorrections&gt;</s>
+            <s id="199">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="200">&lt;RefSource&gt;J Mol Neurosci.</s> <s id="201">2005;25(2):133-40&lt;/RefSource&gt;</s>
+                <s id="202">&lt;PMID Version=&quot;1&quot;&gt;15784961&lt;/PMID&gt;</s>
+            <s id="203">&lt;/CommentsCorrections&gt;</s>
+            <s id="204">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="205">&lt;RefSource&gt;Ann N Y Acad Sci.</s> <s id="206">2005 May;1042:325-37&lt;/RefSource&gt;</s>
+                <s id="207">&lt;PMID Version=&quot;1&quot;&gt;15965078&lt;/PMID&gt;</s>
+            <s id="208">&lt;/CommentsCorrections&gt;</s>
+            <s id="209">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="210">&lt;RefSource&gt;Cell Mol Neurobiol.</s> <s id="211">2014 Oct;34(7):973-85&lt;/RefSource&gt;</s>
+                <s id="212">&lt;PMID Version=&quot;1&quot;&gt;24848007&lt;/PMID&gt;</s>
+            <s id="213">&lt;/CommentsCorrections&gt;</s>
+            <s id="214">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="215">&lt;RefSource&gt;Evid Based Complement Alternat Med.</s> <s id="216">2015;2015:723515&lt;/RefSource&gt;</s>
+                <s id="217">&lt;PMID Version=&quot;1&quot;&gt;26106437&lt;/PMID&gt;</s>
+            <s id="218">&lt;/CommentsCorrections&gt;</s>
+            <s id="219">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="220">&lt;RefSource&gt;J Histochem Cytochem.</s> <s id="221">1985 Jan;33(1):77-9&lt;/RefSource&gt;</s>
+                <s id="222">&lt;PMID Version=&quot;1&quot;&gt;2578146&lt;/PMID&gt;</s>
+            <s id="223">&lt;/CommentsCorrections&gt;</s>
+            <s id="224">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="225">&lt;RefSource&gt;<e id="UMLS:C0740302:T047:DISO">Mar</e> Drugs.</s> <s id="226">2015 Sep 30;13(10):6226-46&lt;/RefSource&gt;</s>
+                <s id="227">&lt;PMID Version=&quot;1&quot;&gt;26437420&lt;/PMID&gt;</s>
+            <s id="228">&lt;/CommentsCorrections&gt;</s>
+            <s id="229">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="230">&lt;RefSource&gt;Cell Mol Neurobiol.</s> <s id="231">2016 Nov;36(8):1365-1375&lt;/RefSource&gt;</s>
+                <s id="232">&lt;PMID Version=&quot;1&quot;&gt;26961382&lt;/PMID&gt;</s>
+            <s id="233">&lt;/CommentsCorrections&gt;</s>
+            <s id="234">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="235">&lt;RefSource&gt;J Photochem Photobiol B.</s> <s id="236">2009 May 4;95(2):101-7&lt;/RefSource&gt;</s>
+                <s id="237">&lt;PMID Version=&quot;1&quot;&gt;19264501&lt;/PMID&gt;</s>
+            <s id="238">&lt;/CommentsCorrections&gt;</s>
+            <s id="239">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="240">&lt;RefSource&gt;CNS Neurosci Ther.</s> <s id="241">2013 Oct;19(10):764-72&lt;/RefSource&gt;</s>
+                <s id="242">&lt;PMID Version=&quot;1&quot;&gt;23826635&lt;/PMID&gt;</s>
+            <s id="243">&lt;/CommentsCorrections&gt;</s>
+            <s id="244">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="245">&lt;RefSource&gt;<e id="UMLS:C0740302:T047:DISO">Mar</e> Drugs.</s> <s id="246">2013 Dec 16;11(12):5130-47&lt;/RefSource&gt;</s>
+                <s id="247">&lt;PMID Version=&quot;1&quot;&gt;24351910&lt;/PMID&gt;</s>
+            <s id="248">&lt;/CommentsCorrections&gt;</s>
+            <s id="249">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="250">&lt;RefSource&gt;J Mol Neurosci.</s> <s id="251">2015 Apr;55(4):1014-21&lt;/RefSource&gt;</s>
+                <s id="252">&lt;PMID Version=&quot;1&quot;&gt;25407821&lt;/PMID&gt;</s>
+            <s id="253">&lt;/CommentsCorrections&gt;</s>
+            <s id="254">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="255">&lt;RefSource&gt;J Neurosci.</s> <s id="256">1996 <e id="UNIPROT:P00480:T116:PRGE|UNIPROT:O75051:T116:PRGE">Oct 1</e>;16(19):5914-22&lt;/RefSource&gt;</s>
+                <s id="257">&lt;PMID Version=&quot;1&quot;&gt;8815874&lt;/PMID&gt;</s>
+            <s id="258">&lt;/CommentsCorrections&gt;</s>
+            <s id="259">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="260">&lt;RefSource&gt;Int J Biol Macromol.</s> <s id="261">2010 <e id="UMLS:C0740302:T047:DISO">Mar</e> 1;46(2):193-8&lt;/RefSource&gt;</s>
+                <s id="262">&lt;PMID Version=&quot;1&quot;&gt;20025899&lt;/PMID&gt;</s>
+            <s id="263">&lt;/CommentsCorrections&gt;</s>
+            <s id="264">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="265">&lt;RefSource&gt;Eur J Pharmacol.</s> <s id="266">2010 Dec 15;649(1-3):369-75&lt;/RefSource&gt;</s>
+                <s id="267">&lt;PMID Version=&quot;1&quot;&gt;20868674&lt;/PMID&gt;</s>
+            <s id="268">&lt;/CommentsCorrections&gt;</s>
+            <s id="269">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="270">&lt;RefSource&gt;<e id="UMLS:C0740302:T047:DISO">Mar</e> Drugs.</s> <s id="271">2016 <e id="UMLS:C0740302:T047:DISO">Mar</e> 25;14 (4):null&lt;/RefSource&gt;</s>
+                <s id="272">&lt;PMID Version=&quot;1&quot;&gt;27023569&lt;/PMID&gt;</s>
+            <s id="273">&lt;/CommentsCorrections&gt;</s>
+            <s id="274">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="275">&lt;RefSource&gt;<e id="UMLS:C0740302:T047:DISO">Mar</e> Drugs.</s> <s id="276">2015 Aug 04;13(8):4799-813&lt;/RefSource&gt;</s>
+                <s id="277">&lt;PMID Version=&quot;1&quot;&gt;26248075&lt;/PMID&gt;</s>
+            <s id="278">&lt;/CommentsCorrections&gt;</s>
+            <s id="279">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="280">&lt;RefSource&gt;<e id="UMLS:C0740302:T047:DISO">Mar</e> Drugs.</s> <s id="281">2015 Apr 13;13(4):2196-214&lt;/RefSource&gt;</s>
+                <s id="282">&lt;PMID Version=&quot;1&quot;&gt;25871295&lt;/PMID&gt;</s>
+            <s id="283">&lt;/CommentsCorrections&gt;</s>
+            <s id="284">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="285">&lt;RefSource&gt;CNS Neurosci Ther.</s> <s id="286">2014 <e id="UMLS:C0740302:T047:DISO">Mar</e>;20(3):244-52&lt;/RefSource&gt;</s>
+                <s id="287">&lt;PMID Version=&quot;1&quot;&gt;24393200&lt;/PMID&gt;</s>
+            <s id="288">&lt;/CommentsCorrections&gt;</s>
+            <s id="289">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="290">&lt;RefSource&gt;Cell Signal.</s> <s id="291">2014 Dec;26(12):2694-701&lt;/RefSource&gt;</s>
+                <s id="292">&lt;PMID Version=&quot;1&quot;&gt;25173700&lt;/PMID&gt;</s>
+            <s id="293">&lt;/CommentsCorrections&gt;</s>
+            <s id="294">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="295">&lt;RefSource&gt;Toxicol In Vitro.</s> <s id="296">2011 Oct;25(7):1314-9&lt;/RefSource&gt;</s>
+                <s id="297">&lt;PMID Version=&quot;1&quot;&gt;21569835&lt;/PMID&gt;</s>
+            <s id="298">&lt;/CommentsCorrections&gt;</s>
+            <s id="299">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="300">&lt;RefSource&gt;Mech Ageing Dev.</s> <s id="301">2002 Nov;123(12):1597-604&lt;/RefSource&gt;</s>
+                <s id="302">&lt;PMID Version=&quot;1&quot;&gt;12470897&lt;/PMID&gt;</s>
+            <s id="303">&lt;/CommentsCorrections&gt;</s>
+            <s id="304">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="305">&lt;RefSource&gt;Biomol Ther (Seoul).</s> <s id="306">2013 Jul 30;21(4):270-6&lt;/RefSource&gt;</s>
+                <s id="307">&lt;PMID Version=&quot;1&quot;&gt;24244811&lt;/PMID&gt;</s>
+            <s id="308">&lt;/CommentsCorrections&gt;</s>
+            <s id="309">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="310">&lt;RefSource&gt;Nutr Res Pract.</s> <s id="311">2013 Dec;7(6):475-80&lt;/RefSource&gt;</s>
+                <s id="312">&lt;PMID Version=&quot;1&quot;&gt;24353833&lt;/PMID&gt;</s>
+            <s id="313">&lt;/CommentsCorrections&gt;</s>
+            <s id="314">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="315">&lt;RefSource&gt;J Mol Neurosci.</s> <s id="316">2015 Dec;57(4):561-70&lt;/RefSource&gt;</s>
+                <s id="317">&lt;PMID Version=&quot;1&quot;&gt;26346600&lt;/PMID&gt;</s>
+            <s id="318">&lt;/CommentsCorrections&gt;</s>
+            <s id="319">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="320">&lt;RefSource&gt;Cell Mol Neurobiol.</s> <s id="321">2012 May;32(4):523-9&lt;/RefSource&gt;</s>
+                <s id="322">&lt;PMID Version=&quot;1&quot;&gt;22222440&lt;/PMID&gt;</s>
+            <s id="323">&lt;/CommentsCorrections&gt;</s>
+            <s id="324">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="325">&lt;RefSource&gt;J Agric Food Chem.</s> <s id="326">2013 Apr 24;61(16):3876-83&lt;/RefSource&gt;</s>
+                <s id="327">&lt;PMID Version=&quot;1&quot;&gt;23551304&lt;/PMID&gt;</s>
+            <s id="328">&lt;/CommentsCorrections&gt;</s>
+            <s id="329">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="330">&lt;RefSource&gt;J Biol Chem.</s> <s id="331">2010 Jun 25;285(26):19947-58&lt;/RefSource&gt;</s>
+                <s id="332">&lt;PMID Version=&quot;1&quot;&gt;20404346&lt;/PMID&gt;</s>
+            <s id="333">&lt;/CommentsCorrections&gt;</s>
+            <s id="334">&lt;CommentsCorrections RefType=&quot;Cites&quot;&gt;</s>
+                <s id="335">&lt;RefSource&gt;<e id="UMLS:C0006104:T023:ANAT">Brain</e> Res.</s> <s id="336">2007 Jan 19;1129(1):89-99&lt;/RefSource&gt;</s>
+                <s id="337">&lt;PMID Version=&quot;1&quot;&gt;17157278&lt;/PMID&gt;</s>
+            <s id="338">&lt;/CommentsCorrections&gt;</s>
+        <s id="339">&lt;/CommentsCorrectionsList&gt;</s>
+        <s id="340">&lt;KeywordList Owner=&quot;NOTNLM&quot;&gt;</s>
+            <s id="341">&lt;Keyword MajorTopicYN=&quot;N&quot;&gt;Akt&lt;/Keyword&gt;</s>
+            <s id="342">&lt;Keyword MajorTopicYN=&quot;N&quot;&gt;<e id="UNIPROT:Q9UBE8:T116:PRGE|UNIPROT:Q8TD08:T116:PRGE|UNIPROT:P45984:T116:PRGE|UNIPROT:P53779:T116:PRGE|UNIPROT:Q13164:T116:PRGE|UNIPROT:Q16539:T116:PRGE|UNIPROT:P28482:T116:PRGE|UNIPROT:Q13233:T116:PRGE|UNIPROT:P53778:T116:PRGE|UNIPROT:Q15759:T116:PRGE|UNIPROT:O15264:T116:PRGE|UNIPROT:P45983:T116:PRGE|UNIPROT:P31152:T116:PRGE|UNIPROT:P29323:T116:PRGE|UNIPROT:P27361:T116:PRGE|UNIPROT:Q16659:T116:PRGE">ERK</e>&lt;/Keyword&gt;</s>
+            <s id="343">&lt;Keyword MajorTopicYN=&quot;N&quot;&gt;Fucoxanthin&lt;/Keyword&gt;</s>
+            <s id="344">&lt;Keyword MajorTopicYN=&quot;N&quot;&gt;H2O2&lt;/Keyword&gt;</s>
+            <s id="345">&lt;Keyword MajorTopicYN=&quot;N&quot;&gt;<e id="UMLS:C0524851:T047:DISO">neurodegenerative disorders</e>&lt;/Keyword&gt;</s>
+        <s id="346">&lt;/KeywordList&gt;</s>
+    <s id="347">&lt;/MedlineCitation&gt;</s>
+    <s id="348">&lt;PubmedData&gt;</s>
+        <s id="349">&lt;History&gt;</s>
+            <s id="350">&lt;PubMedPubDate PubStatus=&quot;received&quot;&gt;</s>
+                <s id="351">&lt;Year&gt;2016&lt;/Year&gt;</s>
+                <s id="352">&lt;Month&gt;12&lt;/Month&gt;</s>
+                <s id="353">&lt;Day&gt;21&lt;/Day&gt;</s>
+            <s id="354">&lt;/PubMedPubDate&gt;</s>
+            <s id="355">&lt;PubMedPubDate PubStatus=&quot;accepted&quot;&gt;</s>
+                <s id="356">&lt;Year&gt;2017&lt;/Year&gt;</s>
+                <s id="357">&lt;Month&gt;02&lt;/Month&gt;</s>
+                <s id="358">&lt;Day&gt;28&lt;/Day&gt;</s>
+            <s id="359">&lt;/PubMedPubDate&gt;</s>
+            <s id="360">&lt;PubMedPubDate PubStatus=&quot;entrez&quot;&gt;</s>
+                <s id="361">&lt;Year&gt;2017&lt;/Year&gt;</s>
+                <s id="362">&lt;Month&gt;5&lt;/Month&gt;</s>
+                <s id="363">&lt;Day&gt;5&lt;/Day&gt;</s>
+                <s id="364">&lt;Hour&gt;6&lt;/Hour&gt;</s>
+                <s id="365">&lt;Minute&gt;0&lt;/Minute&gt;</s>
+            <s id="366">&lt;/PubMedPubDate&gt;</s>
+            <s id="367">&lt;PubMedPubDate PubStatus=&quot;pubmed&quot;&gt;</s>
+                <s id="368">&lt;Year&gt;2017&lt;/Year&gt;</s>
+                <s id="369">&lt;Month&gt;5&lt;/Month&gt;</s>
+                <s id="370">&lt;Day&gt;5&lt;/Day&gt;</s>
+                <s id="371">&lt;Hour&gt;6&lt;/Hour&gt;</s>
+                <s id="372">&lt;Minute&gt;0&lt;/Minute&gt;</s>
+            <s id="373">&lt;/PubMedPubDate&gt;</s>
+            <s id="374">&lt;PubMedPubDate PubStatus=&quot;medline&quot;&gt;</s>
+                <s id="375">&lt;Year&gt;2017&lt;/Year&gt;</s>
+                <s id="376">&lt;Month&gt;5&lt;/Month&gt;</s>
+                <s id="377">&lt;Day&gt;5&lt;/Day&gt;</s>
+                <s id="378">&lt;Hour&gt;6&lt;/Hour&gt;</s>
+                <s id="379">&lt;Minute&gt;0&lt;/Minute&gt;</s>
+            <s id="380">&lt;/PubMedPubDate&gt;</s>
+        <s id="381">&lt;/History&gt;</s>
+        <s id="382">&lt;PublicationStatus&gt;epublish&lt;/PublicationStatus&gt;</s>
+        <s id="383">&lt;ArticleIdList&gt;</s>
+            <s id="384">&lt;ArticleId IdType=&quot;pubmed&quot;&gt;28469544&lt;/ArticleId&gt;</s>
+            <s id="385">&lt;ArticleId IdType=&quot;doi&quot;&gt;10.1080/16546628.2017.1304678&lt;/ArticleId&gt;</s>
+            <s id="386">&lt;ArticleId IdType=&quot;pii&quot;&gt;1304678&lt;/ArticleId&gt;</s>
+            <s id="387">&lt;ArticleId IdType=&quot;<e id="UMLS:C1868617:T047:DISO">pmc</e>&quot;&gt;PMC5404425&lt;/ArticleId&gt;</s>
+        <s id="388">&lt;/ArticleIdList&gt;</s>
+    <s id="389">&lt;/PubmedData&gt;</s>
+<s id="390">&lt;/PubmedArticle&gt;</s>
+
+<s id="391">&lt;/PubmedArticleSet&gt;</s></sentences>

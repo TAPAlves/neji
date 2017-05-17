@@ -1,0 +1,23 @@
+T0	DISO 46 52	asthma
+N0	Reference T0 UMLS:C0004096:T047:DISO	asthma
+T1	DISO 104 107	ICS
+N1	Reference T1 UMLS:C0022521:T047:DISO	ICS
+T2	PRGE 104 107	ICS
+N2	Reference T2 UNIPROT:Q9UI46:T116:PRGE	ICS
+T3	DISO 174 180	asthma
+N3	Reference T3 UMLS:C0004096:T047:DISO	asthma
+T4	PRGE 226 282	rs1876828 in corticotrophin releasing hormone receptor 1
+N4	Reference T4 UNIPROT:P63132:T116:PRGE	rs1876828 in corticotrophin releasing hormone receptor 1
+N5	Reference T4 UNIPROT:P63135:T116:PRGE	rs1876828 in corticotrophin releasing hormone receptor 1
+N6	Reference T4 UNIPROT:Q9BXR3:T116:PRGE	rs1876828 in corticotrophin releasing hormone receptor 1
+N7	Reference T4 UNIPROT:Q9UQG0:T116:PRGE	rs1876828 in corticotrophin releasing hormone receptor 1
+N8	Reference T4 UNIPROT:P10266:T116:PRGE	rs1876828 in corticotrophin releasing hormone receptor 1
+N9	Reference T4 UNIPROT:Q9WJR5:T116:PRGE	rs1876828 in corticotrophin releasing hormone receptor 1
+N10	Reference T4 UNIPROT:P63133:T116:PRGE	rs1876828 in corticotrophin releasing hormone receptor 1
+N11	Reference T4 UNIPROT:P63136:T116:PRGE	rs1876828 in corticotrophin releasing hormone receptor 1
+T5	DISO 422 432	asthmatics
+N12	Reference T5 UMLS:C0004096:T047:DISO	asthmatics
+T6	DISO 447 450	ICS
+N13	Reference T6 UMLS:C0022521:T047:DISO	ICS
+T7	ANAT 459 463	lung
+N14	Reference T7 UMLS:C0024109:T023:ANAT	lung
